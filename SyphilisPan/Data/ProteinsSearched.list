@@ -1,0 +1,1022 @@
+ProteinID	Name	Organism
+WP_010881569	MULTISPECIES: methionine ABC transporter ATP-binding protein [Treponema]	Treponema
+WP_120204809	ATP-grasp domain-containing protein [Actinomyces lilanjuaniae]	Actinomyces lilanjuaniae
+WP_010881925	MULTISPECIES: acetate kinase [Treponema]	Treponema
+WP_013968861	acyl carrier protein [Gracilinema caldarium]	Gracilinema caldarium
+WP_016525189	holo-ACP synthase [Treponema maltophilum]	Treponema maltophilum
+WP_037548123	efflux RND transporter periplasmic adaptor subunit [Spirochaeta lutea]	Spirochaeta lutea
+WP_334168343	methylated-DNA--[protein]-cysteine S-methyltransferase [Phocaeicola paurosaccharolyticus]	Phocaeicola paurosaccharolyticus
+WP_116496893	adenosine deaminase [Balneicella halophila]	Balneicella halophila
+WP_014342501	DUF2147 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_010882378	alpha/beta hydrolase [Treponema pallidum]	Treponema pallidum
+WP_010881958	MULTISPECIES: redoxin domain-containing protein [Treponema]	Treponema
+WP_012642115	alanine--tRNA ligase [Thermomicrobium roseum]	Thermomicrobium roseum
+WP_158908602	helix-turn-helix domain-containing protein, partial [Rectinema subterraneum]	Rectinema subterraneum
+WP_012460586	alanine racemase [Treponema pallidum]	Treponema pallidum
+WP_235214099	sodium:alanine symporter family protein [Treponema pallidum]	Treponema pallidum
+WP_014505437	N-acetylmuramoyl-L-alanine amidase [Treponema pallidum]	Treponema pallidum
+WP_169720465	ankyrin repeat domain-containing protein [Treponema lecithinolyticum]	Treponema lecithinolyticum
+WP_014342584	FAD:protein FMN transferase [Treponema pallidum]	Treponema pallidum
+WP_338393049	adenine phosphoribosyltransferase [Fulvitalea axinellae]	Fulvitalea axinellae
+WP_148879261	arginine--tRNA ligase [Treponema phagedenis]	Treponema phagedenis
+WP_014342483	aspartate--ammonia ligase [Treponema pallidum]	Treponema pallidum
+WP_010882055	MULTISPECIES: asparagine--tRNA ligase [Treponema]	Treponema
+WP_014342329	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Treponema pallidum]	Treponema pallidum
+WP_196799913	aspartate--tRNA ligase [Treponema vincentii]	Treponema vincentii
+WP_010881968	MULTISPECIES: sigma-54 dependent transcriptional regulator [Treponema]	Treponema
+WP_020965571	V-type ATP synthase subunit A [Treponema pedis]	Treponema pedis
+WP_024753340	V-type ATP synthase subunit A [Treponema phagedenis]	Treponema phagedenis
+WP_010881875	V-type ATP synthase subunit B [Treponema pallidum]	Treponema pallidum
+WP_010881976	MULTISPECIES: V-type ATP synthase subunit B [Treponema]	Treponema
+WP_146366609	V-type ATP synthase subunit D [Qingshengfaniella alkalisoli]	Qingshengfaniella alkalisoli
+WP_158908544	V-type ATP synthase subunit D [Rectinema subterraneum]	Rectinema subterraneum
+WP_100424281	V-type ATP synthase subunit I [Hallerella succinigenes]	Hallerella succinigenes
+WP_024751991	outer membrane protein assembly factor BamA [Treponema phagedenis]	Treponema phagedenis
+WP_338113409	outer membrane protein assembly factor BamD [Treponema putidum]	Treponema putidum
+WP_014801836	tetratricopeptide repeat protein [Turneriella parva]	Turneriella parva
+WP_013944811	MULTISPECIES: BCCT family transporter [Treponema]	Treponema
+WP_258927700	biotin transporter BioY [Desulfoferrobacter suflitae]	Desulfoferrobacter suflitae
+WP_040627533	biotin--[acetyl-CoA-carboxylase] ligase [Mucilaginibacter paludis]	Mucilaginibacter paludis
+WP_014342347	branched-chain amino acid transport system II carrier protein [Treponema pallidum]	Treponema pallidum
+WP_195172090	MFS transporter [Phototrophicus methaneseepsis]	Phototrophicus methaneseepsis
+WP_154425392	CarD family transcriptional regulator [Bullifex porci]	Bullifex porci
+WP_013944908	CbiQ family ECF transporter T component [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_018525296	J domain-containing protein [Alkalispirochaeta alkalica]	Alkalispirochaeta alkalica
+WP_015710435	cytochrome c biogenesis CcdA family protein [Leadbettera azotonutricia]	Leadbettera azotonutricia
+WP_044977981	polymer-forming cytoskeletal protein [Treponema putidum]	Treponema putidum
+WP_148889708	1-deoxy-D-xylulose-5-phosphate synthase [Treponema phagedenis]	Treponema phagedenis
+WP_226285556	phosphatidate cytidylyltransferase [Borrelia hermsii]	Borrelia hermsii
+WP_002672116	MULTISPECIES: cytoplasmic filament protein CfpA [Treponema]	Treponema
+WP_010882187	Obg family GTPase CgtA [Treponema pallidum]	Treponema pallidum
+WP_011640297	chemotaxis protein CheA [Syntrophomonas wolfei]	Syntrophomonas wolfei
+WP_013945252	chemotaxis response regulator protein-glutamate methylesterase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_012460582	protein-glutamate O-methyltransferase CheR [Treponema pallidum]	Treponema pallidum
+WP_216508844	chemotaxis protein CheW [Geomonas azotofigens]	Geomonas azotofigens
+WP_062194951	chemotaxis protein CheX [Anaerolinea thermolimosa]	Anaerolinea thermolimosa
+WP_068139645	response regulator [Limnochorda pilosa]	Limnochorda pilosa
+WP_338368809	chromate transporter [Treponema bryantii]	Treponema bryantii
+WP_024753077	ATP-dependent Clp protease ATP-binding subunit [Treponema phagedenis]	Treponema phagedenis
+WP_068542891	ATP-dependent chaperone ClpB [Thermodesulfatator autotrophicus]	Thermodesulfatator autotrophicus
+WP_010881956	ATP-dependent Clp protease proteolytic subunit [Treponema pallidum]	Treponema pallidum
+WP_014342706	ATP-dependent Clp protease proteolytic subunit [Treponema pallidum]	Treponema pallidum
+WP_010881957	ATP-dependent Clp protease ATP-binding subunit ClpX [Treponema pallidum]	Treponema pallidum
+WP_158997068	(d)CMP kinase [Pigmentibacter ruber]	Pigmentibacter ruber
+WP_010881732	pantetheine-phosphate adenylyltransferase [Treponema pallidum]	Treponema pallidum
+WP_024266664	dephospho-CoA kinase [Salinispira pacifica]	Salinispira pacifica
+WP_010881879	type III pantothenate kinase [Treponema pallidum]	Treponema pallidum
+WP_010881739	HAD family hydrolase [Treponema pallidum]	Treponema pallidum
+WP_010881723	cytidine/deoxycytidylate deaminase family protein [Treponema pallidum]	Treponema pallidum
+WP_215625341	ComEC/Rec2 family competence protein [Breznakiella homolactica]	Breznakiella homolactica
+WP_191016492	ComF family protein [Treponema zioleckii]	Treponema zioleckii
+WP_025820546	xanthine dehydrogenase family protein molybdopterin-binding subunit [Shewanella marina]	Shewanella marina
+WP_010881527	MULTISPECIES: DegT/DnrJ/EryC1/StrS family aminotransferase [Treponema]	Treponema
+WP_301395435	LCP family protein [Borreliella lusitaniae]	Borreliella lusitaniae
+WP_137999003	Crp/Fnr family transcriptional regulator [Brachyspira catarrhinii]	Brachyspira catarrhinii
+WP_010882060	cysteine desulfurase [Treponema pallidum]	Treponema pallidum
+WP_006188992	MULTISPECIES: carbon storage regulator CsrA [Treponema]	Treponema
+WP_014505444	S41 family peptidase [Treponema pallidum]	Treponema pallidum
+WP_024267393	xanthine dehydrogenase family protein subunit M [Salinispira pacifica]	Salinispira pacifica
+WP_062264215	xanthine dehydrogenase small subunit [Endozoicomonas arenosclerae]	Endozoicomonas arenosclerae
+WP_044979010	CvpA family protein [Treponema putidum]	Treponema putidum
+WP_027369289	insulinase family protein [Desulfovermiculus halophilus]	Desulfovermiculus halophilus
+WP_010881540	cysteine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_237260058	D-alanyl-D-alanine carboxypeptidase family protein [Treponema pallidum]	Treponema pallidum
+WP_010882255	DNA adenine methylase [Treponema pallidum]	Treponema pallidum
+WP_157703040	DbpA RNA binding domain-containing protein [Alkalispirochaeta alkalica]	Alkalispirochaeta alkalica
+WP_148889302	DEAD/DEAH box helicase [Treponema phagedenis]	Treponema phagedenis
+WP_141350075	TRAP transporter substrate-binding protein DctP [Zoogloea ramigera]	Zoogloea ramigera
+WP_014342665	TRAP transporter large permease subunit [Treponema pallidum]	Treponema pallidum
+WP_255187668	DedA family protein [Methylomonas rapida]	Methylomonas rapida
+WP_010882202	MULTISPECIES: peptide deformylase [Treponema]	Treponema
+WP_014342606	Do family serine endopeptidase [Treponema pallidum]	Treponema pallidum
+WP_010881713	deoxyribose-phosphate aldolase [Treponema pallidum]	Treponema pallidum
+WP_010882179	purine-nucleoside phosphorylase [Treponema pallidum]	Treponema pallidum
+WP_010882134	ribosome biogenesis GTPase Der [Treponema pallidum]	Treponema pallidum
+WP_015955649	diguanylate cyclase domain-containing protein [Gloeothece citriformis]	Gloeothece citriformis
+WP_117330440	TraR/DksA C4-type zinc finger protein [Sphaerochaeta halotolerans]	Sphaerochaeta halotolerans
+WP_108106922	hypothetical protein [Pseudomonas mangrovi]	Pseudomonas mangrovi
+WP_010881451	chromosomal replication initiator protein DnaA [Treponema pallidum]	Treponema pallidum
+WP_010881507	replicative DNA helicase [Treponema pallidum]	Treponema pallidum
+WP_013700728	DNA polymerase III subunit alpha [Treponema succinifaciens]	Treponema succinifaciens
+WP_044634451	DNA primase [Treponema phagedenis]	Treponema phagedenis
+WP_013457956	molecular chaperone DnaJ [Oceanithermus profundus]	Oceanithermus profundus
+WP_148879667	molecular chaperone DnaK [Treponema phagedenis]	Treponema phagedenis
+WP_010881452	DNA polymerase III subunit beta [Treponema pallidum]	Treponema pallidum
+WP_010882088	exonuclease domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_044634694	DNA polymerase III subunit gamma/tau [Treponema phagedenis]	Treponema phagedenis
+WP_010881841	DNA-processing protein DprA [Treponema pallidum]	Treponema pallidum
+WP_118760287	MULTISPECIES: RNA polymerase sigma factor RpoD [Butyricicoccus]	Butyricicoccus
+WP_010882424	tRNA dihydrouridine synthase DusB [Treponema pallidum]	Treponema pallidum
+WP_010882328	MULTISPECIES: dUTP diphosphatase [Treponema]	Treponema
+WP_013945233	MULTISPECIES: 1-deoxy-D-xylulose-5-phosphate reductoisomerase [Treponema]	Treponema
+WP_148889708	1-deoxy-D-xylulose-5-phosphate synthase [Treponema phagedenis]	Treponema phagedenis
+WP_013944909	energy-coupling factor ABC transporter ATP-binding protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_163179575	calcium/sodium antiporter [Bacillus mesophilus]	Bacillus mesophilus
+WP_010882015	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase [Treponema pallidum]	Treponema pallidum
+WP_010881973	elongation factor P [Treponema pallidum]	Treponema pallidum
+WP_010882261	MULTISPECIES: phosphopyruvate hydratase [Treponema]	Treponema
+WP_010882484	EF-P lysine aminoacylase GenX [Treponema pallidum]	Treponema pallidum
+WP_172841371	KamA family radical SAM protein [Treponema pallidum]	Treponema pallidum
+WP_173013245	CDP-alcohol phosphatidyltransferase family protein [Candidatus Uabimicrobium amorphum]	Candidatus Uabimicrobium amorphum
+WP_014342470	GTPase Era [Treponema pallidum]	Treponema pallidum
+WP_148889261	long-chain fatty acid--CoA ligase [Treponema phagedenis]	Treponema phagedenis
+WP_010882364	H2O-forming NADH oxidase [Treponema pallidum]	Treponema pallidum
+WP_016521914	thioesterase family protein [Treponema socranskii]	Treponema socranskii
+WP_024752872	FapA family protein [Treponema phagedenis]	Treponema phagedenis
+WP_044634881	5-formyltetrahydrofolate cyclo-ligase [Treponema phagedenis]	Treponema phagedenis
+WP_010882107	class II fructose-bisphosphate aldolase [Treponema pallidum]	Treponema pallidum
+WP_135618057	FecR domain-containing protein [Leptospira kemamanensis]	Leptospira kemamanensis
+WP_014342415	signal recognition particle protein [Treponema pallidum]	Treponema pallidum
+WP_014342260	sigma-54-dependent Fis family transcriptional regulator [Treponema pallidum]	Treponema pallidum
+WP_038375260	periplasmic flagellar collar protein FlcA, partial [Brachyspira alvinipulli]	Brachyspira alvinipulli
+WP_010882306	FKBP-type peptidyl-prolyl cis-trans isomerase [Treponema pallidum]	Treponema pallidum
+WP_271434484	flagellar filament outer layer protein FlaA [Thermospira aquatica]	Thermospira aquatica
+WP_013944786	nucleoside-diphosphate sugar epimerase/dehydratase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882311	MULTISPECIES: flagellin [Treponema]	Treponema
+WP_010882237	MULTISPECIES: flagellin [Treponema]	Treponema
+WP_010882313	flagellin [Treponema pallidum]	Treponema pallidum
+WP_040661707	flavodoxin [Oscillibacter ruminantium]	Oscillibacter ruminantium
+WP_024267499	flagellar basal body rod protein FlgB [Salinispira pacifica]	Salinispira pacifica
+WP_013945054	MULTISPECIES: flagellar basal body rod protein FlgC [Treponema]	Treponema
+WP_238777599	MULTISPECIES: flagellar hook capping FlgD N-terminal domain-containing protein [Leptospira]	Leptospira
+WP_010882172	flagellar hook protein FlgE [Treponema pallidum]	Treponema pallidum
+WP_010882405	flagellar basal-body rod protein FlgF [Treponema pallidum]	Treponema pallidum
+WP_010882404	MULTISPECIES: flagellar basal-body rod protein FlgG [Treponema]	Treponema
+WP_002698987	rod-binding protein [Treponema phagedenis]	Treponema phagedenis
+WP_024752576	flagellar hook-associated protein FlgK [Treponema phagedenis]	Treponema phagedenis
+WP_155449302	flagellar hook-associated protein FlgL [Allochromatium palmeri]	Allochromatium palmeri
+WP_184310949	flagellar assembly protein FliW [Anaerosolibacter carboniphilus]	Anaerosolibacter carboniphilus
+WP_024751829	flagellar biosynthesis anti-sigma factor FlgM [Treponema phagedenis]	Treponema phagedenis
+WP_024752694	flagellar biosynthesis protein FlhA [Treponema phagedenis]	Treponema phagedenis
+WP_013945319	MULTISPECIES: flagellar biosynthesis protein FlhB [Treponema]	Treponema
+WP_002697905	EscU/YscU/HrcU family type III secretion system export apparatus switch protein [Treponema phagedenis]	Treponema phagedenis
+WP_010882158	flagellar biosynthesis protein FlhF [Treponema pallidum]	Treponema pallidum
+WP_010882157	MULTISPECIES: MinD/ParA family protein [Treponema]	Treponema
+WP_159428160	flagellar filament capping protein FliD [Brevinema andersonii]	Brevinema andersonii
+WP_010881848	flagellar motor switch protein FliG [Treponema pallidum]	Treponema pallidum
+WP_338535018	FliH/SctL family protein [Helicovermis profundi]	Helicovermis profundi
+WP_010881850	flagellar protein export ATPase FliI [Treponema pallidum]	Treponema pallidum
+WP_010881851	MULTISPECIES: flagellar export protein FliJ [Treponema]	Treponema
+WP_016523498	flagellar hook-length control protein FliK [Treponema medium]	Treponema medium
+WP_215625556	flagellar basal body-associated FliL family protein [Breznakiella homolactica]	Breznakiella homolactica
+WP_012460587	flagellar motor switch protein FliM [Treponema pallidum]	Treponema pallidum
+WP_246434071	flagellar motor switch protein FliN [Spirochaeta isovalerica]	Spirochaeta isovalerica
+WP_013945322	flagellar type III secretion system pore protein FliP [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882163	flagellar type III secretion system pore protein FliP [Treponema pallidum]	Treponema pallidum
+WP_147560279	flagellar biosynthetic protein FliR [Brachyspira aalborgi]	Brachyspira aalborgi
+WP_147560279	flagellar biosynthetic protein FliR [Brachyspira aalborgi]	Brachyspira aalborgi
+WP_078933130	flagellar export chaperone FliS [Treponema porcinum]	Treponema porcinum
+WP_112430525	peptidoglycan bridge formation glycyltransferase FemA/FemB family protein [Thermogemmatispora tikiterensis]	Thermogemmatispora tikiterensis
+WP_010882201	methionyl-tRNA formyltransferase [Treponema pallidum]	Treponema pallidum
+WP_010881788	folylpolyglutamate synthase/dihydrofolate synthase family protein [Treponema pallidum]	Treponema pallidum
+WP_010882177	bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase [Treponema pallidum]	Treponema pallidum
+WP_010882050	MULTISPECIES: ribosome recycling factor [Treponema]	Treponema
+WP_013945531	FTR1 family protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_012460545	cell division protein FtsA [Treponema pallidum]	Treponema pallidum
+WP_255819248	septum formation initiator family protein [Treponema putidum]	Treponema putidum
+WP_024753613	ATP-dependent zinc metalloprotease FtsH [Treponema phagedenis]	Treponema phagedenis
+WP_162147457	penicillin-binding protein [Treponema phagedenis]	Treponema phagedenis
+WP_244870164	DNA translocase FtsK [Treponema vincentii]	Treponema vincentii
+WP_006189855	cell division protein FtsL [Treponema vincentii]	Treponema vincentii
+WP_021686788	SPOR domain-containing protein [Treponema lecithinolyticum]	Treponema lecithinolyticum
+WP_158084296	cell division protein FtsQ/DivIB [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_012460544	putative lipid II flippase FtsW [Treponema pallidum]	Treponema pallidum
+WP_010882024	MULTISPECIES: signal recognition particle-docking protein FtsY [Treponema]	Treponema
+WP_010881838	MULTISPECIES: cell division protein FtsZ [Treponema]	Treponema
+WP_184124033	elongation factor G [Borreliella californiensis]	Borreliella californiensis
+WP_010881866	galactokinase [Treponema pallidum]	Treponema pallidum
+WP_010882288	type I glyceraldehyde-3-phosphate dehydrogenase [Treponema pallidum]	Treponema pallidum
+WP_014342695	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA [Treponema pallidum]	Treponema pallidum
+WP_024753130	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB [Treponema phagedenis]	Treponema phagedenis
+WP_016524887	aspartyl/glutamyl-tRNA amidotransferase subunit C [Treponema maltophilum]	Treponema maltophilum
+WP_271436085	GerMN domain-containing protein [Thermospira aquatica]	Thermospira aquatica
+WP_099222949	extracellular electron transfer flavoprotein PplA [Listeria costaricensis]	Listeria costaricensis
+WP_237250300	GldG family protein [Treponema pallidum]	Treponema pallidum
+WP_045084619	glutamine--fructose-6-phosphate transaminase (isomerizing) [Photobacterium angustum]	Photobacterium angustum
+WP_284349959	rhomboid family intramembrane serine protease [Roseisolibacter agri]	Roseisolibacter agri
+WP_235214078	glycerophosphodiester phosphodiesterase [Treponema pallidum]	Treponema pallidum
+WP_041610002	NADPH-dependent glutamate synthase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014342482	dicarboxylate/amino acid:cation symporter [Treponema pallidum]	Treponema pallidum
+WP_016518723	glutamate--tRNA ligase [Treponema vincentii]	Treponema vincentii
+WP_010882117	glycine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_010881779	decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase [Treponema pallidum]	Treponema pallidum
+WP_014342481	HAD family hydrolase [Treponema pallidum]	Treponema pallidum
+WP_010881615	MULTISPECIES: 2,3-diphosphoglycerate-dependent phosphoglycerate mutase [Treponema]	Treponema
+WP_010882453	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase [Treponema pallidum]	Treponema pallidum
+WP_109328856	transcription elongation factor GreA [Azospirillum thermophilum]	Azospirillum thermophilum
+WP_191016023	co-chaperone GroES [Treponema zioleckii]	Treponema zioleckii
+WP_010881479	chaperonin GroEL [Treponema pallidum]	Treponema pallidum
+WP_184651638	hypothetical protein [Treponema rectale]	Treponema rectale
+WP_237249927	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_052318095	hypothetical protein [Spirochaeta africana]	Spirochaeta africana
+WP_218914975	ankyrin repeat domain-containing protein [Wolbachia endosymbiont of Nomada ferruginata]	Wolbachia endosymbiont of Nomada ferruginata
+WP_011588816	MULTISPECIES: RND family transporter [Alcanivorax]	Alcanivorax
+WP_147615924	PTS lactose/cellobiose transporter subunit IIA [Treponema pectinovorum]	Treponema pectinovorum
+WP_025408247	DUF192 domain-containing protein [Borrelia coriaceae]	Borrelia coriaceae
+WP_078933145	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_002695603	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_037547655	STAS domain-containing protein [Spirochaeta lutea]	Spirochaeta lutea
+WP_024753593	zinc ribbon domain-containing protein [Treponema phagedenis]	Treponema phagedenis
+WP_092318848	hypothetical protein [Brevinema andersonii]	Brevinema andersonii
+WP_147613314	hypothetical protein [Treponema pectinovorum]	Treponema pectinovorum
+WP_002700190	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_016522898	TP0733 family outer membrane beta-barrel protein [Treponema medium]	Treponema medium
+WP_148889801	ATP-dependent helicase [Treponema phagedenis]	Treponema phagedenis
+WP_024752405	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_255947037	hypothetical protein [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_167700189	6-hydroxymethylpterin diphosphokinase MptE-like protein [Entomospira entomophila]	Entomospira entomophila
+WP_010881939	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_175607978	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_013945021	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_002698838	1,4-alpha-glucan branching protein domain-containing protein [Treponema phagedenis]	Treponema phagedenis
+WP_052812608	VWA domain-containing protein [Treponema phagedenis]	Treponema phagedenis
+WP_147614735	hypothetical protein [Treponema pectinovorum]	Treponema pectinovorum
+WP_240746376	hypothetical protein [Desulfuromonas acetexigens]	Desulfuromonas acetexigens
+WP_010882155	FapA family protein [Treponema pallidum]	Treponema pallidum
+WP_083048469	VWA domain-containing protein [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_078933931	SPOR domain-containing protein [Treponema porcinum]	Treponema porcinum
+WP_170317462	motility associated factor glycosyltransferase family protein [Leptospira borgpetersenii]	Leptospira borgpetersenii
+WP_245523401	hypothetical protein [Spirochaeta thermophila]	Spirochaeta thermophila
+WP_013758645	hypothetical protein [Treponema brennaborense]	Treponema brennaborense
+WP_013700615	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_013944824	KamA family radical SAM protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_230755504	hypothetical protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_255947142	hypothetical protein [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_052078301	UPF0164 family protein [Spirochaeta lutea]	Spirochaeta lutea
+WP_044977947	CDP-alcohol phosphatidyltransferase family protein [Treponema putidum]	Treponema putidum
+WP_037562470	cation:dicarboxylate symporter family transporter [Olavius algarvensis spirochete endosymbiont]	Olavius algarvensis spirochete endosymbiont
+WP_331488646	ComEC/Rec2 family competence protein [Treponema pallidum]	Treponema pallidum
+WP_149569424	hypothetical protein [Thiospirochaeta perfilievii]	Thiospirochaeta perfilievii
+WP_010882026	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_010882027	ABC transporter ATP-binding protein [Treponema pallidum]	Treponema pallidum
+WP_016522898	TP0733 family outer membrane beta-barrel protein [Treponema medium]	Treponema medium
+WP_014271174	PD-(D/E)XK nuclease family protein [Sphaerochaeta pleomorpha]	Sphaerochaeta pleomorpha
+WP_215625388	CpXC domain-containing protein [Breznakiella homolactica]	Breznakiella homolactica
+WP_012460608	dienelactone hydrolase family protein [Treponema pallidum]	Treponema pallidum
+WP_148878520	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_072536830	DUF3798 domain-containing protein [Anaerococcus mediterraneensis]	Anaerococcus mediterraneensis
+WP_188039275	hexokinase [Heliobacterium chlorum]	Heliobacterium chlorum
+WP_013758244	hypothetical protein [Treponema brennaborense]	Treponema brennaborense
+WP_145384774	1-acyl-sn-glycerol-3-phosphate acyltransferase [Stieleria neptunia]	Stieleria neptunia
+WP_024753269	M48 family metallopeptidase [Treponema phagedenis]	Treponema phagedenis
+WP_119587977	M23 family metallopeptidase [Aurantiacibacter zhengii]	Aurantiacibacter zhengii
+WP_232502066	GerMN domain-containing protein [Treponema vincentii]	Treponema vincentii
+WP_014342645	PEGA domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_024753425	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_147615627	ATP synthase subunit C [Treponema pectinovorum]	Treponema pectinovorum
+WP_010882121	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_108974809	hypothetical protein [Leptospira ryugenii]	Leptospira ryugenii
+WP_014342662	TraB/GumN family protein [Treponema pallidum]	Treponema pallidum
+WP_184742803	flagellar filament outer layer protein FlaA [Spirochaeta isovalerica]	Spirochaeta isovalerica
+WP_114295984	hypothetical protein [Anaerobacterium chartisolvens]	Anaerobacterium chartisolvens
+WP_078931190	TIGR03546 family protein [Treponema berlinense]	Treponema berlinense
+WP_017549058	MULTISPECIES: thioredoxin [Salinicoccus]	Salinicoccus
+WP_020965236	hypothetical protein [Treponema pedis]	Treponema pedis
+WP_230754374	thioredoxin family protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_016518350	hypothetical protein [Treponema vincentii]	Treponema vincentii
+WP_191017516	hypothetical protein [Treponema zioleckii]	Treponema zioleckii
+WP_010882444	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_245537748	hypothetical protein [Sediminispirochaeta smaragdinae]	Sediminispirochaeta smaragdinae
+WP_010881905	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_073004115	transcriptional regulator [Clostridium amylolyticum]	Clostridium amylolyticum
+WP_255805883	single-stranded DNA-binding protein [Treponema putidum]	Treponema putidum
+WP_148889717	MSP porin [Treponema phagedenis]	Treponema phagedenis
+WP_091547308	leucine-rich repeat protein [Alkaliphilus peptidifermentans]	Alkaliphilus peptidifermentans
+WP_317896971	PP2C family protein-serine/threonine phosphatase [Aurantibacillus circumpalustris]	Aurantibacillus circumpalustris
+WP_037544769	hypothetical protein [Spirochaeta lutea]	Spirochaeta lutea
+WP_024465991	hypothetical protein [Treponema pedis]	Treponema pedis
+WP_024753393	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_013702640	tetratricopeptide repeat protein [Treponema succinifaciens]	Treponema succinifaciens
+WP_024267594	HEAT repeat domain-containing protein [Salinispira pacifica]	Salinispira pacifica
+WP_024752591	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_335771818	methyl-accepting chemotaxis protein [Brachyspira pulli]	Brachyspira pulli
+WP_013945125	DUF2715 domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_172841371	KamA family radical SAM protein [Treponema pallidum]	Treponema pallidum
+WP_163464647	M15 family metallopeptidase [Jiella pacifica]	Jiella pacifica
+WP_002696427	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_002697912	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_010882192	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_014342487	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_010881879	type III pantothenate kinase [Treponema pallidum]	Treponema pallidum
+WP_255947597	M48 family metallopeptidase [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_014342669	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_147615921	DUF4912 domain-containing protein [Treponema pectinovorum]	Treponema pectinovorum
+WP_149568673	hypothetical protein [Thiospirochaeta perfilievii]	Thiospirochaeta perfilievii
+WP_230755353	DnaJ family molecular chaperone [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_016670472	hypothetical protein [Treponema medium]	Treponema medium
+WP_271436046	M48 family metallopeptidase [Thermospira aquatica]	Thermospira aquatica
+WP_014342381	DUF2715 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_135775374	P83/100 family protein [Leptospira andrefontaineae]	Leptospira andrefontaineae
+WP_021687802	methyl-accepting chemotaxis protein [Treponema lecithinolyticum]	Treponema lecithinolyticum
+WP_014342326	molecular chaperone DnaJ [Treponema pallidum]	Treponema pallidum
+WP_024752872	FapA family protein [Treponema phagedenis]	Treponema phagedenis
+WP_006188270	hypothetical protein [Treponema vincentii]	Treponema vincentii
+WP_252742617	iron ABC transporter permease [Thermococcus alcaliphilus]	Thermococcus alcaliphilus
+WP_024752609	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_016522473	transcription-repair coupling factor [Treponema medium]	Treponema medium
+WP_253726801	hypothetical protein [Treponema socranskii]	Treponema socranskii
+WP_016523363	trypsin-like peptidase domain-containing protein [Treponema medium]	Treponema medium
+WP_013700632	6-hydroxymethylpterin diphosphokinase MptE-like protein [Treponema succinifaciens]	Treponema succinifaciens
+WP_148879915	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_020989220	SpoIIE family protein phosphatase [Leptospira inadai]	Leptospira inadai
+WP_282011469	P-loop NTPase [Nitrospina watsonii]	Nitrospina watsonii
+WP_149487012	hypothetical protein [Oceanispirochaeta crateris]	Oceanispirochaeta crateris
+WP_230752223	PQQ-like beta-propeller repeat protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_006188849	MSP porin [Treponema vincentii]	Treponema vincentii
+WP_014342667	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_010882406	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_138431299	STAS domain-containing protein [Fodinibius saliphilus]	Fodinibius saliphilus
+WP_147612622	nitrogen regulation protein NR(II) [Treponema pectinovorum]	Treponema pectinovorum
+WP_024752875	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_024752880	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_020964152	UPF0164 family protein [Treponema pedis]	Treponema pedis
+WP_184652008	hypothetical protein [Treponema rectale]	Treponema rectale
+WP_103679124	cyclic nucleotide-binding domain-containing protein [Alkalispirochaeta sphaeroplastigenens]	Alkalispirochaeta sphaeroplastigenens
+WP_024753212	elongation factor G [Treponema phagedenis]	Treponema phagedenis
+WP_016522846	InlB B-repeat-containing protein [Treponema medium]	Treponema medium
+WP_218321579	ATP-binding protein [Clostridium thailandense]	Clostridium thailandense
+WP_237260093	fibronectin type III domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_016523564	hypothetical protein [Treponema medium]	Treponema medium
+WP_167700216	chemotaxis protein CheW [Entomospira entomophila]	Entomospira entomophila
+WP_020966273	hypothetical protein [Treponema pedis]	Treponema pedis
+WP_145475157	nitrogen regulation protein NR(II) [Treponema putidum]	Treponema putidum
+WP_149487087	TIGR03545 family protein [Oceanispirochaeta crateris]	Oceanispirochaeta crateris
+WP_255947408	PQQ-binding-like beta-propeller repeat protein [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_014342689	sodium:alanine symporter family protein [Treponema pallidum]	Treponema pallidum
+WP_106523123	DUF1361 domain-containing protein [Taibaiella chishuiensis]	Taibaiella chishuiensis
+WP_044635007	DUF4954 family protein [Treponema phagedenis]	Treponema phagedenis
+WP_305953304	M23 family metallopeptidase [Emticicia oligotrophica]	Emticicia oligotrophica
+WP_013944942	tetratricopeptide repeat protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010881638	MULTISPECIES: 50S ribosomal protein L23 [Treponema]	Treponema
+WP_044978638	PUR family DNA/RNA-binding protein [Treponema putidum]	Treponema putidum
+WP_002700121	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_121793575	TatD family hydrolase [Aeromicrobium phragmitis]	Aeromicrobium phragmitis
+WP_013255417	tetratricopeptide repeat protein [Sediminispirochaeta smaragdinae]	Sediminispirochaeta smaragdinae
+WP_058353516	FMN-binding protein [Acetivibrio ethanolgignens]	Acetivibrio ethanolgignens
+WP_151551266	MULTISPECIES: lipopolysaccharide assembly protein LapB [Borrelia]	Borrelia
+WP_002695043	phospho-sugar mutase [Treponema phagedenis]	Treponema phagedenis
+WP_013968744	ABC transporter permease subunit [Gracilinema caldarium]	Gracilinema caldarium
+WP_037546118	RsmE family RNA methyltransferase [Spirochaeta lutea]	Spirochaeta lutea
+WP_015706467	GNAT family N-acetyltransferase [Treponema primitia]	Treponema primitia
+WP_013944977	DUF368 domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_169144449	RluA family pseudouridine synthase [Zoogloea dura]	Zoogloea dura
+WP_014342501	DUF2147 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_014342687	cyclic nucleotide-binding domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_024752104	HD family phosphohydrolase [Treponema phagedenis]	Treponema phagedenis
+WP_010882092	serine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_237249936	Trk system potassium transporter TrkA [Treponema pallidum]	Treponema pallidum
+WP_255948941	hypothetical protein [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_010882042	polynucleotide adenylyltransferase PcnB [Treponema pallidum]	Treponema pallidum
+WP_210120542	UPF0164 family protein [Treponema parvum]	Treponema parvum
+WP_039914462	ATP-dependent helicase [Treponema phagedenis]	Treponema phagedenis
+WP_012460519	DUF2715 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_148889717	MSP porin [Treponema phagedenis]	Treponema phagedenis
+WP_010882097	MULTISPECIES: ABC transporter ATP-binding protein [Treponema]	Treponema
+WP_044979462	hypothetical protein [Treponema putidum]	Treponema putidum
+WP_013945125	DUF2715 domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014271175	exodeoxyribonuclease V subunit beta [Sphaerochaeta pleomorpha]	Sphaerochaeta pleomorpha
+WP_133702420	hemolysin family protein [Roseateles toxinivorans]	Roseateles toxinivorans
+WP_014342615	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_144011660	DUF2715 domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_210120614	chromate transporter [Treponema parvum]	Treponema parvum
+WP_015711815	hypothetical protein [Leadbettera azotonutricia]	Leadbettera azotonutricia
+WP_002681085	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_055193319	penicillin-binding Tp47 domain C-containing protein [Dorea longicatena]	Dorea longicatena
+WP_016525266	hypothetical protein [Treponema maltophilum]	Treponema maltophilum
+WP_006190016	MBL fold hydrolase [Treponema vincentii]	Treponema vincentii
+WP_184748200	tetratricopeptide repeat protein [Spirochaeta isovalerica]	Spirochaeta isovalerica
+WP_167695088	DUF5312 family protein [Entomospira culicis]	Entomospira culicis
+WP_010882248	bifunctional oligoribonuclease/PAP phosphatase NrnA [Treponema pallidum]	Treponema pallidum
+WP_052889492	ATP-binding protein [Thermogemmatispora carboxidivorans]	Thermogemmatispora carboxidivorans
+WP_010881561	C1 family peptidase [Treponema pallidum]	Treponema pallidum
+WP_016522762	DUF721 domain-containing protein [Treponema medium]	Treponema medium
+WP_242992980	MULTISPECIES: DUF3798 domain-containing protein [Dorea]	Dorea
+WP_010882152	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_092317194	flagellar filament outer layer protein FlaA [Brevinema andersonii]	Brevinema andersonii
+WP_156789604	hypothetical protein [Gracilinema caldarium]	Gracilinema caldarium
+WP_010881985	phosphoglycerate kinase [Treponema pallidum]	Treponema pallidum
+WP_014342438	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_014505399	extracellular solute-binding protein [Treponema pallidum]	Treponema pallidum
+WP_044979596	RNA-binding cell elongation regulator Jag/EloR [Treponema putidum]	Treponema putidum
+WP_083052667	hypothetical protein [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_117331404	hypothetical protein [Sphaerochaeta halotolerans]	Sphaerochaeta halotolerans
+WP_020963951	hypothetical protein [Treponema pedis]	Treponema pedis
+WP_013945567	RNA polymerase sigma factor RpoD/SigA [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_013944858	pyrimidine 5'-nucleotidase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_002696938	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_231684404	DUF2225 domain-containing protein [Phosphitispora fastidiosa]	Phosphitispora fastidiosa
+WP_245522172	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_014342237	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_255947128	hypothetical protein [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_103679831	SpiroCoCo family coiled-coil protein [Alkalispirochaeta sphaeroplastigenens]	Alkalispirochaeta sphaeroplastigenens
+WP_024752507	ATP-dependent Clp protease ATP-binding subunit ClpA [Treponema phagedenis]	Treponema phagedenis
+WP_167703404	DUF2259 domain-containing protein [Entomospira nematocerorum]	Entomospira nematocerorum
+WP_010881473	TrkA family potassium uptake protein [Treponema pallidum]	Treponema pallidum
+WP_210118984	M23 family metallopeptidase [Treponema parvum]	Treponema parvum
+WP_220206096	tetratricopeptide repeat protein [Reticulibacter mediterranei]	Reticulibacter mediterranei
+WP_235214062	CNNM domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_013759027	polymer-forming cytoskeletal protein [Treponema brennaborense]	Treponema brennaborense
+WP_010881475	flagellar motor switch protein FliG [Treponema pallidum]	Treponema pallidum
+WP_071140070	MULTISPECIES: glutaredoxin domain-containing protein [Tissierellales]	Tissierellales
+WP_014342235	hemolysin family protein [Treponema pallidum]	Treponema pallidum
+WP_103681283	LptF/LptG family permease [Alkalispirochaeta sphaeroplastigenens]	Alkalispirochaeta sphaeroplastigenens
+WP_020964158	DUF4340 domain-containing protein [Treponema pedis]	Treponema pedis
+WP_012460602	HD-GYP domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_175607978	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_002667812	MULTISPECIES: HD-GYP domain-containing protein [Treponema]	Treponema
+WP_024752040	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_232212692	hypothetical protein [Borrelia recurrentis]	Borrelia recurrentis
+WP_014342438	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_260032508	tetratricopeptide repeat protein [Sphingobacterium daejeonense]	Sphingobacterium daejeonense
+WP_083815490	major outer sheath C-terminal domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010881577	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_014342489	MBOAT family protein [Treponema pallidum]	Treponema pallidum
+WP_200898547	hypothetical protein [Gottschalkia purinilytica]	Gottschalkia purinilytica
+WP_237260071	PTS transporter subunit IIC [Treponema pallidum]	Treponema pallidum
+WP_020964125	hypothetical protein [Treponema pedis]	Treponema pedis
+WP_020964070	hypothetical protein [Treponema pedis]	Treponema pedis
+WP_014342381	DUF2715 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_316255310	HAD family hydrolase [Borreliella andersonii]	Borreliella andersonii
+WP_013944979	DUF2715 domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014342292	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_016523892	SPOR domain-containing protein [Treponema medium]	Treponema medium
+WP_013758029	hypothetical protein [Treponema brennaborense]	Treponema brennaborense
+WP_024266655	helicase-associated domain-containing protein [Salinispira pacifica]	Salinispira pacifica
+WP_024752054	NusG domain II-containing protein [Treponema phagedenis]	Treponema phagedenis
+WP_284673640	MULTISPECIES: DUF302 domain-containing protein [Moraxella]	Moraxella
+WP_016524140	MULTISPECIES: flagellar basal-body rod protein FlgG [Treponema]	Treponema
+WP_020964152	UPF0164 family protein [Treponema pedis]	Treponema pedis
+WP_245537752	signal peptidase I [Sediminispirochaeta smaragdinae]	Sediminispirochaeta smaragdinae
+WP_027701426	DUF3798 domain-containing protein [Metaclostridioides mangenotii]	Metaclostridioides mangenotii
+WP_078930002	hypothetical protein [Treponema berlinense]	Treponema berlinense
+WP_002700913	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_117329408	methionine ABC transporter ATP-binding protein [Sphaerochaeta halotolerans]	Sphaerochaeta halotolerans
+WP_012460519	DUF2715 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_167315811	MSP porin [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882153	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_235214031	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_182600207	excinuclease ABC subunit UvrA [Limosilactobacillus agrestis]	Limosilactobacillus agrestis
+WP_013945238	major outer sheath N-terminal domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_002700190	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_010882317	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_016519506	DNA mismatch repair protein MutS [Treponema vincentii]	Treponema vincentii
+WP_020611091	sugar ABC transporter substrate-binding protein [Sediminispirochaeta bajacaliforniensis]	Sediminispirochaeta bajacaliforniensis
+WP_230755019	radical SAM family heme chaperone HemW [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_258927700	biotin transporter BioY [Desulfoferrobacter suflitae]	Desulfoferrobacter suflitae
+WP_010881750	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_010881879	type III pantothenate kinase [Treponema pallidum]	Treponema pallidum
+WP_010881776	DNA mismatch repair protein MutS [Treponema pallidum]	Treponema pallidum
+WP_010881974	helicase-related protein [Treponema pallidum]	Treponema pallidum
+WP_014342668	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_024752867	WecB/TagA/CpsF family glycosyltransferase [Treponema phagedenis]	Treponema phagedenis
+WP_237249910	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_013758026	ABC transporter permease [Treponema brennaborense]	Treponema brennaborense
+WP_013945196	nickel/cobalt transporter [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_013944986	ABC transporter permease [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_149567501	biotin--[acetyl-CoA-carboxylase] ligase [Thiospirochaeta perfilievii]	Thiospirochaeta perfilievii
+WP_010881897	lipopolysaccharide assembly protein LapB [Treponema pallidum]	Treponema pallidum
+WP_020965660	helix-hairpin-helix domain-containing protein [Treponema pedis]	Treponema pedis
+WP_010882038	M15 family metallopeptidase [Treponema pallidum]	Treponema pallidum
+WP_230752284	tryptophan--tRNA ligase [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_198441978	1-deoxy-D-xylulose-5-phosphate synthase [Treponema peruense]	Treponema peruense
+WP_024751990	DNA mismatch repair protein MutS [Treponema phagedenis]	Treponema phagedenis
+WP_014342303	SLBB domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_014342703	valine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_024751990	DNA mismatch repair protein MutS [Treponema phagedenis]	Treponema phagedenis
+WP_010881607	proline--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_024752546	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_014342495	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_010882048	MULTISPECIES: phosphatidate cytidylyltransferase [Treponema]	Treponema
+WP_010882268	1-deoxy-D-xylulose-5-phosphate synthase [Treponema pallidum]	Treponema pallidum
+WP_013945130	P83/100 family protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014342683	periplasmic flagellar collar protein FlcA [Treponema pallidum]	Treponema pallidum
+WP_167696037	P83/100 family protein [Entomospira culicis]	Entomospira culicis
+WP_020965978	flagellar filament capping protein FliD [Treponema pedis]	Treponema pedis
+WP_014342646	helix-hairpin-helix domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_271434220	flagellar biosynthesis protein FlhB [Thermospira aquatica]	Thermospira aquatica
+WP_237260077	TrkH family potassium uptake protein [Treponema pallidum]	Treponema pallidum
+WP_148879039	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_010882318	MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE [Treponema]	Treponema
+WP_014342438	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_211321981	BMP family protein [Brockia lithotrophica]	Brockia lithotrophica
+WP_013945238	major outer sheath N-terminal domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882283	DUF4097 family beta strand repeat-containing protein [Treponema pallidum]	Treponema pallidum
+WP_013945537	TatD family hydrolase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014342545	DUF2715 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_010881982	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_072716026	NUDIX hydrolase [Rhodothermus profundi]	Rhodothermus profundi
+WP_014342683	periplasmic flagellar collar protein FlcA [Treponema pallidum]	Treponema pallidum
+WP_016523189	hypothetical protein [Treponema medium]	Treponema medium
+WP_002698879	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_014505460	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_024752876	TP0733 family outer membrane beta-barrel protein [Treponema phagedenis]	Treponema phagedenis
+WP_024752042	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_002669683	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_010882405	flagellar basal-body rod protein FlgF [Treponema pallidum]	Treponema pallidum
+WP_107563624	alpha-amylase/4-alpha-glucanotransferase domain-containing protein [Candidatus Methylomirabilis limnetica]	Candidatus Methylomirabilis limnetica
+WP_024752875	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_010882420	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_078932459	MULTISPECIES: GTPase ObgE [Treponema]	Treponema
+WP_083051378	polymer-forming cytoskeletal protein [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_014487519	fibronectin type III domain-containing protein [Brachyspira intermedia]	Brachyspira intermedia
+WP_168203354	6-hydroxymethylpterin diphosphokinase MptE-like protein [Oceanispirochaeta crateris]	Oceanispirochaeta crateris
+WP_016523529	hypothetical protein [Treponema medium]	Treponema medium
+WP_198442670	Gx transporter family protein [Treponema peruense]	Treponema peruense
+WP_230752520	pentapeptide repeat-containing protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_016519499	hypothetical protein [Treponema vincentii]	Treponema vincentii
+WP_016518214	hypothetical protein [Treponema vincentii]	Treponema vincentii
+WP_014342282	DUF2715 domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_152544002	cyclic nucleotide-binding domain-containing protein [Thermoanaerobaculum aquaticum]	Thermoanaerobaculum aquaticum
+WP_024753467	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_020611235	DUF1007 family protein [Sediminispirochaeta bajacaliforniensis]	Sediminispirochaeta bajacaliforniensis
+WP_040236812	hypothetical protein [Borrelia crocidurae]	Borrelia crocidurae
+WP_145475146	hypothetical protein [Treponema putidum]	Treponema putidum
+WP_052812429	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_147615734	hypothetical protein [Treponema pectinovorum]	Treponema pectinovorum
+WP_010882384	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_003415136	MULTISPECIES: RluA family pseudouridine synthase [Clostridium]	Clostridium
+WP_014454867	motility associated factor glycosyltransferase family protein [Spirochaeta africana]	Spirochaeta africana
+WP_184748213	hypothetical protein [Spirochaeta isovalerica]	Spirochaeta isovalerica
+WP_024752953	phosphoenolpyruvate--protein phosphotransferase [Treponema phagedenis]	Treponema phagedenis
+WP_014342646	helix-hairpin-helix domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_020964100	hypothetical protein [Treponema pedis]	Treponema pedis
+WP_184743645	LysM peptidoglycan-binding domain-containing protein [Spirochaeta isovalerica]	Spirochaeta isovalerica
+WP_237260071	PTS transporter subunit IIC [Treponema pallidum]	Treponema pallidum
+WP_010881662	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_244951146	putative glycoside hydrolase [Treponema phagedenis]	Treponema phagedenis
+WP_012860552	hypothetical protein [Sebaldella termitidis]	Sebaldella termitidis
+WP_246473263	LptA/OstA family protein [Treponema parvum]	Treponema parvum
+WP_006189755	LPS export ABC transporter periplasmic protein LptC [Treponema vincentii]	Treponema vincentii
+WP_083052586	hypothetical protein [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_016518775	DUF368 domain-containing protein [Treponema vincentii]	Treponema vincentii
+WP_014505457	ABC transporter substrate-binding protein [Treponema pallidum]	Treponema pallidum
+WP_010881871	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_015711156	RND family transporter [Leadbettera azotonutricia]	Leadbettera azotonutricia
+WP_013254924	hypothetical protein [Sediminispirochaeta smaragdinae]	Sediminispirochaeta smaragdinae
+WP_013759197	hypothetical protein [Treponema brennaborense]	Treponema brennaborense
+WP_024753468	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_083815490	major outer sheath C-terminal domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_168203365	UPF0164 family protein [Oceanispirochaeta crateris]	Oceanispirochaeta crateris
+WP_016522400	hypothetical protein [Treponema medium]	Treponema medium
+WP_010882387	hypothetical protein [Treponema pallidum]	Treponema pallidum
+WP_169312620	WD40 repeat domain-containing protein [Leadbettera azotonutricia]	Leadbettera azotonutricia
+WP_024752041	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_024752546	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_014342245	M23 family metallopeptidase [Treponema pallidum]	Treponema pallidum
+WP_016518249	hypothetical protein [Treponema vincentii]	Treponema vincentii
+WP_002680977	MULTISPECIES: hypothetical protein [Treponema]	Treponema
+WP_010882382	pyruvate:ferredoxin (flavodoxin) oxidoreductase [Treponema pallidum]	Treponema pallidum
+WP_013758627	nucleotide exchange factor GrpE [Treponema brennaborense]	Treponema brennaborense
+WP_253725852	DNA topoisomerase (ATP-hydrolyzing) subunit A [Treponema socranskii]	Treponema socranskii
+WP_024753300	DNA topoisomerase (ATP-hydrolyzing) subunit B [Treponema phagedenis]	Treponema phagedenis
+WP_014342640	HD-GYP domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_012912601	HDOD domain-containing protein [Pirellula staleyi]	Pirellula staleyi
+WP_028973540	HEAT repeat domain-containing protein [Spirochaeta cellobiosiphila]	Spirochaeta cellobiosiphila
+WP_014342317	coproporphyrinogen-III oxidase family protein [Treponema pallidum]	Treponema pallidum
+WP_010881563	MULTISPECIES: protease modulator HflC [Treponema]	Treponema
+WP_013944820	MULTISPECIES: FtsH protease activity modulator HflK [Treponema]	Treponema
+WP_013758134	amino acid ABC transporter substrate-binding protein [Treponema brennaborense]	Treponema brennaborense
+WP_010882086	histidine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_028973523	OmpH family outer membrane protein [Spirochaeta cellobiosiphila]	Spirochaeta cellobiosiphila
+WP_320292378	DNA polymerase III subunit delta [Borreliella sinica]	Borreliella sinica
+WP_013945224	MULTISPECIES: HPr(Ser) kinase/phosphatase [Treponema]	Treponema
+WP_020394032	phosphoribosyltransferase [Thiolinea disciformis]	Thiolinea disciformis
+WP_148878604	helicase-related protein [Treponema phagedenis]	Treponema phagedenis
+WP_010957241	MULTISPECIES: molecular chaperone HtpG [Treponema]	Treponema
+WP_002699471	HU family DNA-binding protein [Treponema phagedenis]	Treponema phagedenis
+WP_052881490	isoleucine--tRNA ligase [Kiritimatiella glycovorans]	Kiritimatiella glycovorans
+WP_145026819	translation initiation factor IF-1 [Caulifigura coniformis]	Caulifigura coniformis
+WP_024751868	translation initiation factor IF-2 [Treponema phagedenis]	Treponema phagedenis
+WP_010882294	translation initiation factor IF-3 [Treponema pallidum]	Treponema pallidum
+WP_010882128	MULTISPECIES: polyprenyl synthetase family protein [Treponema]	Treponema
+WP_099450732	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase [Sporanaerobium hydrogeniformans]	Sporanaerobium hydrogeniformans
+WP_014342459	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [Treponema pallidum]	Treponema pallidum
+WP_172841382	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [Treponema pallidum]	Treponema pallidum
+WP_014342475	4-hydroxy-3-methylbut-2-enyl diphosphate reductase [Treponema pallidum]	Treponema pallidum
+WP_010882391	RNA-binding cell elongation regulator Jag/EloR [Treponema pallidum]	Treponema pallidum
+WP_002697896	KH domain-containing protein [Treponema phagedenis]	Treponema phagedenis
+WP_010882337	NYN domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_210118990	lipopolysaccharide assembly protein LapB [Treponema parvum]	Treponema parvum
+WP_010882134	ribosome biogenesis GTPase Der [Treponema pallidum]	Treponema pallidum
+WP_014342328	M15 family metallopeptidase [Treponema pallidum]	Treponema pallidum
+WP_010881486	D-2-hydroxyacid dehydrogenase [Treponema pallidum]	Treponema pallidum
+WP_010882018	LemA family protein [Treponema pallidum]	Treponema pallidum
+WP_024752208	translation elongation factor 4 [Treponema phagedenis]	Treponema phagedenis
+WP_020613595	signal peptidase I [Sediminispirochaeta bajacaliforniensis]	Sediminispirochaeta bajacaliforniensis
+WP_147615681	leucine--tRNA ligase [Treponema pectinovorum]	Treponema pectinovorum
+WP_014342613	prolipoprotein diacylglyceryl transferase [Treponema pallidum]	Treponema pallidum
+WP_083580561	NTP transferase domain-containing protein [Parolsenella massiliensis]	Parolsenella massiliensis
+WP_040859110	NAD-dependent DNA ligase LigA [Treponema medium]	Treponema medium
+WP_204401562	alpha-hydroxy-acid oxidizing protein [Alkaliphilus hydrothermalis]	Alkaliphilus hydrothermalis
+WP_044634967	apolipoprotein N-acyltransferase [Treponema phagedenis]	Treponema phagedenis
+WP_167695559	outer membrane lipoprotein carrier protein LolA [Entomospira culicis]	Entomospira culicis
+WP_010882408	MULTISPECIES: ABC transporter ATP-binding protein [Treponema]	Treponema
+WP_145976272	lipoprotein-releasing ABC transporter permease subunit [Nitrospira moscoviensis]	Nitrospira moscoviensis
+WP_246462742	endopeptidase La [Treponema ruminis]	Treponema ruminis
+WP_081942111	Lon protease family protein [Spirochaeta lutea]	Spirochaeta lutea
+WP_010882231	LPS export ABC transporter ATP-binding protein [Treponema pallidum]	Treponema pallidum
+WP_191013626	hypothetical protein [Treponema zioleckii]	Treponema zioleckii
+WP_002702719	LptF/LptG family permease [Treponema saccharophilum]	Treponema saccharophilum
+WP_013252943	signal peptidase II [Sediminispirochaeta smaragdinae]	Sediminispirochaeta smaragdinae
+WP_024751901	lysine--tRNA ligase [Treponema phagedenis]	Treponema phagedenis
+WP_037249717	phosphoglucosamine mutase [Rhodopirellula europaea]	Rhodopirellula europaea
+WP_010882286	type I methionyl aminopeptidase [Treponema pallidum]	Treponema pallidum
+WP_014342681	MarC family protein [Treponema pallidum]	Treponema pallidum
+WP_014342556	sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein [Treponema pallidum]	Treponema pallidum
+WP_255804940	AMP-binding protein [Treponema putidum]	Treponema putidum
+WP_024751843	methionine--tRNA ligase [Treponema phagedenis]	Treponema phagedenis
+WP_010882239	MULTISPECIES: methionine adenosyltransferase [Treponema]	Treponema
+WP_010881568	MULTISPECIES: methionine ABC transporter permease [Treponema]	Treponema
+WP_338368446	transcription-repair coupling factor [Treponema bryantii]	Treponema bryantii
+WP_002696345	sugar ABC transporter ATP-binding protein [Treponema phagedenis]	Treponema phagedenis
+WP_014342538	substrate-binding domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_010882131	galactoside ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_013945485	MULTISPECIES: magnesium transporter [Treponema]	Treponema
+WP_010882082	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA [Treponema pallidum]	Treponema pallidum
+WP_010882199	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB [Treponema pallidum]	Treponema pallidum
+WP_021686729	flagellar assembly lytic transglycosylase [Treponema lecithinolyticum]	Treponema lecithinolyticum
+WP_235214010	transglycosylase SLT domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_237249935	endolytic transglycosylase MltG [Treponema pallidum]	Treponema pallidum
+WP_144684579	MMPL family transporter [Desulfobotulus alkaliphilus]	Desulfobotulus alkaliphilus
+WP_014342480	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE [Treponema pallidum]	Treponema pallidum
+WP_002700233	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG [Treponema phagedenis]	Treponema phagedenis
+WP_010882170	MULTISPECIES: motility protein A [Treponema]	Treponema
+WP_130187936	flagellar motor protein MotD [Pseudoduganella lutea]	Pseudoduganella lutea
+WP_271435947	periplasmic-type flagellar collar protein FlbB [Thermospira aquatica]	Thermospira aquatica
+WP_141886077	AAA family ATPase [Leucobacter komagatae]	Leucobacter komagatae
+WP_014486677	phospho-N-acetylmuramoyl-pentapeptide-transferase [Brachyspira intermedia]	Brachyspira intermedia
+WP_013945042	MULTISPECIES: division/cell wall cluster transcriptional repressor MraZ [Treponema]	Treponema
+WP_255946536	penicillin-binding protein 1A [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_002699369	penicillin-binding protein 2 [Treponema phagedenis]	Treponema phagedenis
+WP_010881946	rod shape-determining protein [Treponema pallidum]	Treponema pallidum
+WP_054491657	rod shape-determining protein MreC [Ardenticatena maritima]	Ardenticatena maritima
+WP_002699369	penicillin-binding protein 2 [Treponema phagedenis]	Treponema phagedenis
+WP_245522109	mechanosensitive ion channel family protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014342515	bifunctional methionine sulfoxide reductase B/A protein [Treponema pallidum]	Treponema pallidum
+WP_338368620	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB [Treponema bryantii]	Treponema bryantii
+WP_010881617	5'-methylthioadenosine/adenosylhomocysteine nucleosidase [Treponema pallidum]	Treponema pallidum
+WP_039487502	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Treponema pallidum]	Treponema pallidum
+WP_031334881	UDP-N-acetylmuramate dehydrogenase [Virgibacillus massiliensis]	Virgibacillus massiliensis
+WP_014342377	UDP-N-acetylmuramate--L-alanine ligase [Treponema pallidum]	Treponema pallidum
+WP_145299857	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase [Planctopirus ephydatiae]	Planctopirus ephydatiae
+WP_174897276	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [Treponema phagedenis]	Treponema phagedenis
+WP_010881834	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Treponema pallidum]	Treponema pallidum
+WP_010881971	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase [Treponema pallidum]	Treponema pallidum
+WP_235214098	glutamate racemase [Treponema pallidum]	Treponema pallidum
+WP_010881965	murein biosynthesis integral membrane protein MurJ [Treponema pallidum]	Treponema pallidum
+WP_230754877	hypothetical protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_024752051	hypothetical protein [Treponema phagedenis]	Treponema phagedenis
+WP_024751990	DNA mismatch repair protein MutS [Treponema phagedenis]	Treponema phagedenis
+WP_010881791	A/G-specific adenine glycosylase [Treponema pallidum]	Treponema pallidum
+WP_010882186	nicotinate (nicotinamide) nucleotide adenylyltransferase [Treponema pallidum]	Treponema pallidum
+WP_123610749	NAD(+) synthase [Mobilisporobacter senegalensis]	Mobilisporobacter senegalensis
+WP_014342426	NAD(+)/NADH kinase [Treponema pallidum]	Treponema pallidum
+WP_068268599	NAD nucleotidase [Caviibacter abscessus]	Caviibacter abscessus
+WP_014454571	adenylate/guanylate cyclase domain-containing protein [Spirochaeta africana]	Spirochaeta africana
+WP_014505641	ATP-binding cassette domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_010882454	nucleoside-diphosphate kinase [Treponema pallidum]	Treponema pallidum
+WP_010882421	Nif3-like dinuclear metal center hexameric protein [Treponema pallidum]	Treponema pallidum
+WP_010882382	pyruvate:ferredoxin (flavodoxin) oxidoreductase [Treponema pallidum]	Treponema pallidum
+WP_010882307	cysteine desulfurase family protein [Treponema pallidum]	Treponema pallidum
+WP_213044313	M23 family metallopeptidase [Nitrospira defluvii]	Nitrospira defluvii
+WP_014342622	peptidoglycan DD-metalloendopeptidase family protein [Treponema pallidum]	Treponema pallidum
+WP_010882344	MATE family efflux transporter [Treponema pallidum]	Treponema pallidum
+WP_010882435	MULTISPECIES: rubredoxin [Treponema]	Treponema
+WP_148889605	Na/Pi cotransporter family protein [Treponema phagedenis]	Treponema phagedenis
+WP_103731959	MULTISPECIES: ribonucleoside-diphosphate reductase subunit alpha [Blautia]	Blautia
+WP_013944767	MULTISPECIES: ribonucleotide-diphosphate reductase subunit beta [Treponema]	Treponema
+WP_024752998	tetratricopeptide repeat protein [Treponema phagedenis]	Treponema phagedenis
+WP_010881884	bifunctional oligoribonuclease/PAP phosphatase NrnA [Treponema pallidum]	Treponema pallidum
+WP_010882220	endonuclease III [Treponema pallidum]	Treponema pallidum
+WP_184659675	V-type ATPase subunit [Treponema ruminis]	Treponema ruminis
+WP_074645237	V-type ATP synthase subunit E [Treponema bryantii]	Treponema bryantii
+WP_230752240	V-type ATP synthase subunit F [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_013945171	V-type ATP synthase subunit I [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_069649137	ABC transporter ATP-binding protein [Caloranaerobacter ferrireducens]	Caloranaerobacter ferrireducens
+WP_235214119	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_010881771	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_010882335	transcription termination factor NusA [Treponema pallidum]	Treponema pallidum
+WP_163961214	transcription antitermination factor NusB [Oceanipulchritudo coccoides]	Oceanipulchritudo coccoides
+WP_010881684	MULTISPECIES: transcription termination/antitermination protein NusG [Treponema]	Treponema
+WP_016525815	sodium-extruding oxaloacetate decarboxylase subunit alpha [Treponema maltophilum]	Treponema maltophilum
+WP_010881506	sodium ion-translocating decarboxylase subunit beta [Treponema pallidum]	Treponema pallidum
+WP_013944770	OadG family protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_083051948	hypothetical protein [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_013945221	peptide ABC transporter substrate-binding protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_082048175	heavy metal translocating P-type ATPase [Treponema phagedenis]	Treponema phagedenis
+WP_010881721	ParA family protein [Treponema pallidum]	Treponema pallidum
+WP_010881720	ParB/RepB/Spo0J family partition protein [Treponema pallidum]	Treponema pallidum
+WP_014455171	PASTA domain-containing protein [Spirochaeta africana]	Spirochaeta africana
+WP_016518318	phosphoenolpyruvate carboxykinase (GTP) [Treponema vincentii]	Treponema vincentii
+WP_013944944	CCA tRNA nucleotidyltransferase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_016519561	M3 family oligoendopeptidase [Treponema vincentii]	Treponema vincentii
+WP_231011331	aminopeptidase P family protein [Ideonella azotifigens]	Ideonella azotifigens
+WP_100715004	AI-2E family transporter [Leptospira perolatii]	Leptospira perolatii
+WP_010881557	ATP-dependent 6-phosphofructokinase [Treponema pallidum]	Treponema pallidum
+WP_014957686	6-phosphofructokinase [Desulfobacula toluolica]	Desulfobacula toluolica
+WP_206181093	glucose-6-phosphate isomerase [Treponema medium]	Treponema medium
+WP_010881985	phosphoglycerate kinase [Treponema pallidum]	Treponema pallidum
+WP_014342443	6-phosphogluconolactonase [Treponema pallidum]	Treponema pallidum
+WP_037548225	phosphatase PAP2 family protein [Spirochaeta lutea]	Spirochaeta lutea
+WP_013759239	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [Treponema brennaborense]	Treponema brennaborense
+WP_024753293	phenylalanine--tRNA ligase subunit alpha [Treponema phagedenis]	Treponema phagedenis
+WP_148889727	phenylalanine--tRNA ligase subunit beta [Treponema phagedenis]	Treponema phagedenis
+WP_010881938	MBL fold metallo-hydrolase [Treponema pallidum]	Treponema pallidum
+WP_013970143	tetratricopeptide repeat protein [Gracilinema caldarium]	Gracilinema caldarium
+WP_025443485	c-di-GMP-binding receptor PlzA [Borrelia miyamotoi]	Borrelia miyamotoi
+WP_114936548	1-acyl-sn-glycerol-3-phosphate acyltransferase [Mucilaginibacter endophyticus]	Mucilaginibacter endophyticus
+WP_014342543	cysteine hydrolase family protein [Treponema pallidum]	Treponema pallidum
+WP_010882074	nicotinate phosphoribosyltransferase [Treponema pallidum]	Treponema pallidum
+WP_016522130	polyribonucleotide nucleotidyltransferase [Treponema medium]	Treponema medium
+WP_044635056	DNA polymerase I [Treponema phagedenis]	Treponema phagedenis
+WP_010881590	ABC transporter ATP-binding protein [Treponema pallidum]	Treponema pallidum
+WP_014342524	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_014342525	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_010882100	extracellular solute-binding protein [Treponema pallidum]	Treponema pallidum
+WP_013968601	putative PEP-binding protein [Gracilinema caldarium]	Gracilinema caldarium
+WP_039487460	peptidylprolyl isomerase [Treponema pallidum]	Treponema pallidum
+WP_013738933	peptidylprolyl isomerase [Parasphaerochaeta coccoides]	Parasphaerochaeta coccoides
+WP_012460512	peptide chain release factor 1 [Treponema pallidum]	Treponema pallidum
+WP_099156385	peptide chain release factor 2 [Treponema pallidum]	Treponema pallidum
+WP_002695989	primosomal protein N' [Treponema phagedenis]	Treponema phagedenis
+WP_014342246	peptide chain release factor N(5)-glutamine methyltransferase [Treponema pallidum]	Treponema pallidum
+WP_014342384	glutamate-5-semialdehyde dehydrogenase [Treponema pallidum]	Treponema pallidum
+WP_014342385	glutamate 5-kinase [Treponema pallidum]	Treponema pallidum
+WP_010882242	pyrroline-5-carboxylate reductase [Treponema pallidum]	Treponema pallidum
+WP_148889191	proline--tRNA ligase [Treponema phagedenis]	Treponema phagedenis
+WP_010881743	MULTISPECIES: ribose-phosphate pyrophosphokinase [Treponema]	Treponema
+WP_010881543	phosphate acetyltransferase [Treponema pallidum]	Treponema pallidum
+WP_010882455	aminoacyl-tRNA hydrolase [Treponema pallidum]	Treponema pallidum
+WP_002680940	MULTISPECIES: phosphoenolpyruvate--protein phosphotransferase [Treponema]	Treponema
+WP_044979296	HPr family phosphocarrier protein [Treponema putidum]	Treponema putidum
+WP_005948073	fructose-specific PTS transporter subunit EIIC [Fusobacterium varium]	Fusobacterium varium
+WP_230756267	CTP synthase [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_048059653	UMP kinase [Picrophilus oshimae]	Picrophilus oshimae
+WP_013945577	DNA repair protein RadA [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_074644873	30S ribosome-binding factor RbfA [Treponema bryantii]	Treponema bryantii
+WP_010881992	galactose ABC transporter substrate-binding protein [Treponema pallidum]	Treponema pallidum
+WP_255944937	nickel/cobalt transporter [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_013945089	non-canonical purine NTP pyrophosphatase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014342541	recombinase RecA [Treponema pallidum]	Treponema pallidum
+WP_014342226	DNA replication/repair protein RecF [Treponema pallidum]	Treponema pallidum
+WP_148889778	ATP-dependent DNA helicase RecG [Treponema phagedenis]	Treponema phagedenis
+WP_286146782	single-stranded-DNA-specific exonuclease RecJ [Neopoerus faecalis]	Neopoerus faecalis
+WP_010881890	DNA repair protein RecN [Treponema pallidum]	Treponema pallidum
+WP_013969391	DNA repair protein RecO [Gracilinema caldarium]	Gracilinema caldarium
+WP_149484715	RecQ family ATP-dependent DNA helicase [Oceanispirochaeta crateris]	Oceanispirochaeta crateris
+WP_010882448	recombination mediator RecR [Treponema pallidum]	Treponema pallidum
+WP_162147449	regulatory protein RecX [Treponema phagedenis]	Treponema phagedenis
+WP_017794349	BMP family protein [Leucobacter salsicius]	Leucobacter salsicius
+WP_245855059	ABC transporter ATP-binding protein [Micromonospora wenchangensis]	Micromonospora wenchangensis
+WP_181015642	ABC transporter permease [Alkalispirochaeta sphaeroplastigenens]	Alkalispirochaeta sphaeroplastigenens
+WP_230756691	ABC transporter permease [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_010882430	DMT family transporter [Treponema pallidum]	Treponema pallidum
+WP_010881703	transcription termination factor Rho [Treponema pallidum]	Treponema pallidum
+WP_210120338	FAD synthetase family protein [Treponema parvum]	Treponema parvum
+WP_184743958	ribosome maturation factor RimM [Spirochaeta isovalerica]	Spirochaeta isovalerica
+WP_078933448	MULTISPECIES: ribosome maturation factor RimP [Treponema]	Treponema
+WP_099540733	RlmE family RNA methyltransferase [Acetobacter pomorum]	Acetobacter pomorum
+WP_010881517	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN [Treponema pallidum]	Treponema pallidum
+WP_230752968	septal ring lytic transglycosylase RlpA family protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_010881787	RluA family pseudouridine synthase [Treponema pallidum]	Treponema pallidum
+WP_014342644	NTP transferase domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_010882254	ribonuclease III [Treponema pallidum]	Treponema pallidum
+WP_221066236	electron transport complex subunit RsxC [Methylomagnum ishizawai]	Methylomagnum ishizawai
+WP_184658053	RnfABCDGE type electron transport complex subunit D [Treponema ruminis]	Treponema ruminis
+WP_014342386	ribonuclease HI [Treponema pallidum]	Treponema pallidum
+WP_002696619	ribonuclease P protein component [Treponema phagedenis]	Treponema phagedenis
+WP_010882462	ribonuclease Y [Treponema pallidum]	Treponema pallidum
+WP_014342594	ribonuclease Z [Treponema pallidum]	Treponema pallidum
+WP_038151770	rod shape-determining protein RodA [Veillonella montpellierensis]	Veillonella montpellierensis
+WP_024266544	RodZ family helix-turn-helix domain-containing protein [Salinispira pacifica]	Salinispira pacifica
+WP_010882388	MULTISPECIES: ribulose-phosphate 3-epimerase [Treponema]	Treponema
+WP_010882062	ribose-5-phosphate isomerase RpiA [Treponema pallidum]	Treponema pallidum
+WP_010881686	50S ribosomal protein L1 [Treponema pallidum]	Treponema pallidum
+WP_010881639	50S ribosomal protein L2 [Treponema pallidum]	Treponema pallidum
+WP_014342318	50S ribosomal protein L3 [Treponema pallidum]	Treponema pallidum
+WP_014342319	50S ribosomal protein L4 [Treponema pallidum]	Treponema pallidum
+WP_014342323	50S ribosomal protein L5 [Treponema pallidum]	Treponema pallidum
+WP_010881651	50S ribosomal protein L6 [Treponema pallidum]	Treponema pallidum
+WP_010881651	50S ribosomal protein L6 [Treponema pallidum]	Treponema pallidum
+WP_263369833	50S ribosomal protein L9 [Granulicella cerasi]	Granulicella cerasi
+WP_021861519	MULTISPECIES: 50S ribosomal protein L10 [Dorea]	Dorea
+WP_010881685	MULTISPECIES: 50S ribosomal protein L11 [Treponema]	Treponema
+WP_013253546	50S ribosomal protein L7/L12 [Sediminispirochaeta smaragdinae]	Sediminispirochaeta smaragdinae
+WP_010882469	MULTISPECIES: 50S ribosomal protein L13 [Treponema]	Treponema
+WP_010881646	50S ribosomal protein L14 [Treponema pallidum]	Treponema pallidum
+WP_010881655	50S ribosomal protein L15 [Treponema pallidum]	Treponema pallidum
+WP_010881643	MULTISPECIES: 50S ribosomal protein L16 [Treponema]	Treponema
+WP_010881661	50S ribosomal protein L17 [Treponema pallidum]	Treponema pallidum
+WP_083047139	50S ribosomal protein L18 [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_010882352	MULTISPECIES: 50S ribosomal protein L19 [Treponema]	Treponema
+WP_211629858	MULTISPECIES: 50S ribosomal protein L20 [Luteolibacter]	Luteolibacter
+WP_002701866	MULTISPECIES: 50S ribosomal protein L21 [Treponema]	Treponema
+WP_018527813	MULTISPECIES: 50S ribosomal protein L22 [Alkalispirochaeta]	Alkalispirochaeta
+WP_230757102	50S ribosomal protein L23 [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_002706000	MULTISPECIES: 50S ribosomal protein L24 [Treponema]	Treponema
+WP_021687268	50S ribosomal protein L27 [Treponema lecithinolyticum]	Treponema lecithinolyticum
+WP_006189625	MULTISPECIES: 50S ribosomal protein L28 [Treponema]	Treponema
+WP_002700878	50S ribosomal protein L29 [Treponema phagedenis]	Treponema phagedenis
+WP_006188388	MULTISPECIES: 50S ribosomal protein L30 [Treponema]	Treponema
+WP_002699458	50S ribosomal protein L31 [Treponema phagedenis]	Treponema phagedenis
+WP_081718631	50S ribosomal protein L32 [Treponema phagedenis]	Treponema phagedenis
+WP_010881682	50S ribosomal protein L33 [Treponema pallidum]	Treponema pallidum
+WP_010882395	MULTISPECIES: 50S ribosomal protein L34 [Treponema]	Treponema
+WP_014342610	50S ribosomal protein L35 [Treponema pallidum]	Treponema pallidum
+WP_010881657	50S ribosomal protein L36 [Treponema pallidum]	Treponema pallidum
+WP_014342325	DNA-directed RNA polymerase subunit alpha [Treponema pallidum]	Treponema pallidum
+WP_041076549	DNA-directed RNA polymerase subunit beta [Thermotoga caldifontis]	Thermotoga caldifontis
+WP_010881690	MULTISPECIES: DNA-directed RNA polymerase subunit beta' [Treponema]	Treponema
+WP_024753190	RNA polymerase sigma factor RpoD [Treponema phagedenis]	Treponema phagedenis
+WP_100314578	RNA polymerase sigma-70 factor [Thermoflavifilum aggregans]	Thermoflavifilum aggregans
+WP_172841370	RNA polymerase factor sigma-54 [Treponema pallidum]	Treponema pallidum
+WP_006189758	DNA-directed RNA polymerase subunit omega [Treponema vincentii]	Treponema vincentii
+WP_187426861	30S ribosomal protein S1 [Treponema phagedenis]	Treponema phagedenis
+WP_010882052	30S ribosomal protein S2 [Treponema pallidum]	Treponema pallidum
+WP_010881642	30S ribosomal protein S3 [Treponema pallidum]	Treponema pallidum
+WP_010881755	30S ribosomal protein S4 [Treponema pallidum]	Treponema pallidum
+WP_010881653	30S ribosomal protein S5 [Treponema pallidum]	Treponema pallidum
+WP_078930090	MULTISPECIES: 30S ribosomal protein S6 [Treponema]	Treponema
+WP_010881692	30S ribosomal protein S7 [Treponema pallidum]	Treponema pallidum
+WP_014342698	30S ribosomal protein S9 [Treponema pallidum]	Treponema pallidum
+WP_010881635	MULTISPECIES: 30S ribosomal protein S10 [Treponema]	Treponema
+WP_010881659	30S ribosomal protein S11 [Treponema pallidum]	Treponema pallidum
+WP_010881691	MULTISPECIES: 30S ribosomal protein S12 [Treponema]	Treponema
+WP_010881658	MULTISPECIES: 30S ribosomal protein S13 [Treponema]	Treponema
+WP_002700155	30S ribosomal protein S15 [Treponema phagedenis]	Treponema phagedenis
+WP_149485611	30S ribosomal protein S16 [Oceanispirochaeta crateris]	Oceanispirochaeta crateris
+WP_002857485	MULTISPECIES: 30S ribosomal protein S17 [Micrococcus]	Micrococcus
+WP_028324597	30S ribosomal protein S18 [Desulfatirhabdium butyrativorans]	Desulfatirhabdium butyrativorans
+WP_010881639	50S ribosomal protein L2 [Treponema pallidum]	Treponema pallidum
+WP_002699473	30S ribosomal protein S20 [Treponema phagedenis]	Treponema phagedenis
+WP_010882203	MULTISPECIES: 30S ribosomal protein S21 [Treponema]	Treponema
+WP_037544848	RNA-binding protein [Spirochaeta lutea]	Spirochaeta lutea
+WP_206979937	PP2C family protein-serine/threonine phosphatase [Hymenobacter telluris]	Hymenobacter telluris
+WP_014342504	RIP metalloprotease RseP [Treponema pallidum]	Treponema pallidum
+WP_020965598	ribosome silencing factor [Treponema pedis]	Treponema pedis
+WP_237249922	anti-sigma factor [Treponema pallidum]	Treponema pallidum
+WP_010881785	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA [Treponema pallidum]	Treponema pallidum
+WP_320055293	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD [Anaerosalibacter bizertensis]	Anaerosalibacter bizertensis
+WP_184652114	16S rRNA (uracil(1498)-N(3))-methyltransferase [Treponema rectale]	Treponema rectale
+WP_016517972	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG [Treponema vincentii]	Treponema vincentii
+WP_014342407	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH [Treponema pallidum]	Treponema pallidum
+WP_010882419	MULTISPECIES: ribosomal RNA small subunit methyltransferase I [Treponema]	Treponema
+WP_013945585	patatin-like phospholipase family protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010881909	tetratricopeptide repeat protein [Treponema pallidum]	Treponema pallidum
+WP_010881990	Holliday junction branch migration protein RuvA [Treponema pallidum]	Treponema pallidum
+WP_010881609	MULTISPECIES: Holliday junction branch migration DNA helicase RuvB [Treponema]	Treponema
+WP_013945156	crossover junction endodeoxyribonuclease RuvC [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882407	ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_010882219	MgtC/SapB family protein [Treponema pallidum]	Treponema pallidum
+WP_067534368	AAA family ATPase [Nocardia crassostreae]	Nocardia crassostreae
+WP_010882072	MULTISPECIES: exonuclease SbcCD subunit D [Treponema]	Treponema
+WP_013945299	ScpA family protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_244775108	SMC-Scp complex subunit ScpB [Sphaerochaeta associata]	Sphaerochaeta associata
+WP_006188399	diacylglycerol/polyprenol kinase family protein [Treponema vincentii]	Treponema vincentii
+WP_244774927	preprotein translocase subunit SecA [Sphaerochaeta associata]	Sphaerochaeta associata
+WP_044634850	protein translocase subunit SecD [Treponema phagedenis]	Treponema phagedenis
+WP_010881683	MULTISPECIES: preprotein translocase subunit SecE [Treponema]	Treponema
+WP_003443393	MULTISPECIES: protein translocase subunit SecF [Pseudomonas]	Pseudomonas
+WP_014342465	preprotein translocase subunit SecG [Treponema pallidum]	Treponema pallidum
+WP_014342324	preprotein translocase subunit SecY [Treponema pallidum]	Treponema pallidum
+WP_010882092	serine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_002772451	spiro-SPASM protein [Leptonema illini]	Leptonema illini
+WP_010881797	peptidylprolyl isomerase [Treponema pallidum]	Treponema pallidum
+WP_040859179	chromosome segregation SMC family protein [Treponema medium]	Treponema medium
+WP_010881631	SsrA-binding protein [Treponema pallidum]	Treponema pallidum
+WP_044978978	Smr/MutS family protein [Treponema putidum]	Treponema putidum
+WP_044937227	MULTISPECIES: desulfoferrodoxin family protein [Pseudobutyrivibrio]	Pseudobutyrivibrio
+WP_016517949	STAS domain-containing protein [Treponema vincentii]	Treponema vincentii
+WP_184374806	TrmH family RNA methyltransferase [Xanthomonas cannabis]	Xanthomonas cannabis
+WP_010881558	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB [Treponema pallidum]	Treponema pallidum
+WP_013945552	signal peptide peptidase SppA [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882009	N-acetylneuraminate synthase family protein [Treponema pallidum]	Treponema pallidum
+WP_108728909	single-stranded DNA-binding protein [Candidatus Borreliella tachyglossi]	Candidatus Borreliella tachyglossi
+WP_024753492	DNA repair helicase XPB [Treponema phagedenis]	Treponema phagedenis
+WP_010882058	Fe-S cluster assembly protein SufB [Treponema pallidum]	Treponema pallidum
+WP_010882057	Fe-S cluster assembly ATPase SufC [Treponema pallidum]	Treponema pallidum
+WP_127058123	SufD family Fe-S cluster assembly protein [Veillonella ratti]	Veillonella ratti
+WP_010882061	MULTISPECIES: Fe-S cluster assembly sulfur transfer protein SufU [Treponema]	Treponema
+WP_014342417	5'/3'-nucleotidase SurE [Treponema pallidum]	Treponema pallidum
+WP_044978474	MULTISPECIES: flagellar FlbD family protein [Treponema]	Treponema
+WP_010881923	MULTISPECIES: YebC/PmpR family DNA-binding transcriptional regulator [Treponema]	Treponema
+WP_083625497	serine protease [Planktothrix serta]	Planktothrix serta
+WP_155997722	translocation/assembly module TamB domain-containing protein [Treponema vincentii]	Treponema vincentii
+WP_147615236	methyl-accepting chemotaxis protein [Treponema pectinovorum]	Treponema pectinovorum
+WP_010882423	TatD family hydrolase [Treponema pallidum]	Treponema pallidum
+WP_010881592	thiamine ABC transporter substrate binding subunit [Treponema pallidum]	Treponema pallidum
+WP_013944821	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_013945197	tRNA uracil 4-sulfurtransferase ThiI [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_158908138	thiamine diphosphokinase [Rectinema subterraneum]	Rectinema subterraneum
+WP_010882281	threonine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_010882451	FAD-dependent thymidylate synthase [Treponema pallidum]	Treponema pallidum
+WP_013945146	trigger factor [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010881821	tRNA lysidine(34) synthetase TilS [Treponema pallidum]	Treponema pallidum
+WP_044634407	transketolase [Treponema phagedenis]	Treponema phagedenis
+WP_010882094	MULTISPECIES: hemolysin family protein [Treponema]	Treponema
+WP_229366914	dTMP kinase [Staphylococcus gallinarum]	Staphylococcus gallinarum
+WP_044977413	hypothetical protein [Treponema putidum]	Treponema putidum
+WP_215627981	LysM peptidoglycan-binding domain-containing protein [Breznakiella homolactica]	Breznakiella homolactica
+WP_014342368	membrane lipoprotein TmpC [Treponema pallidum]	Treponema pallidum
+WP_016523533	type I DNA topoisomerase [Treponema medium]	Treponema medium
+WP_027701426	DUF3798 domain-containing protein [Metaclostridioides mangenotii]	Metaclostridioides mangenotii
+WP_033491077	MULTISPECIES: iron transporter [Bifidobacterium]	Bifidobacterium
+WP_071123727	Dps family protein [Leptotrichia massiliensis]	Leptotrichia massiliensis
+WP_010881984	triose-phosphate isomerase [Treponema pallidum]	Treponema pallidum
+WP_013944762	stage 0 sporulation family protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882265	MetQ/NlpA family ABC transporter substrate-binding protein [Treponema pallidum]	Treponema pallidum
+WP_012538667	peptidylprolyl isomerase [Borrelia recurrentis]	Borrelia recurrentis
+WP_100745908	OmpA family protein [Leptospira ellisii]	Leptospira ellisii
+WP_092480844	FMN-binding protein [Desemzia incerta]	Desemzia incerta
+WP_071122370	copper resistance protein NlpE [Prevotellamassilia timonensis]	Prevotellamassilia timonensis
+WP_230754497	tetratricopeptide repeat protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_244857653	major outer sheath N-terminal domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_148889717	MSP porin [Treponema phagedenis]	Treponema phagedenis
+WP_014342366	major outer sheath N-terminal domain-containing protein [Treponema pallidum]	Treponema pallidum
+WP_148889717	MSP porin [Treponema phagedenis]	Treponema phagedenis
+WP_013945584	major outer sheath N-terminal domain-containing protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_083048802	tetratricopeptide repeat protein [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_191016467	TraB/GumN family protein [Treponema zioleckii]	Treponema zioleckii
+WP_244987960	trehalase family glycosidase [Hoylesella nanceiensis]	Hoylesella nanceiensis
+WP_010881587	TrkA family potassium uptake protein [Treponema pallidum]	Treponema pallidum
+WP_245522151	TrkH family potassium uptake protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_014342439	tRNA (guanosine(46)-N7)-methyltransferase TrmB [Treponema pallidum]	Treponema pallidum
+WP_010882351	tRNA (guanosine(37)-N1)-methyltransferase TrmD [Treponema pallidum]	Treponema pallidum
+WP_010881610	transition metal ABC transporter substrate-binding protein TroA [Treponema pallidum]	Treponema pallidum
+WP_014342309	transition metal ABC transporter ATP-binding protein TroB [Treponema pallidum]	Treponema pallidum
+WP_010881612	transition metal ABC transporter permease subunit TroC [Treponema pallidum]	Treponema pallidum
+WP_014342310	transition metal ABC transporter permease subunit TroD [Treponema pallidum]	Treponema pallidum
+WP_027020660	metal-dependent transcriptional regulator [Corynebacterium sputi]	Corynebacterium sputi
+WP_010882078	MULTISPECIES: tryptophan--tRNA ligase [Treponema]	Treponema
+WP_013945413	MULTISPECIES: tRNA pseudouridine(38-40) synthase TruA [Treponema]	Treponema
+WP_014342630	tRNA pseudouridine(55) synthase TruB [Treponema pallidum]	Treponema pallidum
+WP_012569215	TlpA disulfide reductase family protein [Rhodospirillum centenum]	Rhodospirillum centenum
+WP_010882258	thioredoxin-disulfide reductase [Treponema pallidum]	Treponema pallidum
+WP_002679135	MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB [Treponema]	Treponema
+WP_013944874	hypothetical protein [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_013945290	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Treponema paraluiscuniculi]	Treponema paraluiscuniculi
+WP_010882318	MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE [Treponema]	Treponema
+WP_010882051	translation elongation factor Ts [Treponema pallidum]	Treponema pallidum
+WP_010881634	MULTISPECIES: elongation factor Tu [Treponema]	Treponema
+WP_014342602	tyrosine--tRNA ligase [Treponema pallidum]	Treponema pallidum
+WP_245803888	glycosyltransferase family protein [Geothermobacter hydrogeniphilus]	Geothermobacter hydrogeniphilus
+WP_014342334	uracil-DNA glycosylase [Treponema pallidum]	Treponema pallidum
+WP_024752544	nucleoside kinase [Treponema phagedenis]	Treponema phagedenis
+WP_010882471	MULTISPECIES: uridine phosphorylase [Treponema]	Treponema
+WP_010881524	carbohydrate ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_212961169	ABC transporter substrate-binding protein [Cohnella xylanilytica]	Cohnella xylanilytica
+WP_012460593	ABC transporter ATP-binding protein [Treponema pallidum]	Treponema pallidum
+WP_014342258	carbohydrate ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_129019587	MULTISPECIES: uracil phosphoribosyltransferase [Edaphocola]	Edaphocola
+WP_020965655	lipopolysaccharide assembly protein LapB [Treponema pedis]	Treponema pedis
+WP_010882049	di-trans,poly-cis-decaprenylcistransferase [Treponema pallidum]	Treponema pallidum
+WP_079490071	excinuclease ABC subunit UvrA [Maledivibacter halophilus]	Maledivibacter halophilus
+WP_024752895	excinuclease ABC subunit UvrB [Treponema phagedenis]	Treponema phagedenis
+WP_226392186	excinuclease ABC subunit UvrC [Ructibacterium gallinarum]	Ructibacterium gallinarum
+WP_148889757	ribonuclease catalytic domain-containing protein [Treponema phagedenis]	Treponema phagedenis
+WP_083053017	valine--tRNA ligase [Marispirochaeta aestuarii]	Marispirochaeta aestuarii
+WP_016518301	pallilysin-related adhesin [Treponema vincentii]	Treponema vincentii
+WP_013739286	DegT/DnrJ/EryC1/StrS family aminotransferase [Parasphaerochaeta coccoides]	Parasphaerochaeta coccoides
+WP_245535049	WecB/TagA/CpsF family glycosyltransferase [Leadbettera azotonutricia]	Leadbettera azotonutricia
+WP_013945314	MULTISPECIES: RNA polymerase sigma factor WhiG [Treponema]	Treponema
+WP_014342409	tyrosine recombinase XerC [Treponema pallidum]	Treponema pallidum
+WP_010881839	site-specific tyrosine recombinase [Treponema pallidum]	Treponema pallidum
+WP_255805907	LysM peptidoglycan-binding domain-containing protein [Treponema putidum]	Treponema putidum
+WP_044978403	LysM peptidoglycan-binding domain-containing protein [Treponema putidum]	Treponema putidum
+WP_010881574	MULTISPECIES: exodeoxyribonuclease III [Treponema]	Treponema
+WP_010881743	MULTISPECIES: ribose-phosphate pyrophosphokinase [Treponema]	Treponema
+WP_006189062	YaaR family protein [Treponema vincentii]	Treponema vincentii
+WP_235214027	YabN family protein [Treponema pallidum]	Treponema pallidum
+WP_100639962	YaiI/YqxD family protein [Marinobacter salexigens]	Marinobacter salexigens
+WP_006188839	preprotein translocase subunit YajC [Treponema vincentii]	Treponema vincentii
+WP_015712411	DJ-1 family glyoxalase III [Leadbettera azotonutricia]	Leadbettera azotonutricia
+WP_014625461	YbbR-like domain-containing protein [Spirochaeta thermophila]	Spirochaeta thermophila
+WP_006068488	rRNA maturation RNase YbeY [Borreliella valaisiana]	Borreliella valaisiana
+WP_230755261	tol-pal system YbgF family protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_230756260	YggT family protein [Teretinema zuelzerae]	Teretinema zuelzerae
+WP_010881573	redox-regulated ATPase YchF [Treponema pallidum]	Treponema pallidum
+WP_255946351	YdbC family protein [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_020965235	metallophosphoesterase [Treponema pedis]	Treponema pedis
+WP_010881946	rod shape-determining protein [Treponema pallidum]	Treponema pallidum
+WP_135777717	YgcG family protein [Leptospira bourretii]	Leptospira bourretii
+WP_148889585	membrane protein insertase YidC [Treponema phagedenis]	Treponema phagedenis
+WP_117002778	MULTISPECIES: membrane protein insertion efficiency factor YidD [Cysteiniphilum]	Cysteiniphilum
+WP_184041495	YifB family Mg chelatase-like AAA ATPase [Chitinivorax tropicus]	Chitinivorax tropicus
+WP_210119486	HAD-IA family hydrolase [Treponema parvum]	Treponema parvum
+WP_024752863	ABC-F family ATP-binding cassette domain-containing protein [Treponema phagedenis]	Treponema phagedenis
+WP_222105138	TRAP transporter TatT component family protein [Denitromonas halophila]	Denitromonas halophila
+WP_140969947	6-bladed beta-propeller [Bacillus dicomae]	Bacillus dicomae
+WP_010881472	sodium-dependent transporter [Treponema pallidum]	Treponema pallidum
+WP_270452733	nicotinate-nucleotide adenylyltransferase [Halonatronomonas betaini]	Halonatronomonas betaini
+WP_010882481	hemolysin III family protein [Treponema pallidum]	Treponema pallidum
+WP_002702163	MULTISPECIES: YraN family protein [Treponema]	Treponema
+WP_016522144	MULTISPECIES: ribosomal-processing cysteine protease Prp [Treponema]	Treponema
+WP_037550186	divergent PAP2 family protein [Spirochaeta lutea]	Spirochaeta lutea
+WP_037996134	MULTISPECIES: carboxylesterase [Thermoactinomyces]	Thermoactinomyces
+WP_156683466	TIGR02206 family membrane protein [Oceanivirga miroungae]	Oceanivirga miroungae
+WP_255947666	cell division protein ZapA [Brucepastera parasyntrophica]	Brucepastera parasyntrophica
+WP_024752690	cell division protein ZapB [Treponema phagedenis]	Treponema phagedenis
+WP_010881483	metal ABC transporter substrate-binding protein [Treponema pallidum]	Treponema pallidum
+WP_010881485	metal ABC transporter permease [Treponema pallidum]	Treponema pallidum
+WP_010881484	metal ABC transporter ATP-binding protein [Treponema pallidum]	Treponema pallidum
+WP_212216126	glucose-6-phosphate dehydrogenase [Carboxylicivirga linearis]	Carboxylicivirga linearis

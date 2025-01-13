@@ -25,7 +25,12 @@ vcfReading <- function(file){
   colnames(vcfFile) <- gsub(";.*","",colnames(vcfFile))
 
   altList <- strsplit(split = ",", vcfFile$ALT)
-  vcfFile[,10:ncol(vcfFile)] <- sapply(vcfFile[,10:ncol(vcfFile)], function(x){
+
+  # Getting the non-sample columns sorted out
+  nonSample <- grepl("CHROM|POS|ID|REF|ALT|QUAL|FILTER|INFO|FORMAT", colnames(vcfFile))
+
+  vcfFile[,!nonSample] <- sapply(vcfFile[,!nonSample], function(x){
+		 x <- as.numeric(gsub(":.*","",x))
 		 z <- c()
 		 for(i in 1:length(x)){
 			#z[i] <- ifelse(x[i] == 0, "REF", altList[[i]][x[i]])
@@ -34,9 +39,10 @@ vcfReading <- function(file){
 		 return(z)
 					  })
 
-  vcfFile <- vcfFile[,c(1:2,10:ncol(vcfFile))]
+  firstSample <- max(which(nonSample)) + 1
+  vcfFile <- vcfFile[,c(1:2,firstSample:ncol(vcfFile))]
   
-    return(vcfFile)
+  return(vcfFile)
 }
 AAalignmenttoVCF <- function(file){
 	# Read in the dataframe
@@ -72,6 +78,26 @@ calculateEllipses <- function(dat){
 	df <- data.frame("Centre_x" = ell.info$center[1], "Centre_y" = ell.info$center[2], "a" = lengths[1], "b" = lengths[2], "angle" = angle)
 	#df <- data.frame("Centre" = ell.info$center, "xmax" = xmax, "xmin" = xmin, "ymax" = ymax, "ymin" = ymin)
 	return(df)
+}
+TetWorkup <- function(vcf){
+	colnames(vcf) <- gsub("^X|_R_", "", colnames(vcf))
+	vcfDF <- vcf 
+	
+	vcfDF <- vcfDF |> unite(TMP,CHROM,POS, sep = ":")# |> pull(TMP)
+	rownames(vcfDF) <- vcfDF$TMP
+	vcfDF <- vcfDF |> select(-TMP)
+	
+	# Since this is a messy alignment, need to be more careful with how I'm removing certain genes
+	noMissing <- sapply(vcfDF, function(x){
+		      y <- table(x) |> unlist()# |> names()
+		      propMissing <- y["*"]/sum(y)
+		      ifelse(propMissing >= 0.25, F, T)
+						  })
+	
+	vcfDF <- vcfDF[,noMissing]
+	vcfDF$Position <- rownames(vcfDF)
+	return(vcfDF)
+
 }
 #### Metadata Info ####
 colour <- c('#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4',
@@ -206,60 +232,74 @@ coloursRank1 <- c(SS14Colours, NicholsColours, TPEColours, TENColours)
 
 customLegendShape <- legendGrob(c("Genome", "Lineage"), hgap = unit(0.5, "lines"), vgap = unit(0.5, "lines"), pch = c(16,23), gp = gpar(col = "black", cex = 2/3), nrow = 2)
 
+customLegendGov <- legendGrob(c("SS14","Nichols", "TPE", "TEN"), hgap = unit(0.5, "lines"), vgap = unit(0.5, "lines"), 
+                           pch = 20, gp = gpar(col = coloursClusters, pch = 1, cex = 2/3), nrow = 3)
 ##### Looking at the 16S rRNA Results ####
-TetWorkup <- function(vcf){
-	colnames(vcf) <- gsub("^X|_R_", "", colnames(vcf))
-	vcfDF <- vcf 
-	
-	vcfDF <- vcfDF |> unite(TMP,CHROM,POS, sep = ":")# |> pull(TMP)
-	rownames(vcfDF) <- vcfDF$TMP
-	vcfDF <- vcfDF |> select(-TMP)
-	
-	# Since this is a messy alignment, need to be more careful with how I'm removing certain genes
-	noMissing <- sapply(vcfDF, function(x){
-		      y <- table(x) |> unlist()# |> names()
-		      propMissing <- y["*"]/sum(y)
-		      ifelse(propMissing >= 0.25, F, T)
-						  })
-	
-	vcfDF <- vcfDF[,noMissing]
-	vcfDF$Position <- rownames(vcfDF)
-	return(vcfDF)
+files <- list.files("16STetracycline", full.names = T, pattern = "vcf")
+tmp <- pblapply(files, cl = 10, vcfReading)  # Reading in the data
+names(tmp) <- gsub("16STetracycline/|.vcf.gz","",files)
+#tmp <- tmp[sapply(tmp, nrow) > 0] # Filtering out the empty file
 
-}
+tmp <- pblapply(tmp,cl = 10, function(x){
+	x <- x |> pivot_longer(cols = -c(CHROM, POS)) |>
+	mutate(name = gsub("^X|\\..*|_R_","",name)) |>
+	filter(!is.na(value)) |> distinct() #|>
+
+	#pivot_wider(c(CHROM, POS), values_fn = function(x) paste(x, collapse = ","), values_fill = "AB") #|>
+	return(x)
+					  })
+
+names(tmp) <- gsub(".vcf.gz","",basename(files))
+vcfDF <- tmp |> bind_rows() |>
+	 pivot_wider(c(CHROM, POS), values_fn = function(x) paste(x, collapse = ","), values_fill = "AB") |>
+	 mutate(CHROM = gsub("NT", "",CHROM)) #|> filter(if_any(everything(), ~ !grepl("AB",.x)))
+
+# Finding the strains to remove due to missing genes
+filteringSamples <- vcfDF |> group_by(CHROM) |> select(-POS) |> mutate(across(everything(),~ .x == "AB")) |>
+	group_by(CHROM) |> summarize(across(everything(), ~ sum(.x)), Length = length(CHROM)) |> pivot_longer(-c(CHROM, Length)) |>
+	filter(value/Length == 1) |> pull(name) |> unique()
+vcfDF <- vcfDF[,!(colnames(vcfDF) %in% filteringSamples)]
+
+# finding those which are <5% indels
+keeping <- vcfDF |> select(-CHROM, -POS) |> pivot_longer(everything()) |> group_by(name) |> summarize(value = sum(grepl("AB", value))/length(name)) |>
+	filter(value == 0.00) |> pull(name)
+# Getting things ready for the MCA
+coord <- vcfDF |> unite(TMP, CHROM,POS, sep = ":") |> pull(TMP)
+vcfDF <- vcfDF |> as.data.frame() |> select(-c(CHROM, POS))
+rownames(vcfDF) <- coord
+vcfDF <- vcfDF[,keeping]
+
+vcfDF <- vcfDF[,colnames(vcfDF) %in% poppunkLineage$Genome]
 
 # Did this in a weird way. Aligned each example from CARD separately against our 16S genes. Will have to look separately
 
-# C. acnes. Only has G1032C. Located at 1522 in the VCF file due to the alignment
-file <- "16STetracycline/16SWithCacnes.vcf.gz" 
-Cacnes <- TetWorkup(vcfReading(file)) |> select(-contains("Cuti"))
-Cacnes |> filter(grepl(":1522", Position)) |> select(-Position) |> pivot_longer(everything(), names_to = "Genome", values_to = "SNP") |> filter(SNP == "C")
-#Cacnes[grepl(":1522$", rownames(Cacnes)),] |> t() |> table()
+# C. acnes. Only has G1032C.
+grepSearch <- paste("Cacnes", 1032, sep = ":", collapse = "|")
+grep(grepSearch, rownames(vcfDF)) # Comes up empty!
 
-# Ecoli rrsB. Only has G1058C. Located at 1492 in the VCF file due to the alignment
-file <- "16STetracycline/16SWithEcolirrsB.vcf.gz" 
-rrsB <- TetWorkup(vcfReading(file)) |> select(-contains("gb"))
-rrsB |> filter(grepl(":1492", Position)) |> select(-Position) |> pivot_longer(everything(), names_to = "Genome", values_to = "SNP") |> filter(SNP == "C")
-#rrsB[grepl(":1492$", rownames(rrsB)),] |> t() |> table()
+# Ecoli rrnB. Has A964G, G1053A, C1504T, A1055G. 
+grepSearch <- paste("rrnB", c(964,1053,1504,1055), sep = ":", collapse = "|")
+grep(grepSearch, rownames(vcfDF)) # Comes up empty!
 
-# Ecoli rrnB. Has A964G, G1053A, C1504T, A1055G. Located at 1347, 1487:1489 in the VCF file due to the alignment
-file <- "16STetracycline/16SWithEcolirrnB.vcf.gz" 
-rrnB <- TetWorkup(vcfReading(file)) |> select(-contains("gb"))
-rrnB |> filter(grepl(":1347|:1487|:1488|:1489", Position)) |>  pivot_longer(-Position) |> filter(value != "A") |> pivot_wider(name, names_from = Position, values_from = value)
+# H. pylori. Has A965G, G966T, A967C. Also has 926 - 928.
+grepSearch <- paste("Hpylori", c(926:928, 965:967), sep = ":", collapse = "|")
+rowInd <- grep(grepSearch, rownames(vcfDF)) # Comes up empty!
+vcfDF[rowInd[1],] |> t() |> as.data.frame() |> table()
+vcfDF[rowInd[2],] |> t() |> as.data.frame() |> table()
+vcfDF[rowInd[3],] |> t() |> as.data.frame() |> table()
+vcfDF[rowInd,] |> t() |> as.data.frame() |> filter(`Hpylori:926` != "A" | `Hpylori:928` != "T" | `Hpylori:965` != "T") |> 
+	write.csv("Hpylori.csv", quote = F)
 
-# H. pylori. Has A965G, G966T, A967C. Located at 1488:1490 in the VCF file due to the alignment
-# Also has 926 - 928. Corresponds to 1441:1443
-file <- "16STetracycline/16SWithHpylori.vcf.gz" 
-Hpylori <- TetWorkup(vcfReading(file)) |> select(-contains("gb"))
-Hpylori |> filter(grepl(":1441$|:1442$|:1443$|:1488$|:1489$|:1490$", Position)) |> pivot_longer(-Position) |> pivot_wider(name, names_from = Position, values_from = value) |>
-	select(-name) |> group_by_all() |> count()
-
-
-#Hpylori[grepl(":1447$|:1488$|:1489$|:1490$", rownames(Hpylori)),]
-
+# Looking at the 965 - 967 hotspot in Tpal from Tantalos et al. 2024 It's actually at 967 - 969 here
+grepSearch <- paste("16STpal", c(967:969), sep = ":", collapse = "|")
+rowInd <- grep(grepSearch, rownames(vcfDF)) # Comes up empty!
+vcfDF[rowInd[1],] |> t() |> as.data.frame() |> table()
+vcfDF[rowInd[2],] |> t() |> as.data.frame() |> table()
+vcfDF[rowInd,] |> t() |> as.data.frame() |> table()
+vcfDF[rowInd,] |> t() |> as.data.frame() |> filter(`16STpal:967` != "T" | `16STpal:969` != "A") |> write.csv("Hotspot.csv", quote = F)
 
 ##### Penicillin NT Results! ####
-files <- list.files("Penicillin/NT", full.names = T, pattern = "vcf")
+files <- list.files("Penicillin/NTMapped", full.names = T, pattern = "vcf")
 tmp <- pblapply(files, cl = 10, vcfReading)  # Reading in the data
 names(tmp) <- gsub("Penicillin/|.vcf","",files)
 #tmp <- tmp[sapply(tmp, nrow) > 0] # Filtering out the empty file
@@ -268,36 +308,33 @@ tmp <- pblapply(tmp,cl = 10, function(x){
 	x <- x |> pivot_longer(cols = -c(CHROM, POS)) |>
 	mutate(name = gsub("^X|\\..*|_R_","",name)) |>
 	filter(!is.na(value)) |> distinct() #|>
+
 	#pivot_wider(c(CHROM, POS), values_fn = function(x) paste(x, collapse = ","), values_fill = "AB") #|>
 	return(x)
 					  })
 
-names(tmp) <- gsub("Penicillin/|.vcf","",files)
+names(tmp) <- gsub(".vcf.gz","",basename(files))
 vcfDF <- tmp |> bind_rows() |>
 	 pivot_wider(c(CHROM, POS), values_fn = function(x) paste(x, collapse = ","), values_fill = "AB") |>
 	 mutate(CHROM = gsub("NT", "",CHROM)) #|> filter(if_any(everything(), ~ !grepl("AB",.x)))
 
+# Finding the strains to remove due to missing genes
+filteringSamples <- vcfDF |> group_by(CHROM) |> select(-POS) |> mutate(across(everything(),~ .x == "AB")) |>
+	group_by(CHROM) |> summarize(across(everything(), ~ sum(.x)), Length = length(CHROM)) |> pivot_longer(-c(CHROM, Length)) |>
+	filter(value/Length == 1) |> pull(name) |> unique()
+vcfDF <- vcfDF[,!(colnames(vcfDF) %in% filteringSamples)]
+
+# finding those which are <5% indels
+keeping <- vcfDF |> select(-CHROM, -POS) |> pivot_longer(everything()) |> group_by(name) |> summarize(value = sum(grepl("AB", value))/length(name)) |>
+	filter(value == 0.00) |> pull(name)
+# Getting things ready for the MCA
 coord <- vcfDF |> unite(TMP, CHROM,POS, sep = ":") |> pull(TMP)
 vcfDF <- vcfDF |> as.data.frame() |> select(-c(CHROM, POS))
 rownames(vcfDF) <- coord
+vcfDF <- vcfDF[,keeping]
+#vcfDF <- vcfDF |> select(-contains("draft")) # Removing draft genomes
 
-vcfDF <- vcfDF |> select(-contains("draft")) # Removing draft genomes
-
-# Quickly testing what will happen if I remove the genomes with missing genes.
-noMissing <- sapply(vcfDF, function(x){
-	      y <- table(x) |> unlist() |> names()
-		ifelse(any(c("AB","*") %in% y), F, T)
-					  })
-vcfDF <- vcfDF[,noMissing]
-
-# Also, we're interested in SNPs, not indels
-noMissing <- apply(vcfDF, MARGIN = 1, function(x){
-	      y <- table(x) |> unlist() |> names()
-		ifelse("*" %in% y, F, T)
-					  })
-vcfDF <- vcfDF[noMissing,]
-
-test <- pbapply(vcfDF, cl = 10, MARGIN = 1, FUN = function(x){
+test <- apply(vcfDF, MARGIN = 1, FUN = function(x){
 		       counts <- table(x) |> unlist() |> sort(decreasing = T)
 		       
 		       minGen <- 2
@@ -311,7 +348,9 @@ test <- pbapply(vcfDF, cl = 10, MARGIN = 1, FUN = function(x){
 		       		return(T)
 		       }
 					  }) 
-vcfDFMCA <- vcfDF[test,]
+
+# Making sure we're not including any stragglers 
+vcfDFMCA <- vcfDF[test,colnames(vcfDF) %in% poppunkLineage$Genome]
 
 mcaResults <- MCA(t(vcfDFMCA), graph = F)
 
@@ -331,6 +370,13 @@ mcaCoordVar <- mcaCoordVar[rowsImp,]
 
 baryCentre <- mcaCoord |> group_by(Rank_5_Lineage) |> 
 	summarize(`Dim 1` = mean(`Dim 1`), `Dim 2` = mean(`Dim 2`))
+
+# Let's get the confidence ellipses calculated manually since stat_ellipse is dying on me....
+ellipseData <- lapply(split.data.frame(mcaCoord, mcaCoord$Rank_5_Lineage), function(x){
+			     tmp <- calculateEllipses(x[,1:2])
+			     tmp$Rank_5_Lineage <- x$Rank_5_Lineage[1]
+			     return(tmp)
+	       }) |> bind_rows()
 
 ntPBPLin1 <- mcaCoord |> ggplot(aes(x = `Dim 1`, y = `Dim 2`, colour = as.factor(Rank_1_Lineage), group = as.factor(Rank_5_Lineage))) +
 	geom_hline(yintercept=0, lty = 2, colour = "grey90") + 
@@ -361,24 +407,23 @@ snpDist <- vcfDFMCA |> pivot_longer(-SNPLocation, names_to = "Genome", values_to
 	group_by(SNPLocation, Rank_5_Lineage) |> count(SNP, name = "Count") |>
 	pivot_wider(c(SNPLocation, SNP), names_from = Rank_5_Lineage, values_from = Count, values_fill = 0)
 
-uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
+#uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
 
-snpDist |> filter(SNPLocation %in% uniquePos) |> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCASNPs.tex")
+snpDist |> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCASNPs.tex")
 
 snpDist <- vcfDFMCA |> pivot_longer(-SNPLocation, names_to = "Genome", values_to = "SNP") |> left_join(poppunkLineage) |> 
 	select(SNPLocation, Rank_1_Lineage, Genome, SNP) |>
 	group_by(SNPLocation, Rank_1_Lineage) |> count(SNP, name = "Count") |>
 	pivot_wider(c(SNPLocation, SNP), names_from = Rank_1_Lineage, values_from = Count, values_fill = 0)
 
-uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
-snpDist |> filter(SNPLocation %in% uniquePos) |> write.table("MCASNPsLin1.tab", row.names = F, quote = F, sep = "\t") #|> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCASNPsLin1.tex")
+#uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
+snpDist |> write.table("MCASNPsLin1.tab", row.names = F, quote = F, sep = "\t") #|> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCASNPsLin1.tex")
 vcfDFMCA
 
 ##### Dealing with the AAs now for Penicillin ####
 files <- list.files("Penicillin/AA", full.names = T, pattern = "vcf")
 tmp <- pblapply(files, cl = 10, vcfReading)  # Reading in the data
 names(tmp) <- gsub("Penicillin/|.vcf","",files)
-#tmp <- tmp[sapply(tmp, nrow) > 0] # Filtering out the empty file
 
 tmp <- pblapply(tmp,cl = 10, function(x){
 	x <- x |> pivot_longer(cols = -c(CHROM, POS)) |>
@@ -389,9 +434,7 @@ tmp <- pblapply(tmp,cl = 10, function(x){
 					  })
 
 names(tmp) <- gsub("Penicillin/|.vcf","",files)
-#accessoryGenes <- accessoryGenes[!grepl("tpr", accessoryGenes)] # Want to remove the TPR genes since they're not meaningful in this analysis
 vcfDF <- tmp |> bind_rows() |>
-#vcfDF <- tmp[accessoryGenes] |> bind_rows() |>
 	 pivot_wider(c(CHROM, POS), values_fn = function(x) paste(x, collapse = ","), values_fill = "AB") |>
 	 mutate(CHROM = gsub("AA", "",CHROM)) #|> filter(if_any(everything(), ~ !grepl("AB",.x)))
 
@@ -405,7 +448,7 @@ noMissing <- pbsapply(vcfDF, cl = 10, function(x){
 	      y <- table(x) |> unlist() |> names()
 		ifelse(sum(c("X","AB","*") %in% y), F, T)
 					  })
-vcfDF <- vcfDF[noMissing]
+vcfDF <- vcfDF[,noMissing]
 
 test <- pbapply(vcfDF, cl = 10, MARGIN = 1, FUN = function(x){
 		       counts <- table(x) |> unlist() |> sort(decreasing = T)
@@ -476,6 +519,7 @@ ggarrange(ntPBPLin1, aaPBPLin1, nrow = 2, common.legend = T, legend = "bottom", 
 ggsave("Figures/Beale/PBPAll.pdf", width = 9, height = 6)
 
 # Plotting Variables
+aaResults <- fviz_mca_var(mcaResults, col.var = "contrib", ggtheme = theme_classic(), gradient.cols = c("blue", "green", "red")) + theme(plot.title = element_blank())
 ggarrange(ntResults, aaResults, ncol = 1, align = "hv", labels = "auto")
 ggsave("Figures/Beale/MCAVarPositions.pdf", width = 12, height = 9)
 
@@ -485,15 +529,15 @@ snpDist <- vcfDFMCA |> pivot_longer(-SNPLocation, names_to = "Genome", values_to
 	group_by(SNPLocation, Rank_5_Lineage) |> count(SNP, name = "Count") |>
 	pivot_wider(c(SNPLocation, SNP), names_from = Rank_5_Lineage, values_from = Count, values_fill = 0)
 
-uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
+#uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
 
-snpDist |> filter(SNPLocation %in% uniquePos) |> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCAAAs.tex")
+snpDist |> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCAAAs.tex")
 
 snpDist <- vcfDFMCA |> pivot_longer(-SNPLocation, names_to = "Genome", values_to = "SNP") |> left_join(poppunkLineage) |> 
 	select(SNPLocation, Rank_1_Lineage, Genome, SNP) |>
 	group_by(SNPLocation, Rank_1_Lineage) |> count(SNP, name = "Count") |>
 	pivot_wider(c(SNPLocation, SNP), names_from = Rank_1_Lineage, values_from = Count, values_fill = 0)
 
-uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
-snpDist |> filter(SNPLocation %in% uniquePos) |> write.table("MCAAAsLin1.tab", row.names = F, quote = F, sep = "\t") #|> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCASNPsLin1.tex")
+#uniquePos <- mcaCoordVar$SNP |> gsub(pattern = "_.*",replacement = "") |> unique()
+snpDist |> write.table("MCAAAsLin1.tab", row.names = F, quote = F, sep = "\t") #|> xtable() |> autoformat() |> print.xtable(booktabs = T, include.rownames = F, file = "MCASNPsLin1.tex")
 

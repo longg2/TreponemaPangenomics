@@ -45,7 +45,6 @@ BlastParsing <- function(blastFile, ncores){
 	 }) |> bind_rows() |> filter(PIdent >= 90)
 }
 
-
 fixingDates <- function(date){
   date <- gsub("[A-z]","", date) # Making sure it's only numbers
   lengthString <- nchar(date)
@@ -110,10 +109,6 @@ panHeap <- function(panDF, iter = NULL){
   
 }
 
-colour <- c('#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6',
-'#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3',
-'#808000', '#ffd8b1', '#000075', '#808080', '#f0f0f0', '#000000')
-
 TpalLintoSub <- function(x){
 	if(x == 1){
 		return("SS14")
@@ -147,8 +142,10 @@ calculateEllipses <- function(dat){
 	return(df)
 }
 
+colour <- c('#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6',
+'#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3',
+'#808000', '#ffd8b1', '#000075', '#808080', '#f0f0f0', '#000000')
 smallColours <-  c("#3BB273", "#4D9DE0","#7768AE","#E1BC29","#E15554", "#D1A7A0")
-#conversionList <- c("SS14", "Nichols","TPE", "TEN")
 theme_set(theme_classic()) # saving myself some commands
 
 ##### Reading in the metadata #####
@@ -199,19 +196,12 @@ amrInfo <- read.delim("Data/AMRHits.tab") |>
 
 # Including the Poppunk info
 poppunkLineage <- read.csv("Data/AllMasked_lineages.csv") |>
-#PoppunkLineages <- read.csv("Data/TomBealeMapped_lineages.csv") |>
-#PoppunkLineages <- read.csv("Data/NewAssembled/TomBeale100_lineages.csv") |>
   rename(Genome = id) |> mutate(Genome = sapply(Genome, function(x){
 	  tmp <- strsplit(x, split = "_") |> unlist() |> unname()
 	  tmp <- paste(tmp[1:2], sep = "_", collapse = "_" )
 	  tmp <- gsub("_NA$","", tmp)
 	  return(tmp)
   })) |> distinct()
-
-#beaeleMetadata <- read.csv("../MetadataExtra/Beale2021.csv") |> 
-#  rename(Genome = SRR.ENA_Accession, geo_loc_name = Geo_Country,
-#         collection_date = Sample_Year) |>
-#  mutate(collection_date = as.numeric(collection_date))
 
 # Loading in the genomes lengths
 genomeStats <- read.delim("Data/PanSequenceStats.tab", header = T) |> as_tibble() |>
@@ -223,7 +213,6 @@ genomeStats <- read.delim("Data/PanSequenceStats.tab", header = T) |> as_tibble(
   })) |> distinct()
 
 metadata <- metadata |> full_join(poppunkLineage) |> left_join(amrInfo) |> left_join(genomeStats) # Merging it all together
-
 
 # Dealing with the colours now
 coloursClusters <- c("#F0454B", "#2B8737", "#0369AC", "#92278F", "#00B2E3")
@@ -266,6 +255,9 @@ roaryOutput <- as_tibble(read.delim("Data/gene_presence_absence.Rtab"))
 colnames(roaryOutput)[2:ncol(roaryOutput)] <- gsub("^X|ConfAncient|\\.scaffold|\\.genome|\\.result|_genomic", "", colnames(roaryOutput)[2:ncol(roaryOutput)])
 colnames(roaryOutput)[2:ncol(roaryOutput)] <- gsub("\\.", "-", colnames(roaryOutput)[2:ncol(roaryOutput)])
 
+# Finding the Core Genome
+coreGenes <- rowSums(roaryOutput[,-1]) >= floor(0.95 * ncol(roaryOutput)) # Have incomplete assemblies, want to play it safe
+
 # Now to figure out how to make the models!
 # Likely want to do multiple permutations to show that it doesn't matter who's first
 
@@ -275,30 +267,50 @@ heapSummarized <- heapResults |>
   pivot_longer(everything(), values_to = "Value", names_to = "variable") |>
   group_by(variable) |>
   summarize(meanValue = mean(Value), sdValue = sd(Value), seValue = sdValue/sqrt(length(Value)),
-                         meanValue = mean(Value), sdValue = sd(Value), seValue = sdValue/sqrt(length(Value)))
+                         meanValue = mean(Value), sdValue = sd(Value), seValue = sdValue/sqrt(length(Value)),
+			 loValue = meanValue - 1.96 * seValue, hiValue = meanValue + 1.96 * seValue, "") |> as.data.frame()
 
-heapSummarized <- heapSummarized |> mutate(variable = factor(variable, labels = c("K", TeX('$\\beta$'))))
 
-heapResults |> pivot_longer(everything(), values_to = "Value", names_to = "variable") |>
-  mutate(variable = factor(variable, labels = c("K", TeX('$\\beta$')))) |>
-  ggplot(aes(x = Value, fill = variable)) +
-  geom_density() +
-  geom_rect(data = heapSummarized, inherit.aes = F,aes(ymin = -Inf, ymax = Inf,
-                                       xmin = meanValue - 1.96*sdValue, xmax = meanValue + 1.96*sdValue), alpha = 0.5) +
-  geom_vline(data = heapSummarized, aes(xintercept = meanValue), lty = 2) +
-  facet_wrap("variable", scales = "free", labeller = label_parsed)+
-  scale_fill_manual(values = smallColours, "Parameter") +
-  theme(legend.position = "none")
+heapSummarizedPlot <- heapSummarized |> mutate(variable = factor(variable, labels = c("K", TeX('$\\gamma$'))))
 
-ggsave("Figures/HeapParameters.pdf", width = 6, height = 4)
+# Now to take a look at the individual sub-species
+subSep <- pblapply(list.files("Data/IndivPan/", pattern = "*tab", full.names = T), function(x){
+	sampleName <- gsub("\\.rtab","",basename(x))
+	panGenome <- as_tibble(read.delim(x))
+	heapResults <- panHeap(panGenome) |> bind_rows()
+
+	heapSummarized <- heapResults |> 
+	  pivot_longer(everything(), values_to = "Value", names_to = "variable") |>
+	  group_by(variable) |>
+  	  summarize(meanValue = mean(Value), sdValue = sd(Value), seValue = sdValue/sqrt(length(Value)),
+                         meanValue = mean(Value), sdValue = sd(Value), seValue = sdValue/sqrt(length(Value)),
+			 loValue = meanValue - 1.96 * seValue, hiValue = meanValue + 1.96 * seValue, Sample = sampleName, N = ncol(panGenome)) |> as.data.frame()
+	return(heapSummarized)
+			 }) |> bind_rows()
+
+sepLin <- subSep |> bind_rows(heapSummarized |> mutate(Sample = "All", N = 544)) |> filter(Sample != "tpa") |> group_by(Sample, variable) |> 
+	mutate(Sample = ifelse(Sample == "tpe", "TPE", ifelse(Sample == "ten", "TEN", ifelse(Sample == "ss14", "SS14", ifelse(Sample == "All", "All","Nichols"))))) |> 
+	select(Sample, N, variable, meanValue, loValue, hiValue) |> group_by(Sample, variable) |>
+	pivot_longer(-c(Sample, N, variable)) |> unite(New, variable, name) |> pivot_wider(id_cols = c(Sample, N), names_from = New, values_from = value) |>
+	reframe(N = 1:N, y = k_meanValue*(N)^y_meanValue, ylo = k_loValue*(N)^y_loValue, yhi = k_hiValue*(N)^y_hiValue) |>
+       	ggplot(aes(x = N, y = y, ymin = ylo, ymax = yhi, colour = Sample, fill = Sample)) +
+	theme_classic() +
+	geom_ribbon(alpha = 0.5, colour = NA) +
+	scale_fill_manual(values = c(coloursClustersConversion, "All" = "#00B2E3")) +
+	scale_colour_manual(values = c(coloursClustersConversion, "All" = "#00B2E3")) +
+	geom_line() +
+	xlab("Genomes") +
+	ylab("Genes") +
+	theme(legend.position = "bottom")
+
+ggsave("Figures/HeapRegression.pdf",sepLin, width = 6, height= 4)
 
 ############# Core Gene Presence #####
-# Finding the Core Genome
-coreGenes <- rowSums(roaryOutput[,-1]) >= floor(0.95 * ncol(roaryOutput)) # Have incomplete assemblies, want to play it safe
 accessGenes <- roaryOutput$Gene[!coreGenes]
 coreGenes <- roaryOutput$Gene[coreGenes]
 
 write.table(accessGenes, file = "AccessoryGenes.list", row.names = F, col.names = F, quote = F)
+# Incorporating the ancient into the thresholds
 roaryOutputwithAncient <- roaryOutput
 
 pangenomeCounts <- roaryOutputwithAncient |> select(-Gene) |>
@@ -324,7 +336,7 @@ ggsave("Figures/BoxplotCounts.pdf",geneBox,  width = 9, height = 6)
 
 geneCountModel <- metadata |> filter(Count > 940, sum_len <1.145e6, sum_len > 1.135e6) |> lm(formula =  Count ~ SubspeciesSam + sum_len)
 
-metadata |> filter(Count > 940, sum_len <1.145e6, sum_len > 1.135e6) |> lm(formula =  Count ~ SubspeciesSam + sum_len) |> emmeans(specs = "SubspeciesSam") |> pairs()
+metadata |> filter(Count > 940, sum_len <1.145e6, sum_len > 1.135e6) |> lm(formula =  Count ~ SubspeciesSam + sum_len) |> emmeans(specs = "SubspeciesSam") #|> pairs()|> as.data.frame()
 
 metadata |> filter(Count > 940, sum_len <1.145e6, sum_len > 1.135e6) |> ggplot(aes(x = sum_len, y = Count, colour = as.factor(Rank_1_Lineage), group = as.factor(Rank_5_Lineage))) +
 	geom_point() +
@@ -345,6 +357,18 @@ GenesID <- read.delim("Data/BestBlastHits.tab", header = F)[,c(1,2)]
 colnames(GenesID) <- c("Gene", "Accession")
 GenesID <- read.delim("Data/ProteinOutput.list") |> rename(Accession = ProteinID) |> 
 	right_join(GenesID |> mutate(Accession = gsub("\\.\\d$","",Accession)), relationship = "many-to-many")
+
+# Quickly looking to see if TPE has a larger accessory content
+subSep <- pblapply(list.files("Data/IndivPan/", pattern = "*tab", full.names = T), function(x){
+	sampleName <- gsub("\\.rtab","",basename(x))
+	panGenome <- as_tibble(read.delim(x))
+	
+	coreGenes <- rowSums(panGenome[,-1]) >= floor(0.95 * ncol(panGenome)) # Have incomplete assemblies, want to play it safe
+	
+	core <- sum(coreGenes)
+	access <- sum(!coreGenes)
+	return(data.frame(Sample = sampleName, Core = core, Access = access))	
+			 }) |> bind_rows()
 
 ##### Doing the Core Genome PCoA ####
 coreDf <- roaryOutputwithAncient |> filter(Gene %in% coreGenes)
@@ -373,7 +397,7 @@ coord <- coord[,1:4]
 coord$Genome <- rownames(fit$points)
 contrib <- fit$eig/sum(fit$eig) * 100
 
-coord <- coord |> 
+coord <- coord |> #mutate(shape = replace(shape, grepl("draft", Genome), "Canadian")) |>
   mutate(Genome = gsub("-.*","", Genome)) |> left_join(metadata) |>
   select(Genome, host, sub_species, Rank_1_Lineage, Rank_5_Lineage, V1,V2, host) |>
   mutate(sub_species = factor(sub_species, levels = sort(unique(sub_species)))) |>
@@ -387,6 +411,8 @@ pCore <- coord |> #mutate(Assembled = ifelse(grepl("ERR", Genome), T, F)) |>
   ggplot(aes(x = V1, shape = host, y = V2, label = Genome, colour = Rank_5_Lineage)) +#, shape = Assembled)) +#, group = clusters)) +
 	geom_hline(yintercept=0, lty = 2, colour = "grey90") + 
 	geom_vline(xintercept=0, lty = 2, colour = "grey90") +
+	#geom_jitter(width = 0.15, height = 0.15,alpha = 0.75) +
+  #geom_density_2d() +
 	geom_point(alpha = 0.5) +
 	scale_colour_manual("Lineage", values = colour) +
 	guides(colour = guide_legend(nrow = 2, title.position = "top", title.hjust = 0.5),
@@ -468,7 +494,6 @@ p1 <- coord |> #mutate(Assembled = ifelse(grepl("ERR", Genome), T, F)) |>
 	theme(legend.position = "bottom", legend.title.position = "top")
 
 p1PCOAAccess <- p1
-#p2PCOAAccess <- p2
 
 # Finding the Nichols genomes which are hanging out with the SS14 clade
 coord |> filter(V1 > 0, Rank_5_Lineage == 2) |> select(Genome) |> left_join(metadata) |> write.table(sep = "\t", file = "OddNichols.tab", quote = F, row.names = F)

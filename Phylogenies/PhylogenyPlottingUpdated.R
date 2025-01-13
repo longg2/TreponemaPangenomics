@@ -24,17 +24,6 @@ library(scales)
 colour <- c('#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6',
 '#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3',
 '#808000', '#ffd8b1', '#000075', '#808080', '#f0f0ff', '#000000')
-#coloursClusters <- c("#F0454B", "#2B8737", "#0369AC", "#92278F", "#00B2E3")
-#SS14Colours <- c(lighten(coloursClusters[1], 0.15 * 2:1), coloursClusters[1], darken(coloursClusters[1], 0.15 * 1:2))
-#names(SS14Colours) <- c(1,3,4,13,20)
-#NicholsColours <- c(lighten(coloursClusters[2], 0.1 * 5:1), coloursClusters[2], darken(coloursClusters[2], 0.1 * 1:5))
-#names(NicholsColours) <- c(2,5:9,15,19,21,22,24)
-#TPEColours <- c(lighten(coloursClusters[3], 0.15 * 3:1), coloursClusters[3], darken(coloursClusters[3], 0.15 * 1:3))
-#names(TPEColours) <- c(10,11,12,14,17,23,25)
-#TENColours <- c(lighten(coloursClusters[4], 0.25), darken(coloursClusters[4], 0.25))
-#names(TENColours) <- c(16,18)
-#
-#coloursRank1 <- c(SS14Colours, NicholsColours, TPEColours, TENColours)
 
 # Functions
 metadataParsing <- function(file){
@@ -70,8 +59,6 @@ fixingDates <- function(date){
   }
 }
 
-# Taking care of the metadata
-#ann_colors <- list(ST = c("Outgroup" = colour[3], "7" = colour[15], "8" = colour[10], "9" = colour[9], "10" = colour[6], "11" = colour[17], "12" = colour[8], "39" = colour[13], "40" = colour[2], "41" = colour[16], "42" = colour[7], "43" = colour[4], "71" = colour[11], "88" = colour[12], "102" = colour[19], "Geridu" = colour[5],"Ancient" = colour[1], "NF" = colour[20], "NIPH" = colour[22]))
 # Loading in the metadata
 metadata <- metadataParsing("Data/T160D20240604OtherMetaData.tab")
 diseaseToSub <- c("syp" = "pallidum", "con" = "pallidum", "yaw" = "pertenue",
@@ -92,14 +79,6 @@ metadata <- metadata |> mutate(geo_loc_name = gsub(":.*","", geo_loc_name),
                                geo_loc_name = replace(geo_loc_name, grepl("not", geo_loc_name), NA)) 
 metadata$collection_date <- sapply(metadata$collection_date, fixingDates)
 metadata <- metadata |> mutate(collection_date = decimal_date(as.Date(collection_date)))
-
-# Now to load in the Poppunk data
-#Poppunkclusters <- read.csv("Data/Assigned_clusters.csv") |>
-#  rename(Genome = Taxon) |> mutate(Genome = sapply(Genome, function(x){
-#	  tmp <- strsplit(x, split = "_") |> unlist() |> unname()
-#	  tmp <- paste(tmp[1:(length(tmp)-1)], sep = "_", collapse = "_" )
-#	  return(tmp)
-#  }))
 
 PoppunkLineages <- read.csv("Data/AllMasked_lineages.csv") |>
 #PoppunkLineages <- read.csv("Data/TomBealeMapped_lineages.csv") |>
@@ -210,16 +189,6 @@ coloursRank1 <- c(SS14Colours, NicholsColours, TPEColours, TENColours)
 genomesUsed <- read.table("../AMR/GenomeList.list", col.names = F) |> unlist() |> unname() # This is making sure I'm only including the genomes of interest
 fullMeta <- fullMeta |> filter(Genome %in% genomesUsed) 
 
-#full_join(Poppunkclusters) |> 
-# Making for simple clustering
-#sortedClusters <- fullMeta$Cluster |> unique() |> mixedsort()
-
-# Going to simplify the clusters so that only major groups pop-up
-#singletons <- fullMeta |> count(Cluster,name = "Count") |>
-#  filter(Count == 1) |> pull(Cluster)
-#
-#fullMeta <- fullMeta |>
-#  mutate(Cluster = replace(Cluster, Cluster %in% singletons, "Singletons"))
 #### Comparing the Poppunk Lineages and the MLST Results ####
 # Now we need to show that the poppunk clusters are consistent!
 summarizedClusters <- fullMeta |> filter(!grepl("Reference|037762225", Genome)) |> group_by(Rank_5_Lineage,Rank_1_Lineage) |> count(TPASub, name = "Genomes") |>
@@ -236,19 +205,28 @@ rm(tmpList)
 
 summarizedClusters[,c("Rank_5_Lineage","Rank_1_Lineage", "SS14-like", "Nichols-like", "NotTPA", "Unknown", "Failed", "Total")] |> xtable(auto = T, row.names = F) |> print(file = "PopPUNKvsGrillovaRank1.tex")
 
-# Making that table
-tmp <- fullMeta |> filter(!grepl("Reference|037762225|draft", Genome)) |>
-	filter(ST != "Failed") 
+# Making a MLST Profile table
+knownSTs <- fullMeta |> filter(!(ST %in% c("Failed", "Unknown"))) |> group_by(Rank_1_Lineage, ST) |>
+	mutate(across(contains("TP0"), ~ gsub(pattern = "\\*|\\?", replacement = "", x = .x)))|>
+	sample_n(1) |> ungroup() |> select(Genome, Rank_5_Lineage, Rank_1_Lineage, contains("TP0")) |>
+	unite(Profile, contains("TP"), sep = ".") |> arrange(Profile)
 
-unknownSTs <- tmp |> filter(ST == "Unknown") |>  select(ST, contains("TP0")) |> distinct() |> arrange(TP0136, TP0548, TP0705)
-unknownSTs$ST <- paste0("t",1:nrow(unknownSTs))
+unknownSTs <- fullMeta |> filter(!grepl("Reference|037762225|draft", Genome)) |> filter(ST %in% c("Failed", "Unknown")) |>
+	group_by(Rank_1_Lineage, ST) |>
+	mutate(across(contains("TP0"), ~ gsub(pattern = ".*\\*|.*\\?|-", replacement = "X", x = .x))) |>
+	sample_n(1) |> ungroup() |> select(Genome, Rank_5_Lineage, Rank_1_Lineage, contains("TP0")) |>
+	unite(Profile, contains("TP"), sep = ".") |> arrange(Profile)
+	
+knownSTs |> bind_rows(unknownSTs) |> write.csv(file = "LineagetoProfile.csv")
 
-tmp |> left_join(unknownSTs, by = c("TP0136","TP0548", "TP0705")) |> 
-	mutate(ST.x = replace(ST.x, ST.x == "Unknown", NA)) |> 
-	unite(ST, ST.x, ST.y, na.rm = T) |>
-	group_by(Rank_5_Lineage, Rank_1_Lineage) |> distinct(ST) |> 
-	summarize(ST = paste(mixedsort(ST), collapse = ",")) |>
-	arrange(Rank_5_Lineage, Rank_1_Lineage) |> xtable(auto = T, row.names = F) |> print(file = "LineagetoST.tex")
+tmp <- unknownSTs |> select(-Genome) |> group_by(Rank_5_Lineage, Rank_1_Lineage) |>
+	arrange(Profile) |>
+	reframe(NovelProfile = paste(unique(Profile)[!grepl("X", unique(Profile))], collapse = ";"),
+	PartialProfile = paste(unique(Profile)[grepl("X", unique(Profile))], collapse = ";"))
+
+knownSTs |> select(-Genome) |> group_by(Rank_5_Lineage, Rank_1_Lineage) |>	
+	summarize(Profile = paste(mixedsort(unique(Profile)), collapse = ";")) |> full_join(tmp) |>
+	write.csv("LineagetoProfileCompiled.csv")
 
 #### The Latex Tables ####
 # Understanding the lineages by composition # NOTE NAs are from either the reference genome (included already) or the ancient genome (DIFFERENT PAPER)
@@ -279,60 +257,16 @@ snpMat <- read.delim(file = "Data/snpDistances.tab", header = F) |>
 				}), V2 = gsub("\\.\\d|_NA","",V2)) |>
 	mutate(V1 = gsub("Reference", "GCA_000017825", V1), V2 = gsub("Reference", "GCA_000017825", V2))
 
-heatmapMatrix <- snpMat |> pivot_wider(id_cols = V1, names_from = V2, values_from = V3) |> as.data.frame()
-
-rownames(heatmapMatrix) <- heatmapMatrix[,1]
-heatmapMatrix <- heatmapMatrix[,-1]
-
-heatmapTest <- fullMeta |> filter(Genome %in% rownames(heatmapMatrix)) |> select(Rank_5_Lineage, Rank_1_Lineage) |> 
-	mutate(SubLineage = as.factor(Rank_1_Lineage),Lineage = as.factor(Rank_5_Lineage), .keep = "none")
-
-test <- list(Lineage = coloursClusters[1:4], SubLineage = c(SS14Colours, NicholsColours, TPEColours, TENColours))
-names(test[[1]]) <- 1:4
-
-pheatmap(heatmapMatrix, annotation_row = heatmapTest, clustering_method = "ward.D2", annotation_legend = F, border_color = NA,
-	 annotation_col = heatmapTest, show_rownames = F, show_colnames = F, annotation_colors = test, filename = "Figures/SNPHeatmap.pdf",
-	 annotation_names_col = F,
-	 width = 9, height = 9)
-dev.off()
-
 # Now to do the tests *within* the groups
 snpDF <- snpMat |> mutate(Start = heatmapTest[V1,"Lineage"], End = heatmapTest[V2,"Lineage"]) |> 
 	select(Start, End, V3) |> as_tibble() |> mutate(Start = conversionList[as.numeric(Start)], Start = factor(Start, levels = c("SS14", "Nichols", "TPE", "TEN"))) |> 
 	mutate(End = conversionList[as.numeric(End)], End = factor(End, levels = c("SS14", "Nichols", "TPE", "TEN"))) |> rename(SNP = V3)
-
-summarizedSNPdf <- snpDF |> group_by(Start, End) |> summarize(Median = median(SNP), Mean = mean(SNP), SE = sd(SNP)/sqrt(length(SNP)))
-
-summarizedSNPdf |> ggplot(aes(x = End, y = Mean, colour = Start, group = Start)) +
-	theme_classic()+
-	scale_colour_manual(values = coloursClusters, "Clade") +
-	scale_y_continuous(breaks = pretty_breaks(n = 10)) +
-	geom_line(show.legend = F) +
-	geom_errorbar(aes(ymin = Mean - 1.96 * SE, ymax = Mean + 1.96 * SE), width  = 0.1,show.legend = F) +
-	geom_point() +
-	geom_text_repel(aes(label = round(Mean, 2)), show.legend = F) +
-	xlab("Clade") +
-	theme(legend.position = "bottom")
-ggsave("Figures/InteractionPlot.pdf", width = 6, height = 4)
-
 
 snpDF |> lm(formula = SNP ~ Start * End) |> summary()
 
 snpDF |> filter(Start == End) |> select(Start, SNP) |>
 	lm(formula = SNP ~ Start) |> emmeans(specs = "Start") |> pairs() 
 
-#pairsData <- snpDF |> filter(Start == End) |> select(Start, SNP) |>
-#	lm(formula = SNP ~ Start) |> emmeans(specs = "Start") |> pairs() |> as.data.frame() |>
-#	mutate(contrast = gsub("Start","", contrast))
-
-#pairsData |> ggplot(aes(y = contrast, x = estimate)) +
-#		theme_classic() +
-#		geom_vline(xintercept = 0, lty = 2) +
-#  		geom_tile(aes(width = 1.96*SE*2, height = 0.5), fill = coloursClusters[3], alpha = 0.5) +
-#		geom_point() +
-#		ylab("Comparisons") +
-#		xlab("Mean within clade SNPs")
-#ggsave("Figures/SNPemmeans.pdf", width = 6, height = 4)
 #### Reading in the full phylogeny ####
 tree <- read.tree("Data/AllMaskedNoTrimming.nwk")
 Tiplabels <- tree$tip.label
@@ -350,19 +284,6 @@ Tiplabels[which(Tiplabels == "Reference")] <- "GCA_000017825"
 tree$tip.label <- Tiplabels
 tree <- midpoint(tree)
 
-# Let's make the actual tree now
-#poppunkTree <- ggtree(tree, right = T) %<+% fullMeta +
-#  theme_tree() +
-#  geom_rootedge(1e-3) +
-#  geom_treescale(linesize = 1, offset = 2) +
-#  geom_tippoint(aes(colour = Cluster)) +
-#  scale_colour_manual(values = colour, name = "Poppunk Cluster") +
-#  guides(colour = guide_legend(nrow = 3, title.vjust = 0.5, title.hjust = 0.5)) +
-#  theme(legend.position = c(0.3,0.3), legend.background = element_rect(colour = "black"))
-#poppunkTree
-#
-#ggsave("TrimmedMLPhylo.png", width = 6, height = 4)
-#
 # Now to plot the lineages
 poppunkLin5 <- ggtree(tree, right = T) %<+% fullMeta +
   theme_tree() +
@@ -474,12 +395,12 @@ poppunkLin1 <- ggtree(tree, right = T) %<+% fullMeta +
   theme(legend.position = "bottom")
 
 tree$tip.label[!(tree$tip.label %in% rownames(fullMeta))]
-
+bootstrapValues <- as.numeric(tree$node.label)
 ggtree(tree, right = T) %<+% fullMeta +
   theme_tree() +
   geom_rootedge(1e-4) +
   geom_treescale(linesize = 1, offset = 2) +
-  #geom_nodelab(geom = "label") +
+  geom_nodepoint(pch = 23, colour = ifelse(bootstrapValues >= 75, "white", NA), fill = ifelse(bootstrapValues >= 90, "black", ifelse(bootstrapValues >= 75, "grey", NA)), size = 2) +
   #geom_text(aes(label = ifelse(node > 200, node, NA))) +
   geom_tippoint(aes(colour = as.factor(Rank_1_Lineage), shape = host)) +
   scale_colour_manual(values = coloursRank1, name = "Lineage") +
@@ -494,7 +415,7 @@ ggtree(tree, right = T) %<+% fullMeta +
   geom_cladelab(node = 309, label = "TEN", align = T, aes(color = colour[12]))
 #ggsave(file = "Figures/Lineage1TrimmedBoostrap.pdf", width = 12, height = 9)
 
-ggsave(file = "Figures/Lineage1Trimmed.pdf", width = 9, height = 6)
+ggsave(file = "Figures/Lineage1TrimmedBoot.pdf", width = 9, height = 6)
 
 ggarrange(poppunkLin5, poppunkLin4, poppunkLin3, poppunkLin2, labels = "auto")
 

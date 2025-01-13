@@ -121,7 +121,7 @@ RGIResults <- pblapply(RGIFiles, cl = 10, RGItxtParser) |> bind_rows() |> as_tib
 
 ### Temp ###
 RGIResults <- RGIResults |> 
-	filter(!grepl("GCA_037762225|ERR4853567|ERR7123579|ERR7123580|ERR7123581|ERR7123582|ERR7123585|ERR7123588|ERR7123590|ERR7123591|*draft", Genome))
+	filter(!grepl("GCA_037762225|ERR4853567|ERR7123579|ERR7123580|ERR7123581|ERR7123582|ERR7123585|ERR7123588|ERR7123590|ERR7123591", Genome)) # These are making sure we remove either an engineered strain or extremely odd assemblies
 ### End Temp ###
 
 RGIStrict <- RGIResults |> filter(Cut_Off == "Strict")
@@ -151,10 +151,6 @@ RGILoose |> filter(LengthSubject >= 90) |> ggplot(aes(y = Best_Hit_Bitscore, x =
   theme_classic() 
   #ggtitle("Tetracyline & Doxycycline Only")
 
-# We're getting Rifamycin and fluoroquinolone resistance in the loose. Could be
-# worth further study?
-# Might need to pull out the exact gene if they want to do more work with it
-
 # Now to look at the Tetracylines specifically
 tmp <- RGILoose |> filter(grepl("tetra|doxy", Antibiotic))
 
@@ -172,8 +168,6 @@ tmp |> ggplot(aes(y = Best_Hit_Bitscore, x = LengthHit)) +
   ggtitle("Tetracyline & Doxycycline Only")
 
 bestHitTet <- tmp |> filter(LengthSubject >= 90, Best_Hit_Bitscore >= 200)
-#bestHitTet <- tmp |> filter(Best_Hit_Bitscore >= 175) # TxR only. Curious about 
-# what it looks like in the GFF files here too.
 
 ### Plotting!
 # Let's make a nice plot showing resistance amounts across classes
@@ -441,7 +435,6 @@ logPlot <- macrolideModelData |> filter(collection_date >= 2000) |>
          fill = guide_none()) +
   theme(legend.position= c(0.7,0.25),
         legend.background = element_rect(colour = "black")) 
-
 
 # Plotting
 ggarrange(logPlot,ggarrange(logOdds, logOddsRank5, labels = c("b","c"), align = "hv"),

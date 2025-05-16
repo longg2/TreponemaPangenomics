@@ -1,0 +1,252 @@
+Sample,Tip Number,Country,Continent,Year of Isolation,Date Approximate?,Subspecies,Lineage,Subclade,23S-2058,23S-2059,tp0136 MLST Subtype,tp0548 MLST Subtype,tp0705 MLST Subtype,Overall MLST
+China11,129,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+China23,132,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,NovelB,8,NovelA
+China30,131,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+China31,127,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+China42,128,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+China44,134,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+China47,133,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+China48,130,China,Asia,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+CP010558_TPA_ChicagoPop,18,USA,Americas,1951,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),NovelC,14,10,NovelS
+CP010560_TPA_NicholsHouE,22,USA,Americas,1912,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),10,14,10,20
+CP010561_TPA_NicholsHouJ,23,USA,Americas,1912,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),NovelC,14,10,NovelS
+Dublin21Be,216,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin24B,213,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin37B,210,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin41B,215,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin46B,229,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),19,3,1,56
+Dublin50B,217,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin52B,230,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin54B,231,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin55B,227,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Dublin57B,185,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),6,1,1,NovelE
+Dublin58B,221,Ireland,Europe,2002,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Italy17LGMi,26,Italy,Europe,2017,yes,Pallidum,Nichols,Nichols C,G (resistant),A (sensitive),3,2,3,6
+Italy7CGx,219,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Italy8PLe,232,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+ItalyAS14,16,Italy,Europe,2017,yes,Pallidum,Nichols,Nichols E,A (sensitive),A (sensitive),9,7,3,26
+ItalyAS15,224,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+ItalyAS23,228,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,NovelC,1,NovelB
+ItalyGE4b,220,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+ItalyGE5a,225,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,NovelH,1,NovelD
+ItalyGE5b,226,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),Indeterminate,NovelH,1,Indeterminate
+ItalyGE6,192,Italy,Europe,2017,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,1,1,2
+Japan287e,139,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan288,164,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan290,136,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan291x,138,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan294x,174,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,NovelB,8,NovelA
+Japan295x,173,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan298x,172,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan300,206,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Japan301,175,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan302x,143,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan303,17,Japan,Asia,2019,no,Pallidum,Nichols,Nichols E,G (resistant),A (sensitive),9,7,3,26
+Japan305,155,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan306,123,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),1,1,8,3
+Japan307,207,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Japan308,144,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan309x,140,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan311,156,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan312xe,152,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan313x,148,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan314,205,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Japan316x,189,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,1,1,2
+Japan317xi,27,Japan,Asia,2019,no,Pallidum,Nichols,Nichols C,G (resistant),A (sensitive),3,2,3,6
+Japan318,147,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan319,141,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan320e,5,Japan,Asia,2019,no,Endemicum,non-TPA,TEN,G (resistant),A (sensitive),NA,NA,NA,NA
+Japan322e,4,Japan,Asia,2019,no,Endemicum,non-TPA,TEN,G (resistant),A (sensitive),NA,NA,NA,NA
+Japan323x,223,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Japan324x,171,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),6,1,8,24
+Japan325xe,162,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan326e,6,Japan,Asia,2019,no,Endemicum,non-TPA,TEN,G (resistant),A (sensitive),NA,NA,NA,NA
+Japan328x,125,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),1,NovelH,8,NovelD
+Japan329,161,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan331,208,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Japan332,169,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan337,151,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan338xei,28,Japan,Asia,2019,no,Pallidum,Nichols,Nichols C,G (resistant),A (sensitive),3,2,3,6
+Japan339,150,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan342e,153,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan343,142,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan344e,159,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan345,168,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan346e,3,Japan,Asia,2019,no,Endemicum,non-TPA,TEN,G (resistant),A (sensitive),NA,NA,NA,NA
+Japan348,124,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),1,1,8,3
+Japan349,160,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan351,157,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan352xe,146,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan354x,165,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan355,154,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan356,158,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan357,137,Japan,Asia,2019,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan358,149,Japan,Asia,2020,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan360x,163,Japan,Asia,2020,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan361,145,Japan,Asia,2020,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan362x,170,Japan,Asia,2020,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan364,166,Japan,Asia,2020,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan365x,167,Japan,Asia,2020,no,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),1,1,8,3
+Japan368i,29,Japan,Asia,2020,no,Pallidum,Nichols,Nichols C,G (resistant),A (sensitive),3,2,3,6
+MD06B,115,USA,Americas,2002,no,Pallidum,SS14,SS14 Mexico,A (sensitive),A (sensitive),1,54,8,74
+MD09B,181,USA,Americas,1998,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+MD16x,218,USA,Americas,1998,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+MD18Be,116,USA,Americas,1998,no,Pallidum,SS14,SS14 Mexico,A (sensitive),A (sensitive),1,Indeterminate,10,Indeterminate
+MD20B,184,USA,Americas,1998,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+MD22xe,121,USA,Americas,1999,no,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),6,1,3,NovelF
+MD24xe,122,USA,Americas,1999,no,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),1,1,3,11
+MD25x,120,USA,Americas,1999,no,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),1,1,3,11
+MD26x,179,USA,Americas,1999,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+MD507x,187,USA,Americas,1998,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+MD51x,182,USA,Americas,2000,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+MD521B,201,USA,Americas,2001,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+MD530xe,119,USA,Americas,2000,no,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),1,1,3,11
+MD536x,183,USA,Americas,2001,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+MD57x,186,USA,Americas,2000,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+NC_016842_TPE_SamoaD,11,Samoa,Australia & Pacific Islands,1953,no,Pertenue,non-TPA,TPE,A (sensitive),A (sensitive),NA,NA,NA,NA
+NC_016843_TPE_Gauthier,10,Congo,Africa,1960,no,Pertenue,non-TPA,TPE,A (sensitive),A (sensitive),NA,NA,NA,NA
+NC_016844_TPA_DAL1,24,USA,Americas,1991,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),11,14,10,22
+NC_016848_TPE_CDC2,7,Ghana,Africa,1980,no,Pertenue,non-TPA,TPE,A (sensitive),A (sensitive),NA,NA,NA,NA
+NC_017268_TPA_Chicago,19,USA,Americas,1951,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),10,14,10,20
+NC_018722_TPA_MexicoA,117,Mexico,Americas,1953,no,Pallidum,SS14,SS14 Mexico,A (sensitive),A (sensitive),1,13,10,21
+NC_021179_TP_FB,8,Guinea,Africa,1966,no,Pertenue,non-TPA,TPE,A (sensitive),A (sensitive),NA,NA,NA,NA
+NC_021490_TPA_Nichols,21,USA,Americas,1912,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),10,14,10,20
+NC_021508_TPA_SS14,118,USA,Americas,1977,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,1,10,19
+NZ_CP007548_TEN_BosniaA,1,Bosnia,Europe,1950,no,Endemicum,non-TPA,TEN,A (sensitive),A (sensitive),NA,NA,NA,NA
+NZ_CP010422_TPA_SeaNich,25,USA,Americas,1912,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),11,14,10,22
+NZ_CP010559_TPA_CDCA,20,USA,Americas,1912,no,Pallidum,Nichols,Nichols D Lab Strains,A (sensitive),A (sensitive),NovelC,14,10,NovelS
+NZ_CP016045_TPA_PT_SIF0697,177,Portugal,Europe,2009,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+NZ_CP016046_TPA_PT_SIF0751,239,Portugal,Europe,2009,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016047_TPA_PT_SIF0857,199,Portugal,Europe,2010,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),7,1,9,4
+NZ_CP016048_TPA_PT_SIF0877_3,249,Portugal,Europe,2010,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016049_TPA_PT_SIF0908,196,Portugal,Europe,2010,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),7,1,9,4
+NZ_CP016050_TPA_PT_SIF0954,238,Portugal,Europe,2010,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016051_TPA_PT_SIF1002,200,Portugal,Europe,2011,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),7,1,9,4
+NZ_CP016052_TPA_PT_SIF1020,190,Portugal,Europe,2011,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,1,1,2
+NZ_CP016053_TPA_PT_SIF1063,188,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+NZ_CP016054_TPA_PT_SIF1127,235,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016055_TPA_PT_SIF1135,191,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,1,1,2
+NZ_CP016056_TPA_PT_SIF1140,204,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,3,1,1
+NZ_CP016057_TPA_PT_SIF1142,247,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016058_TPA_PT_SIF1156,178,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+NZ_CP016059_TPA_PT_SIF1167,176,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+NZ_CP016060_TPA_PT_SIF1183,236,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,1,1,2
+NZ_CP016061_TPA_PT_SIF1196,197,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),7,1,9,4
+NZ_CP016062_TPA_PT_SIF1200,237,Portugal,Europe,2013,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016063_TPA_PT_SIF1142,198,Portugal,Europe,2014,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),7,1,9,4
+NZ_CP016064_TPA_PT_SIF1252,250,Portugal,Europe,2014,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016065_TPA_PT_SIF1261,246,Portugal,Europe,2014,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016066_TPA_PT_SIF1278,251,Portugal,Europe,2014,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016067_TPA_PT_SIF1280,240,Portugal,Europe,2014,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016068_TPA_PT_SIF1299,248,Portugal,Europe,2014,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP016069_TPA_PT_SIF1348,234,Portugal,Europe,2014,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP020365_TPE_Ghana051,12,Ghana,Africa,1988,no,Pertenue,non-TPA,TPE,A (sensitive),A (sensitive),NA,NA,NA,NA
+NZ_CP024750_TPE_CDC1,13,Ghana,Africa,1980,no,Pertenue,non-TPA,TPE,A (sensitive),A (sensitive),NA,NA,NA,NA
+NZ_CP032303_TEN_IraqB,2,Iraq,Asia,1951,no,Endemicum,non-TPA,TEN,A (sensitive),A (sensitive),NA,NA,NA,NA
+NZ_CP034912_TPA_CW88,241,Czech Republic,Europe,2017,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP034913_TPA_CW87,242,France,Europe,2016,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,23,1,35
+NZ_CP034914_TPA_CW86,15,France,Europe,2013,no,Pallidum,Nichols,Nichols E,A (sensitive),A (sensitive),9,20,3,31
+NZ_CP034915_TPA_CW85,244,France,Europe,2016,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP034916_TPA_CW84,245,France,Europe,2015,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP034917_TPA_CW83,73,Cuba,Americas,2015,no,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,8,38
+NZ_CP034919_TPA_CW59,14,France,Europe,2012,no,Pallidum,Nichols,Nichols E,A (sensitive),A (sensitive),9,7,3,26
+NZ_CP034920_TPA_CW56,243,Cuba,Americas,2013,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP034921_TPA_CW30,203,Czech Republic,Europe,2014,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,3,1,1
+NZ_CP035104_TPA_Grady,202,USA,Americas,1980,no,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+NZ_CP045004_TPA_UW148B2,233,USA,Americas,2009,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+NZ_CP045005_TPA_UW148B,193,USA,Americas,2003,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),22,1,1,NovelM
+Peru213041xe,126,Peru,Americas,2018,yes,Pallidum,SS14,SS14 Omega - East Asia,A (sensitive),A (sensitive),1,Indeterminate,8,Indeterminate
+Peru213161xe,180,Peru,Americas,2018,yes,Pallidum,SS14,SS14 Omega,A (sensitive),A (sensitive),1,1,1,2
+Peru214361x,194,Peru,Americas,2018,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,1,1,2
+Peru214601x,212,Peru,Americas,2018,yes,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+PeruB20010x,211,Peru,Americas,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+PeruC10010x,222,Peru,Americas,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,NovelF,1,NovelC
+PeruC10050xe,195,Peru,Americas,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),Indeterminate,1,1,Indeterminate
+PeruC40020xe,214,Peru,Americas,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),6,3,1,13
+PeruC40040x,209,Peru,Americas,2019,no,Pallidum,SS14,SS14 Omega,G (resistant),A (sensitive),1,3,1,1
+Tube7Lihire,9,Papua New Guinea,Australia & Pacific Islands,2015,yes,Pertenue,non-TPA,TPE,A (sensitive),A (sensitive),NA,NA,NA,NA
+UAB12xi,40,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB160xe,71,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,2,10,NovelG
+UAB162xi,36,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB164xei,74,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),NovelC,24,10,NovelT
+UAB165xi,83,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB166xe,66,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,2,10,NovelG
+UAB167xei,51,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelD,2,10,NovelV
+UAB16xi,80,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB178ei,106,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),NovelC,24,Indeterminate,Indeterminate
+UAB17x,68,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,2,10,NovelG
+UAB191xei,107,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB193i,57,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB194xi,43,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB195xi,47,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB197i,48,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB202xi,50,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB203i,46,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB204xe,69,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,2,10,NovelG
+UAB211i,63,Madagascar,Africa,2002,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,14,10,NovelH
+UAB216i,75,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB218i,76,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB229xe,65,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,2,10,NovelG
+UAB231i,38,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB236i,49,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB237,72,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),NovelC,2,10,NovelR
+UAB263xi,108,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB266i,97,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB267i,99,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB268xi,104,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB275i,98,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB276i,100,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),G (resistant),9,24,10,NovelI
+UAB278i,101,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB28xi,90,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,NovelA,10,NovelJ
+UAB38xi,61,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,2,10,NovelG
+UAB40xi,59,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,NovelE,10,NovelQ
+UAB44xi,56,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB46xei,30,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelD,2,Indeterminate,Indeterminate
+UAB49xi,33,Madagascar,Africa,2000,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelD,2,10,NovelV
+UAB501,94,Madagascar,Africa,2003,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,NovelG,10,NovelL
+UAB503i,109,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB504xi,112,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB505ei,102,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB507ei,113,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB508,95,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,NovelG,10,NovelL
+UAB509ei,52,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB510i,88,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB511xi,62,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),NovelF,2,10,NovelZ
+UAB512x,31,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB515xi,114,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB516xi,77,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB521xi,78,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB522x,135,Madagascar,Africa,2006,yes,Pallidum,SS14,SS14 Omega - East Asia,G (resistant),A (sensitive),NovelE,1,8,NovelY
+UAB523x,105,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),Indeterminate,24,10,Indeterminate
+UAB525xe,111,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,Indeterminate,10,Indeterminate
+UAB526xi,89,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),NovelC,24,10,NovelT
+UAB528ei,53,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelA,2,10,NovelN
+UAB529i,58,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,NovelE,10,NovelQ
+UAB52xi,91,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),Indeterminate,NovelA,10,Indeterminate
+UAB530i,37,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB531i,87,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),NovelC,24,10,NovelT
+UAB532xi,45,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB533i,110,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB534xi,103,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB535i,54,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB538xi,55,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB545ei,82,Madagascar,Africa,2006,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB546i,44,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB547xei,35,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelD,2,3,NovelU
+UAB549xe,39,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB54xi,42,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB551xi,84,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB552x,70,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),Indeterminate,2,10,Indeterminate
+UAB553xei,85,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),Indeterminate,24,10,Indeterminate
+UAB554xi,64,Madagascar,Africa,2007,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),Indeterminate,14,10,Indeterminate
+UAB60i,96,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB61xei,93,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),Indeterminate,Indeterminate,10,Indeterminate
+UAB62i,86,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB67xi,41,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,3,NovelO
+UAB69i,92,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,NovelA,10,NovelJ
+UAB6xi,81,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB71i,79,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,24,10,NovelI
+UAB75,67,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols A,A (sensitive),A (sensitive),9,2,10,NovelG
+UAB76xei,60,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelD,NovelE,10,NovelX
+UAB81xi,32,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP
+UAB89xi,34,Madagascar,Africa,2001,yes,Pallidum,Nichols,Nichols B,A (sensitive),A (sensitive),NovelB,2,10,NovelP

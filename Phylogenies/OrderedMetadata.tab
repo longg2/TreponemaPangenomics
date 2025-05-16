@@ -1,0 +1,218 @@
+Genome	sub_species	strain	collection_date	geo_loc_name	host	host_disease	isolation_source	isolate	host_health_state	TPA_Lineage	Rank_1_Lineage	Rank_2_Lineage	Rank_3_Lineage	Rank_4_Lineage	Rank_5_Lineage	overall_Lineage	Status	Status.colour	ST	TP0136	TP0548	TP0705	TPASub	Canada
+GCA_018204215	pallidum	Japan346e	2019	Japan	Human	syphilis	swab	NA	NA	NA	20	7	7	6	5	20-7-7-6-5	Reference	#000000	Unknown	20*?	81*	9	Unknown	Global
+GCA_018205095	pallidum	Japan322e	2019	Japan	Human	syphilis	swab	NA	NA	NA	20	7	7	6	5	20-7-7-6-5	Reference	#000000	Unknown	15*?	81*	9	Unknown	Global
+GCA_023116935	endemicum	C279	2017	Other	Human	bejel	genital ulcer	NA	NA	NA	15	7	7	6	5	15-7-7-6-5	Reference	#000000	Unknown	15*?	81*	10	Unknown	Global
+GCA_000813285	endemicum	Bosnia A	NA	Other	Unknown	unknown	NA	NA	NA	NA	15	7	7	6	5	15-7-7-6-5	Reference	#000000	Unknown	15*?	81*	10	Unknown	Global
+GCA_004194495	endemicum	Iraq B	1951	Other	Human	endemic syphilis	lesion	NA	NA	NA	15	7	7	6	5	15-7-7-6-5	Reference	#000000	Unknown	15*?	16*	10	Unknown	Global
+GCA_029866645	pertenue	7SNM5081115	2015.85205479452	Tanzania	Primate	anogenital lesion	skin	NA	NA	NA	14	6	6	4	4	14-6-6-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_029866685	pertenue	34LMM2190317	2017.21095890411	Tanzania	Primate	anogenital lesion	skin	NA	NA	NA	14	6	6	4	4	14-6-6-4-4	Reference	#000000	Unknown	28*?	16*?	10	Unknown	Global
+GCA_029866585	pertenue	6RUM2090716	2016.51912568306	Tanzania	Primate	anogenital lesion	skin	NA	NA	NA	12	6	6	4	4	12-6-6-4-4	Reference	#000000	Unknown	24*?	68*?	10	Unknown	Global
+GCA_029866565	pertenue	19LMF8280815	2015.65479452055	Tanzania	Primate	anogenital lesion	skin	NA	NA	NA	12	6	6	4	4	12-6-6-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_029866745	pertenue	11LMF5200815	2015.63287671233	Tanzania	Primate	anogenital lesion	swab	NA	NA	NA	12	6	6	4	4	12-6-6-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_029866765	pertenue	49F8190407	2007.29589041096	Tanzania	Primate	anogenital lesion	skin	NA	NA	NA	12	6	6	4	4	12-6-6-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_003952805	pertenue	CDC-1	1980.83333333333	Other	Human	yaws	papillomatous lesion	NA	NA	NA	10	5	5	4	4	10-5-5-4-4	Reference	#000000	Failed	-	67*?	10	Failed	Global
+GCA_003611315	pertenue	Sei Geringging K403	1990.36438356164	Other	Human	yaws	skin lesion	NA	NA	NA	10	5	5	4	4	10-5-5-4-4	Reference	#000000	Unknown	24*?	8*?	10	Unknown	Global
+GCA_900298965	Unknown	BNK07	NA	Other	Unknown	unknown	NA	NA	NA	NA	16	5	5	4	4	16-5-5-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_000387485	Unknown	Fribourg-Blanc	NA	Other	Unknown	unknown	NA	NA	NA	NA	16	5	5	4	4	16-5-5-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_900298975	Unknown	SNK05	NA	Other	Unknown	unknown	NA	NA	NA	NA	16	5	5	4	4	16-5-5-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_900291945	Unknown	A10	NA	Other	Unknown	unknown	NA	NA	NA	NA	16	5	5	4	4	16-5-5-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_900298905	Unknown	A12	NA	Other	Unknown	unknown	NA	NA	NA	NA	16	5	5	4	4	16-5-5-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_000246795	pertenue	Gauthier	NA	Other	Unknown	unknown	NA	NA	NA	NA	10	5	5	4	4	10-5-5-4-4	Reference	#000000	Unknown	24*?	49*?	10	Unknown	Global
+GCA_903469575	pertenue	R7-KUN2-001	2016	Other	Human	unknown	skin lesion swab	NA	disease:yaws	NA	25	5	5	4	4	25-5-5-4-4	Query	#ff0000	Failed	-	28*?	10	Failed	Global
+GCA_000246755	pertenue	pertenue Samoa D	NA	Other	Unknown	unknown	NA	NA	NA	NA	25	5	5	4	4	25-5-5-4-4	Reference	#000000	Unknown	24*?	49*?	10	Unknown	Global
+GCA_000246775	pertenue	CDC2	NA	Other	Unknown	unknown	NA	NA	NA	NA	10	5	5	4	4	10-5-5-4-4	Reference	#000000	Unknown	28*?	49*?	10	Unknown	Global
+GCA_903469595	pertenue	R3-SAL-007	2014	Other	Human	unknown	skin lesion swab	NA	disease:yaws	NA	25	5	5	4	4	25-5-5-4-4	Query	#ff0000	Unknown	24*?	10*?	10	Unknown	Global
+GCA_903469605	pertenue	R2-106190	2013	Other	Human	unknown	skin lesion swab	NA	disease:yaws	NA	11	8	8	7	4	11-8-8-7-4	Query	#ff0000	Failed	-	49*?	10	Failed	Global
+GCA_903234185	pertenue	R2-64919	2013	Other	Human	unknown	skin lesion swab	NA	disease:yaws	NA	11	8	8	7	4	11-8-8-7-4	Query	#ff0000	Failed	-	49*?	10	Failed	Global
+GCA_903234195	pertenue	R7-PUT1-002	2016	Other	Human	unknown	skin lesion swab	NA	disease:yaws	NA	11	8	8	7	4	11-8-8-7-4	Reference	#000000	Failed	-	68*?	10	Failed	Global
+ERR4853617	NA	NA	NA	Other	Human	NA	NA	NA	NA	NA	11	8	8	7	4	11-8-8-7-4	Reference	#000000	Failed	-	49*?	10	Failed	Global
+ERR4899211	NA	NA	NA	Other	Human	NA	NA	NA	NA	NA	11	8	8	7	4	11-8-8-7-4	Reference	#000000	Failed	-	49*?	10	Failed	Global
+ERR3684466	NA	NA	NA	Other	Human	NA	NA	NA	NA	NA	7	2	2	2	2	7-2-2-2-2	Reference	#000000	Unknown	36	81	10*	Unknown	Global
+ERR4853570	NA	NA	1983	USA	Human	NA	NA	NA	NA	Nichols	2	2	2	2	2	2-2-2-2-2	Reference	#000000	23	12	15	10	Nichols-like	Global
+GCA_000604125	pallidum	Sea 81-4	NA	Other	Unknown	unknown	NA	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	23	12	15	10	Nichols-like	Global
+ERR3684483	NA	NA	NA	Other	Human	NA	NA	NA	NA	NA	7	2	2	2	2	7-2-2-2-2	Reference	#000000	Unknown	28*	2	10	Unknown	Global
+GCA_005311125	pallidum	CW65	2014	Other	Human	syphilis	anal smear	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	47	9	14	3	Nichols-like	Global
+ERR3684484	NA	NA	2012	UK	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	Unknown	28*	2	10	Unknown	Global
+ERR4045383	NA	NA	2012	UK	Human	NA	NA	NA	NA	Nichols	7	2	2	2	2	7-2-2-2-2	Reference	#000000	Unknown	28*	2	10	Unknown	Global
+GCA_018202855	pallidum	UAB46xei	2000	Madagascar	Human	syphilis	swab	NA	NA	NA	4	3	3	3	3	4-3-3-3-3	Reference	#000000	65	20*	2	10	Nichols-like	Global
+GCA_018200175	pallidum	UAB81xi	2001	Madagascar	Human	syphilis	swab	NA	NA	NA	4	3	3	3	3	4-3-3-3-3	Reference	#000000	65	20*	2	10	Nichols-like	Global
+GCA_018203595	pallidum	UAB12xi	2000	Madagascar	Human	syphilis	swab	NA	NA	NA	4	3	3	3	3	4-3-3-3-3	Reference	#000000	Unknown	20*	2	3	Unknown	Global
+GCA_018201335	pallidum	UAB549xe	2007	Madagascar	Human	syphilis	swab	NA	NA	NA	4	3	3	3	3	4-3-3-3-3	Reference	#000000	Unknown	20*	2	3	Unknown	Global
+GCA_018202275	pallidum	UAB529i	2006	Madagascar	Human	syphilis	swab	NA	NA	NA	4	3	3	3	3	4-3-3-3-3	Reference	#000000	65	20*	2*	10	Nichols-like	Global
+GCA_018201395	pallidum	UAB538xi	2007	Madagascar	Human	syphilis	swab	NA	NA	NA	4	3	3	3	3	4-3-3-3-3	Reference	#000000	65	20*	2	10	Nichols-like	Global
+GCA_018203275	pallidum	UAB202xi	2002	Madagascar	Human	syphilis	swab	NA	NA	NA	4	3	3	3	3	4-3-3-3-3	Reference	#000000	65	20*	2	10	Nichols-like	Global
+ERR4045395	NA	NA	2015	UK	Human	NA	NA	NA	NA	Nichols	7	2	2	2	2	7-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR4899206	NA	NA	2015	Spain	Human	NA	NA	NA	NA	Nichols	7	2	2	2	2	7-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR3684453	NA	NA	2015	UK	Human	NA	NA	NA	NA	Nichols	7	2	2	2	2	7-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR3684472	NA	NA	2017	UK	Human	NA	NA	NA	NA	Nichols	7	2	2	2	2	7-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+GCA_034096945	pallidum	SF687060	2019	USA	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	15*?	27*?	3*	Unknown	Global
+GCA_034095755	pallidum	SF731663	2017	USA	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	6	3*	2*	3	Nichols-like	Global
+ERR3684478	NA	NA	2017	UK	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	Failed	3	2	-	Failed	Global
+ERR3684491	NA	NA	2015	UK	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+GCA_025398575	pallidum	ChinaNJ27	2019	China	Human	syphilis	swab	NA	NA	NA	23	2	2	2	2	23-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR4853530	NA	NA	2013	Canada	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR7123576	NA	NA	NA	Other	Human	NA	NA	NA	NA	NA	6	2	2	2	2	6-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR4853566	NA	NA	2015	Canada	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR3684469	NA	NA	2016	UK	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR4853540	NA	NA	2015	Canada	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR5210563	NA	NA	2018	Other	Human	NA	NA	NA	NA	Nichols	6	2	2	2	2	6-2-2-2-2	Reference	#000000	6	3	2	3	Nichols-like	Global
+ERR4853572	NA	NA	1951	Other	Human	NA	NA	NA	NA	Nichols	29	2	2	2	2	29-2-2-2-2	Reference	#000000	Unknown	9	14*	10	Unknown	Global
+GCA_005311105	pallidum	CW82	2016	Other	Human	syphilis	genital smear	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	37	15	7	3	Nichols-like	Global
+ERR4993351	NA	NA	2002	Canada	Human	NA	NA	NA	NA	Nichols	7	2	2	2	2	7-2-2-2-2	Reference	#000000	Unknown	28*	2	8	Unknown	Global
+ERR4853573	NA	NA	1987	USA	Human	NA	NA	NA	NA	Nichols	21	2	2	2	2	21-2-2-2-2	Reference	#000000	Unknown	28	16	3	Unknown	Global
+GCA_030384645	pallidum	EM211ph	2021	USA	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Failed	28	16	-	Failed	Global
+GCA_034097315	pallidum	K013	2021	USA	Human	syphilis	patient sample	NA	NA	NA	21	2	2	2	2	21-2-2-2-2	Reference	#000000	Unknown	28	16	3	Unknown	Global
+ERR4993357	NA	NA	1976	USA	Human	NA	NA	NA	NA	Nichols	27	4	4	5	2	27-4-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+SRR13721290	NA	NA	1977	Other	Human	NA	NA	NA	NA	Nichols	8	4	4	5	2	8-4-4-5-2	Query	#ff0000	20	10	14	10	Nichols-like	Global
+GCA_001655275	pallidum	NA	2013.91506849315	USA	Human	unknown	NA	CDC-A	NA	NA	8	4	4	5	2	8-4-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+GCA_024971635	pallidum	Madras	1954	Other	Human	syphilis	lession	NA	NA	NA	8	4	4	5	2	8-4-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+GCA_023016445	pallidum	TpN-CL2	1912.49453551913	USA	Human	syphilis	cerebrospinal fluid	NA	NA	NA	22	10	4	5	2	22-10-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+GCA_001941545	pallidum	Seattle Nichols	2013.08493150685	USA	Human	unknown	NA	NA	NA	NA	8	4	4	5	2	8-4-4-5-2	Reference	#000000	22	11	14	10	Nichols-like	Global
+ERR4853569	NA	NA	1983	USA	Human	NA	NA	NA	NA	Nichols	8	4	4	5	2	8-4-4-5-2	Reference	#000000	22	11	14	10	Nichols-like	Global
+GCA_000246815	pallidum	DAL-1	NA	Other	Unknown	unknown	NA	NA	NA	NA	8	4	4	5	2	8-4-4-5-2	Reference	#000000	22	11	14	10	Nichols-like	Global
+GCA_023016425	pallidum	TpN-CL3	1912.49453551913	USA	Human	syphilis	cerebrospinal fluid	NA	NA	NA	24	4	4	5	2	24-4-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+GCA_001655315	pallidum	14aa	2013.08493150685	USA	Human	unknown	NA	Houston Nichols, Clone E	NA	NA	26	4	4	5	2	26-4-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+GCA_000008605	pallidum	NA	NA	Other	Unknown	unknown	NA	NA	NA	NA	26	4	4	5	2	26-4-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+GCA_023016385	pallidum	TpN-CL1	1912.49453551913	USA	Human	syphilis	cerebrospinal fluid	NA	NA	NA	26	4	4	5	2	26-4-4-5-2	Reference	#000000	20	10	14	10	Nichols-like	Global
+GCA_026409665	pallidum	UAB539	2006	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	24*	10	Unknown	Global
+GCA_018200115	pallidum	UAB523x	2006	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	24	10	Unknown	Global
+GCA_026409905	pallidum	UAB226	2003	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	24	10	Unknown	Global
+GCA_026410005	pallidum	UAB15	2000	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	24*	10	Unknown	Global
+GCA_018203495	pallidum	UAB164xei	2002	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	28	24	10	Unknown	Global
+GCA_018203535	pallidum	UAB160xe	2001	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	2	10	Unknown	Global
+GCA_026409725	pallidum	UAB514	2006	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	28	2*?	10	Unknown	Global
+GCA_018201615	pallidum	UAB545ei	2006	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	24*	10	Unknown	Global
+GCA_018203215	pallidum	UAB211i	2002	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	14	10	Unknown	Global
+GCA_018202955	pallidum	UAB38xi	2000	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	9	2	10	Unknown	Global
+GCA_026240735	pallidum	UAB2	2000	Madagascar	Human	syphilis	swab	NA	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	Unknown	28*	2	10	Unknown	Global
+GCA_027626355	pallidum	GSPAR031RIZ	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+ERR4899217	NA	NA	2017	UK	Human	NA	NA	NA	NA	Nichols	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+ERR3684471	NA	NA	2017	UK	Human	NA	NA	NA	NA	Nichols	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_029958405	Unknown	P-21-20045	2021	USA	Human	unknown	throat	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Failed	9*	-	-	Failed	Global
+ERR5207020	NA	NA	2019	Other	Human	NA	NA	NA	NA	Nichols	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_029958665	Unknown	P-21-20119	2021	USA	Human	unknown	throat	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_025201075	pallidum	34832H2	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_005311445	pallidum	CW59	2012	Other	Human	syphilis	anal smear	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	26	9	7	3	Nichols-like	Global
+ERR4993349	NA	NA	2018	Ireland	Human	NA	NA	NA	NA	Nichols	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_030008295	pallidum	GSPAR083WGS	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28*	7	3	Unknown	Global
+GCA_030008775	pallidum	GSPAR053BOM	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28*	7	3	Unknown	Global
+GCA_001655435	pallidum	13dd	2004.03551912568	USA	Human	syphilis	blood	UW189	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	26	9	7	3	Nichols-like	Global
+GCA_027568835	pallidum	ARG74085H1	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_027626295	pallidum	GSPAR032HPM	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_027626655	pallidum	GSPAR006NOM	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	26	9	7	3	Nichols-like	Global
+GCA_027626735	pallidum	GSPAR001VPM	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28	7	3	Unknown	Global
+GCA_030008155	pallidum	GSPAR095MSL	NA	Argentina	Human	syphilis	swab	NA	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	Unknown	28*	7	3	Unknown	Global
+GCA_028022675	pallidum	Strasbourg_6715	1947	Other	Human	congenital syphilis	autopsy case 6715 FFPE	missing	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	35*	1*?	10*	Unknown	Global
+ERR3684573	NA	NA	2014	UK	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	Unknown	6	1	10	Unknown	Global
+GCA_018204015	pallidum	MD06B	2002	USA	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	74	1	54	8	SS14-like	Global
+GCA_000304295	pallidum	Mexico A	NA	Other	Unknown	unknown	NA	NA	NA	NA	13	9	1	1	1	13-9-1-1-1	Reference	#000000	21	1	13	10	SS14-like	Global
+GCA_018203955	pallidum	MD18Be	1998	USA	Human	syphilis	swab	NA	NA	NA	13	9	1	1	1	13-9-1-1-1	Reference	#000000	67	1	48*	10	SS14-like	Global
+ERR3684700	NA	NA	2014	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	24	6	1	8	SS14-like	Global
+ERR4899203	NA	NA	2018	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	3	1	1	8	SS14-like	Global
+ERR4993356	NA	NA	1971	USA	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	10	Unknown	Global
+ERR5207018	NA	NA	2019	Other	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	3	1	1	8	SS14-like	Global
+GCA_029201405	pallidum	SS14	2021	Other	Human	syphilis	in vitro culture	Week2	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	19	1	1	10	SS14-like	Global
+GCA_037761415	pallidum	SS14-WT	2022	USA	Human	syphilis	in vitro	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Query	#ff0000	19	1	1	10	SS14-like	Global
+ERR4853668	NA	NA	2016	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	28	1*	17	9	SS14-like	Global
+ERR3684666	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	9	Unknown	Global
+ERR4899224	NA	NA	2018	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	28	1	17	9	SS14-like	Global
+GCA_000017825	pallidum	SS14	NA	Other	Unknown	unknown	NA	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	19	1	1	10	SS14-like	Global
+GCA_000017825	pallidum	SS14	NA	Other	Unknown	unknown	NA	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	19	1	1	10	SS14-like	Global
+GCA_015239355	pallidum	SMUTp_04	2018	China	Human	syphilis	Chancre	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	3	1	1	8	SS14-like	Global
+ERR4853643	NA	NA	2013	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	24	6	1	8	SS14-like	Global
+GCA_018199935	pallidum	China23	2018	China	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	77	1	56*	8	SS14-like	Global
+GCA_018199835	pallidum	China44	2018	China	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	3	1	1	8	SS14-like	Global
+GCA_025398615	pallidum	China16	2018	China	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	3	1	1	8	SS14-like	Global
+GCA_015239395	pallidum	SMUTp_09	2018	China	Human	syphilis	Chancre	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Failed	1	-	19*?	Failed	Global
+GCA_025398555	pallidum	ChinaNJ06	2016	China	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	3	1	1	8	SS14-like	Global
+GCA_018202695	pallidum	Japan319	2019	Japan	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	3	1	1	8	SS14-like	Global
+ERR4853605	NA	NA	2018	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	3	Unknown	Global
+ERR5206990	NA	NA	2019	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	3	Unknown	Global
+ERR5207012	NA	NA	NA	Other	Human	NA	NA	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	11	1	1	3	SS14-like	Global
+ERR4853601	NA	NA	2015	Other	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	1	73	3	Unknown	Global
+ERR4899236	NA	NA	2015	Other	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	1	73*?	3	Unknown	Global
+ERR5207007	NA	NA	2015	Other	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	1	73	3	Unknown	Global
+ERR5207027	NA	NA	2014	Other	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	11	1	1	3	SS14-like	Global
+ERR5210576	NA	NA	2014	Other	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	10	Unknown	Global
+ERR5207026	NA	NA	2014	Other	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	Unknown	6	1	3	Unknown	Global
+ERR5210577	NA	NA	2014	Other	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	11	1	1	3	SS14-like	Global
+ERR4853661	NA	NA	2015	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	4	7*	1	9	SS14-like	Global
+ERR4045389	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	8	1	Unknown	Global
+ERR4853652	NA	NA	1987	USA	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+GCA_015239335	pallidum	SMUTp_02	2017	China	Human	syphilis	Rabbit testicles	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR3684583	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1	SS14-like	Global
+ERR3684571	NA	NA	2013	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	18*	3*	1	Unknown	Global
+ERR4853561	NA	NA	2018	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1	SS14-like	Global
+ERR3684642	NA	NA	NA	Other	Human	NA	NA	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1*?	1	SS14-like	Global
+ERR4853671	NA	NA	2016	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_027626795	pallidum	Brazil124	2022	Other	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR5207031	NA	NA	2019	Other	Human	NA	NA	NA	NA	SS14	17	1	1	1	1	17-1-1-1-1	Reference	#000000	100	1	70	1	NotTPA	Global
+ERR3684555	NA	NA	2017	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Failed	1	-	1	Failed	Global
+ERR4853663	NA	NA	2015	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1	SS14-like	Global
+ERR5207032	NA	NA	2019	Other	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR4045387	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	14	1	8	1	SS14-like	Global
+GCA_034093335	pallidum	W043	2022	USA	Human	syphilis	patient sample	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR4853641	NA	NA	2011	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR4899228	NA	NA	2018	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1*	SS14-like	Global
+GCA_018206955	pallidum	Japan300	2019	Japan	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR4045390	NA	NA	2017	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR4853645	NA	NA	2014	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1	SS14-like	Global
+ERR4853666	NA	NA	2015	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3*	1	SS14-like	Global
+ERR4853551	NA	NA	2012	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_005341485	pallidum	CW87	2016	Other	Human	syphilis	bucal smear	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	35	1	23	1	SS14-like	Global
+ERR4853589	NA	NA	2018	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_027568715	pallidum	GSPAR0465GM	NA	Argentina	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6*	1*	1	Unknown	Global
+ERR3684619	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1	SS14-like	Global
+ERR3684519	NA	NA	2012	UK	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684610	NA	NA	2012	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6*	3	1	SS14-like	Global
+ERR3684613	NA	NA	2013	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR5207010	NA	NA	2017	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	56	19	3	1	SS14-like	Global
+GCA_015239375	pallidum	SMUTp_08	2018	China	Human	syphilis	Chancre	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+GCA_034096755	pallidum	SF722867	2017	USA	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6*	3	1	SS14-like	Global
+ERR3684572	NA	NA	2013	UK	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	Failed	1	-	1	Failed	Global
+GCA_027626175	pallidum	GSPAR042DCG	NA	Argentina	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684599	NA	NA	2017	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR4899222	NA	NA	2009	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Failed	-	56*	1	Failed	Global
+ERR5206984	NA	NA	2019	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_018203655	pallidum	Peru214361x	2018	Peru	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR3684741	NA	NA	2012	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Failed	39*	-	1	Failed	Global
+ERR4853602	NA	NA	2018	UK	Human	NA	NA	NA	NA	SS14	9	1	1	1	1	9-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_027568615	pallidum	ARG62500H2	NA	Argentina	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR4853662	NA	NA	2015	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_034097275	pallidum	L068	2021	USA	Human	syphilis	patient sample	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Query	#ff0000	2	1	1*	1	SS14-like	Global
+ERR3684622	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	Failed	1	-	1	Failed	Global
+ERR4045378	NA	NA	2017	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_018203015	pallidum	ItalyGE6	2017	Italy	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+GCA_029958845	Unknown	P-21-20120	2021	USA	Human	unknown	throat	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR3684540	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR3684489	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684585	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1*	1	SS14-like	Global
+ERR3684520	NA	NA	2012	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	64	1	47*?	1	SS14-like	Global
+ERR3684482	NA	NA	2012	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684544	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684526	NA	NA	2014	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684723	NA	NA	2017	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	9*	1	Unknown	Global
+ERR3684460	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR3684616	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR4853594	NA	NA	2015	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	36*?	1	Unknown	Global
+ERR3684654	NA	NA	2012	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3*	1	SS14-like	Global
+ERR3684665	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_034097355	pallidum	I047	2021	USA	Human	syphilis	patient sample	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Query	#ff0000	1	1	3	1	SS14-like	Global
+ERR3684661	NA	NA	2014	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1	SS14-like	Global
+GCA_001713075	pallidum	PT_SIF1140	2013	Portugal	Human	syphilis	Anal	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_025201115	pallidum	62388H3	NA	Argentina	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	2	1	1	1	SS14-like	Global
+ERR3684706	NA	NA	2015	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	1	Unknown	Global
+ERR4853640	NA	NA	2005	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	1	Unknown	Global
+GCA_027626395	pallidum	GSPAR024TOM	NA	Argentina	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Failed	6	-	1	Failed	Global
+ERR4853677	NA	NA	2018	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_027568655	pallidum	ARG36502H1	NA	Argentina	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	6	1	1	Unknown	Global
+ERR3684451	NA	NA	2013	UK	Human	NA	NA	NA	NA	SS14	9	1	1	1	1	9-1-1-1-1	Reference	#000000	13	6	3*	1	SS14-like	Global
+ERR5210582	NA	NA	2019	Other	Human	NA	NA	NA	NA	SS14	5	1	1	1	1	5-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684669	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	Unknown	18	3	1*	Unknown	Global
+ERR3684499	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684626	NA	NA	2016	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3	1	SS14-like	Global
+GCA_018205215	pallidum	Japan314	2019	Japan	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+GCA_034093455	pallidum	Q035	2022	USA	Human	syphilis	patient sample	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Query	#ff0000	Unknown	1	48	1	Unknown	Global
+ERR4853555	NA	NA	2016	Canada	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global
+ERR3684565	NA	NA	2012	UK	Human	NA	NA	NA	NA	SS14	1	1	1	1	1	1-1-1-1-1	Reference	#000000	13	6	3?	1	SS14-like	Global
+GCA_018199475	pallidum	Dublin54B	2002	Ireland	Human	syphilis	swab	NA	NA	NA	1	1	1	1	1	1-1-1-1-1	Reference	#000000	1	1	3	1	SS14-like	Global

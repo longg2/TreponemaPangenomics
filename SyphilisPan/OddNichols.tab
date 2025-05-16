@@ -1,0 +1,12 @@
+Genome	sub_species	strain	collection_date	geo_loc_name	host	host_disease	isolation_source	isolate	host_health_state	Rank_1_Lineage	Rank_2_Lineage	Rank_3_Lineage	Rank_4_Lineage	Rank_5_Lineage	overall_Lineage	Status	Status.colour	glycopeptide antibiotic	macrolide antibiotic	rifamycin antibiotic	fluoroquinolone antibiotic	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Count	SubspeciesSam
+GCA_018202995	pallidum	UAB28xi	2000	Madagascar	Homo sapiens	syphilis	swab	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	TRUE	FALSE	TRUE	TRUE	FASTA	DNA	1	1139674	1139674	1139674	1139674	964	Nichols
+GCA_026409585	pallidum	UAB555	2007	Madagascar	Homo sapiens	syphilis	swab	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	TRUE	FALSE	TRUE	TRUE	FASTA	DNA	1	1139425	1139425	1139425	1139425	965	Nichols
+GCA_026409745	pallidum	UAB35	2000	Madagascar	Homo sapiens	syphilis	swab	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	TRUE	FALSE	TRUE	TRUE	FASTA	DNA	1	1139756	1139756	1139756	1139756	965	Nichols
+GCA_026409945	pallidum	UAB199	2002	Madagascar	Homo sapiens	syphilis	swab	NA	NA	3	2	2	2	2	3-2-2-2-2	Reference	#000000	TRUE	FALSE	TRUE	TRUE	FASTA	DNA	1	1139767	1139767	1139767	1139767	964	Nichols
+GCA_027568855	pallidum	ARG55527H1	NA	Argentina	Homo sapiens	syphilis	swab	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	TRUE	FALSE	TRUE	TRUE	FASTA	DNA	1	1139646	1139646	1139646	1139646	963	Nichols
+GCA_027626115	pallidum	GSPAR0453OM	NA	Argentina	Homo sapiens	syphilis	swab	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	TRUE	TRUE	TRUE	TRUE	FASTA	DNA	1	1139498	1139498	1139498	1139498	966	Nichols
+GCA_032599245	pallidum	SIFI60	2022	Spain	Homo sapiens	syphilis	swab	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	TRUE	TRUE	TRUE	TRUE	FASTA	DNA	1	1139512	1139512	1139512	1139512	964	Nichols
+GCA_034095755	pallidum	SF731663	2017	USA	Homo sapiens	syphilis	swab	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	TRUE	TRUE	TRUE	TRUE	FASTA	DNA	1	1139466	1139466	1139466	1139466	963	Nichols
+GCA_034096885	pallidum	SF180909	2019	USA	Homo sapiens	syphilis	swab	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	TRUE	TRUE	TRUE	TRUE	FASTA	DNA	1	1139575	1139575	1139575	1139575	964	Nichols
+GCA_034097075	pallidum	SEA0420RI-O	2023	USA	Homo sapiens	syphilis	patient sample	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	TRUE	TRUE	TRUE	TRUE	FASTA	DNA	1	1139603	1139603	1139603	1139603	964	Nichols
+GCA_034097095	pallidum	SEA0404BS-L	2023	USA	Homo sapiens	syphilis	patient sample	NA	NA	2	2	2	2	2	2-2-2-2-2	Reference	#000000	TRUE	TRUE	TRUE	TRUE	FASTA	DNA	1	1139628	1139628	1139628	1139628	965	Nichols

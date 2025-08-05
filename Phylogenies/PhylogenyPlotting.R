@@ -273,7 +273,8 @@ knownSTs |> select(-Genome) |> group_by(Rank_5_Lineage, Rank_1_Lineage) |>
 	write.csv("LineagetoProfileCompiled.csv")
 
 #### The CSV Tables ####
-# Understanding the lineages by composition 
+# Understanding the lineages by composition # NOTE NAs are from either the reference genome (included already) or the ancient genome (DIFFERENT PAPER)
+
 fullMeta |> group_by(Rank_5_Lineage, Rank_1_Lineage) |> filter(!is.na(Rank_5_Lineage)) |> count(geo_loc_name, name = "Count") |>
   pivot_wider(id_cols = geo_loc_name, names_from = Rank_1_Lineage, values_from = Count, values_fill = 0) |> write.csv(file = "LineageGeography.csv", row.names = F)
 
@@ -350,8 +351,47 @@ snpDF |> filter(Start != End) |> unite(Start, End, col = "Comparison", sep = ":"
 #snpDF |> filter(Start != End) |> 
 	lm(formula = SNP ~ Comparison) |> emmeans(specs = "Comparison") |> as.data.frame()
 
+#### Looking at the ANI Results ####
+# Loading in the results
+aniTable <- read.delim("Data/ANIResults.tab.gz", header = F, col.names = c("Query", "Reference", "ANI", "Matches", "Total")) |> as_tibble() |> 
+	mutate(Query = basename(Query), Reference = basename(Reference), Query = gsub("\\.\\d_.*|.fasta","", Query), Reference = gsub("\\.\\d_.*|.fasta","", Reference)) |>
+	select(-Matches, -Total) |> filter(!grepl("GCF", Query), !grepl("GCF", Reference))
+
+# Preparing the heatmap
+aniWide <- aniTable |> pivot_wider(Query, names_from = Reference, values_from = ANI)
+aniMat <- aniWide[,-1] |> as.matrix()
+rownames(aniMat) <- aniWide$Query
+
+heatmapTest <- fullMeta |> filter(Genome %in% rownames(aniMat)) |> select(Rank_5_Lineage, Rank_1_Lineage) |> 
+	mutate(Rank_5_Lineage = conversionList[as.numeric(Rank_5_Lineage)]) |>
+	mutate(SubLineage = as.factor(Rank_1_Lineage),Lineage = as.factor(Rank_5_Lineage), .keep = "none") |>
+	select(-SubLineage)
+distanceMatrix <- as.dist(1-aniMat/100, upper = T, diag = F)
+
+heatCol <- list(Lineage = coloursClusters, SubLineage = c(customLegendSS14$Colours, customLegendNichols$Colours,
+						       customLegendNicholsMad$Colours, customLegendTPE$Colours, customLegendTEN$Colours))
+names(heatCol[[1]]) <- conversionList
+
+pheatmap(distanceMatrix, annotation_row = heatmapTest, clustering_method = "ward.D2", annotation_legend = T, border_color = NA,
+	 annotation_col = heatmapTest, show_rownames = F, show_colnames = F, annotation_colors = heatCol,
+	 annotation_names_col = F,
+	 width = 6, height = 6)
+
+# Let's run some quick stats like we did in the SNP analysis
+
+aniDF <- aniTable |> mutate(Query = heatmapTest[Query, "Lineage"], Reference = heatmapTest[Reference, "Lineage"]) |>
+	mutate(Query = factor(as.character(Query), conversionList),
+					 Reference = factor(as.character(Reference),conversionList))
+
+aniDF |> lm(formula = ANI ~ Query * Reference) |> summary()
+
+aniDF |> filter(Query != Reference) |> unite(Query, Reference, col = "Comparison", sep = ":") |>
+	filter(Comparison %in% c("Nichols:SS14", "Nichols:TPE", "Nichols:TEN", "Nichols:Nichols - Madagascar", "SS14:Nichols - Madagascar",
+				 "SS14:TPE", "SS14:TEN", "Nichols - Madagascar:TPE","Nichols - Madagascar:TEN", "TPE:TEN")) |>
+#snpDF |> filter(Query != Reference) |> 
+	lm(formula = ANI ~ Comparison) |> emmeans(specs = "Comparison")  |> summary()
 #### Reading in the full phylogeny ####
-tree <- read.tree("Data/PhylogenyRevision_Untrimmed.treefile")
+tree <- read.tree("Data/ConstantSitesWhole.treefile")
 Tiplabels <- tree$tip.label
 
 # Need to strip the dates off the ends of the tips for this tree
@@ -407,7 +447,7 @@ poppunkLin2 <- ggtree(tree, right = T) %<+% fullMeta +
 
 poppunkLin1 <- ggtree(tree, right = T) %<+% fullMeta +
   theme_tree() +
-  geom_rootedge(1e-4) +
+  geom_rootedge(1e-6) +
   geom_treescale(linesize = 1, offset = 2) +
   #geom_nodepoint(pch = 23, colour = ifelse(bootstrapValues >= 75, "white", NA), fill = ifelse(bootstrapValues >= 90, "black", ifelse(bootstrapValues >= 75, "grey", NA)), size = 2) +
   #geom_text(aes(label = ifelse(node > 200, node, NA))) +
@@ -420,7 +460,7 @@ ggsave(poppunkLin1, file = "Figures/PhylowithLineage1Full.pdf", width = 9, heigh
 
 #### Reading in the Trimmed Phylogeny ####
 # Let's do the same thing, but, now with only trimmed!
-tree <- read.tree("Data/PhylogenyRevision_NoLong.treefile")
+tree <- read.tree("Data/ConstantSites.treefile")
 Tiplabels <- tree$tip.label
 
 # Need to strip the dates off the ends of the tips for this tree
@@ -486,7 +526,7 @@ tree$tip.label[!(tree$tip.label %in% rownames(fullMeta))]
 bootstrapValues <- as.numeric(tree$node.label)
 ggtree(tree, right = T) %<+% fullMeta +
   theme_tree() +
-  geom_rootedge(1e-4) +
+  geom_rootedge(1e-6) +
   geom_treescale(linesize = 1, offset = 2) +
  # geom_nodepoint(pch = 23, colour = ifelse(bootstrapValues >= 75, "white", NA), fill = ifelse(bootstrapValues >= 90, "black", ifelse(bootstrapValues >= 75, "grey", NA)), size = 2) +
   #geom_text(aes(label = ifelse(node > 300, node, NA))) +
@@ -495,12 +535,12 @@ ggtree(tree, right = T) %<+% fullMeta +
   savedLegendCustom +
   #guides(custom = guide_custom(customLegendShape, title = "Host", order = 5),colour = guide_legend(nrow = 3), shape = guide_none()) +
   theme(legend.position = "bottom", legend.title.position = "top") +
-  geom_cladelab(node = 314, label = "TPA", align = T, textcolor = "black") +
-  geom_cladelab(node = 315, label = "Nichols", align = F, textcolor = coloursClusters[2]) +
-  geom_cladelab(node = 313, label = "SS14", align = F, textcolor  = coloursClusters[1]) +
-  geom_cladelab(node = 333, label = "Nichols - Madagascar", align = F, textcolor  = coloursClusters[3]) +
-  geom_cladelab(node = 390, label = "TPE", align = T, textcolor  = coloursClusters[4]) +
-  geom_cladelab(node = 411, label = "TEN", align = T, textcolor = coloursClusters[5])
+  geom_cladelab(node = 326, label = "TPA", align = T, textcolor = "black") +
+  geom_cladelab(node = 327, label = "Nichols", align = F, textcolor = coloursClusters[2]) +
+  geom_cladelab(node = 325, label = "SS14", align = F, textcolor  = coloursClusters[1]) +
+  geom_cladelab(node = 394, label = "Nichols - Madagascar", align = F, textcolor  = coloursClusters[3]) +
+  geom_cladelab(node = 402, label = "TPE", align = T, textcolor  = coloursClusters[4]) +
+  geom_cladelab(node = 423, label = "TEN", align = T, textcolor = coloursClusters[5])
 #ggsave(file = "Figures/Lineage1TrimmedBoostrap.pdf", width = 12, height = 9)
 
 ggsave(file = "Figures/Lineage1TrimmedBoot.pdf", width = 12, height = 9)

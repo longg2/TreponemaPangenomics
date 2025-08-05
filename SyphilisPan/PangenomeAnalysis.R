@@ -527,7 +527,6 @@ p1 <- coord |>
 	scale_colour_manual("Lineage", values = coloursRank1) +
 	new_scale_colour() +
 	geom_ellipse(lty = 2, data = ellipseData, inherit.aes = F, aes(x0 = Centre_x, y0 = Centre_y, a = a, b = b, angle = angle, colour = Rank_5_Lineage), show.legend = F) +
-#	geom_ellipse(lty = 4, data = ellipseDataNoOdd, inherit.aes = F, aes(x0 = Centre_x, y0 = Centre_y, a = a, b = b, angle = angle, colour = Rank_5_Lineage), show.legend = F) +
 	geom_point(data= ellipseData, shape = 23, size = 3, inherit.aes = F, aes(x = Centre_x, y = Centre_y, fill = Rank_5_Lineage), show.legend = F) +
 	savedLegendCustom +
 	scale_fill_manual(values= coloursClustersConversion) +
@@ -664,7 +663,28 @@ sepLin <- subSep |> bind_rows(heapSummarized |> mutate(Sample = "All", N = 544))
 	ylab("Genes") +
 	theme(legend.position = "bottom")
 
-ggsave("Figures/HeapRegression.pdf",sepLin, width = 6, height= 4)
+sepLinExp <- subSep |> bind_rows(heapSummarized |> mutate(Sample = "All", N = 544)) |> filter(Sample != "tpa") |> group_by(Sample, variable) |> 
+	select(Sample, N, variable, meanValue, loValue, hiValue) |> group_by(Sample, variable) |>
+	pivot_longer(-c(Sample, N, variable)) |> unite(New, variable, name) |> pivot_wider(id_cols = c(Sample, N), names_from = New, values_from = value) |>
+	group_by(Sample) |>
+	mutate(Ntot = max(N)) |>
+	reframe(N = 1:544, Ntot = Ntot, y = k_meanValue*(N)^y_meanValue, ylo = k_loValue*(N)^y_loValue, yhi = k_hiValue*(N)^y_hiValue) |>
+	mutate(Type = ifelse(N > Ntot, "Extrapolation", "Empirical")) |>
+       	ggplot(aes(x = N, y = y, ymin = ylo, ymax = yhi, colour = Sample, fill = Sample, lty = Type)) +
+	theme_classic() +
+	geom_ribbon(alpha = 0.5, colour = NA) +
+	scale_fill_manual(values = c(coloursClustersConversion, "All" = "black")) +
+	scale_colour_manual(values = c(coloursClustersConversion, "All" = "black")) +
+	geom_line() +
+	guides(fill = guide_legend(nrow = 2), colour = guide_legend(nrow = 2)) +
+	#geom_hline(yintercept = sum(coreGenes), lty = 2, colour = "red") +
+	scale_y_continuous(breaks = extended_breaks(n = 10)) +
+	scale_x_continuous(breaks = extended_breaks(n = 10)) +
+	xlab("Genomes") +
+	ylab("Genes") +
+	theme(legend.position = "bottom")
+
+ggsave("Figures/HeapRegressionExp.pdf",sepLinExp, width = 6, height= 4)
 
 # Testing the significance of the tpr genes in the pan-genome characteristics
 

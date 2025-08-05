@@ -9,5 +9,7 @@ To get this point, you'll need to use the scripts found in [LongBioinformatics](
 	* ShovillWrapper.sh to create the genome assemblies, and
 	* PanGenomeCreation.sh to create the pan-genome
 
+NOTE: The phylogenies used in this paper were created differently from that of the CoreSNPPhylogenetics.sh. Te used the core SNP alignment, however, we added the number of constant sites from before the recombination masking as a parameter to IQTREE2.
+
 The PopPUNK database we created for this paper can be found at [TpallidumLineages](https://github.com/Phylodynamics-and-AI-for-Public-health/TpallidumLineages).
 

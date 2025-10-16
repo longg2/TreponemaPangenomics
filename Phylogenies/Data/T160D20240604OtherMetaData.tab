@@ -1,1 +1,4650 @@
-../../SyphilisPan/Data/T160D20240604OtherMetaData.tab
+Assembly Accession	Assembly BioSample Attribute Name	Assembly BioSample Attribute Value
+GCA_000008605.1	strain	Nichols
+GCA_000008605.1	sub_species	pallidum
+GCA_000017825.1	strain	SS14
+GCA_000017825.1	sub_species	pallidum
+GCA_000024485.1	strain	Chicago
+GCA_000024485.1	sub_species	pallidum
+GCA_000246755.1	strain	pertenue Samoa D
+GCA_000246755.1	sub_species	pertenue
+GCA_000246775.1	strain	CDC2
+GCA_000246775.1	sub_species	pertenue
+GCA_000246795.1	strain	Gauthier
+GCA_000246795.1	sub_species	pertenue
+GCA_000246815.1	strain	DAL-1
+GCA_000246815.1	sub_species	pallidum
+GCA_000304295.1	strain	Mexico A
+GCA_000304295.1	sub_species	pallidum
+GCA_000387485.1	strain	Fribourg-Blanc
+GCA_000410535.2	strain	Nichols
+GCA_000410535.2	sub_species	pallidum
+GCA_000410555.1	strain	SS14
+GCA_000410555.1	sub_species	pallidum
+GCA_000604125.1	sub_species	pallidum
+GCA_000604125.1	strain	Sea 81-4
+GCA_000813285.1	strain	Bosnia A
+GCA_000813285.1	sub_species	endemicum
+GCA_001628695.1	strain	Amoy
+GCA_001628695.1	collection_date	2011-06-23
+GCA_001628695.1	env_broad_scale	not applicable
+GCA_001628695.1	env_local_scale	not applicable
+GCA_001628695.1	env_medium	not applicable
+GCA_001628695.1	geo_loc_name	China: Xiamen
+GCA_001628695.1	host	Homo sapiens
+GCA_001628695.1	isol_growth_condt	not applicable
+GCA_001628695.1	lat_lon	24.46 N 118.10000000 E
+GCA_001628695.1	propagation	sexual
+GCA_001628695.1	host_disease	syphilis
+GCA_001628695.1	isolation_source	missing
+GCA_001628695.1	collected_by	Tian-Ci Yang
+GCA_001628695.1	sub_species	pallidum
+GCA_001655235.1	strain	14aa
+GCA_001655235.1	host	Homo sapiens
+GCA_001655235.1	collection_date	2013-12
+GCA_001655235.1	geo_loc_name	USA: Seattle
+GCA_001655235.1	sample_type	Bacteria harvested from rabbit testes
+GCA_001655235.1	sub_species	pallidum
+GCA_001655275.1	isolate	CDC-A
+GCA_001655275.1	host	Homo sapiens
+GCA_001655275.1	collection_date	2013-12
+GCA_001655275.1	geo_loc_name	USA: Seattle
+GCA_001655275.1	sample_type	Bacteria harvested from rabbit testes
+GCA_001655275.1	sub_species	pallidum
+GCA_001655315.1	isolate	Houston Nichols, Clone E
+GCA_001655315.1	strain	14aa
+GCA_001655315.1	host	Homo sapiens
+GCA_001655315.1	collection_date	2013-02
+GCA_001655315.1	geo_loc_name	USA: Seattle
+GCA_001655315.1	sample_type	Bacteria harvested from rabbit testes
+GCA_001655315.1	sub_species	pallidum
+GCA_001655355.1	isolate	Houston Nichols, Clone J
+GCA_001655355.1	strain	14aa
+GCA_001655355.1	host	Homo sapiens
+GCA_001655355.1	collection_date	2013-12
+GCA_001655355.1	geo_loc_name	USA: Seattle
+GCA_001655355.1	sample_type	Bacteria harvested from rabbit testes
+GCA_001655355.1	sub_species	pallidum
+GCA_001655395.1	isolate	UW074
+GCA_001655395.1	strain	14dg
+GCA_001655395.1	collected_by	Christina M. Marra
+GCA_001655395.1	collection_date	2004-07-01
+GCA_001655395.1	geo_loc_name	USA: Seattle
+GCA_001655395.1	host	Homo sapiens
+GCA_001655395.1	host_disease	syphilis
+GCA_001655395.1	isolation_source	blood
+GCA_001655395.1	lat_lon	not applicable
+GCA_001655395.1	sub_species	pallidum
+GCA_001655435.1	isolate	UW189
+GCA_001655435.1	strain	13dd
+GCA_001655435.1	collected_by	Christina M. Marra
+GCA_001655435.1	collection_date	2004-01-14
+GCA_001655435.1	geo_loc_name	USA: Seattle
+GCA_001655435.1	host	Homo sapiens
+GCA_001655435.1	host_disease	syphilis
+GCA_001655435.1	isolation_source	blood
+GCA_001655435.1	lat_lon	not applicable
+GCA_001655435.1	sub_species	pallidum
+GCA_001655475.1	isolate	UW228
+GCA_001655475.1	strain	15df
+GCA_001655475.1	collected_by	Christina M. Marra
+GCA_001655475.1	collection_date	2004-04-16
+GCA_001655475.1	geo_loc_name	USA: Seattle
+GCA_001655475.1	host	Homo sapiens
+GCA_001655475.1	host_disease	syphilis
+GCA_001655475.1	isolation_source	blood
+GCA_001655475.1	lat_lon	not applicable
+GCA_001655475.1	sub_species	pallidum
+GCA_001655515.1	isolate	UW254
+GCA_001655515.1	strain	15df
+GCA_001655515.1	collected_by	Christina M. Marra
+GCA_001655515.1	collection_date	2004-07-15
+GCA_001655515.1	geo_loc_name	USA: Seattle
+GCA_001655515.1	host	Homo sapiens
+GCA_001655515.1	host_disease	syphilis
+GCA_001655515.1	isolation_source	blood
+GCA_001655515.1	lat_lon	not applicable
+GCA_001655515.1	sub_species	pallidum
+GCA_001655555.1	isolate	UW391
+GCA_001655555.1	strain	14df
+GCA_001655555.1	collected_by	Christina M. Marra
+GCA_001655555.1	collection_date	2005-12-21
+GCA_001655555.1	geo_loc_name	USA: Seattle
+GCA_001655555.1	host	Homo sapiens
+GCA_001655555.1	host_disease	syphilis
+GCA_001655555.1	isolation_source	blood
+GCA_001655555.1	lat_lon	not applicable
+GCA_001655555.1	sub_species	pallidum
+GCA_001712895.1	strain	PT_SIF0697
+GCA_001712895.1	collected_by	NIH, Portugal
+GCA_001712895.1	collection_date	2009
+GCA_001712895.1	geo_loc_name	Portugal
+GCA_001712895.1	host	Homo sapiens
+GCA_001712895.1	host_disease	Syphilis
+GCA_001712895.1	isolation_source	Penile
+GCA_001712895.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001712895.1	sub_species	pallidum
+GCA_001712915.1	strain	PT_SIF0857
+GCA_001712915.1	collected_by	NIH, Portugal
+GCA_001712915.1	collection_date	2010
+GCA_001712915.1	geo_loc_name	Portugal
+GCA_001712915.1	host	Homo sapiens
+GCA_001712915.1	host_disease	Syphilis
+GCA_001712915.1	isolation_source	Oropharyngeal
+GCA_001712915.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001712915.1	sub_species	pallidum
+GCA_001712935.1	strain	PT_SIF0908
+GCA_001712935.1	collected_by	NIH, Portugal
+GCA_001712935.1	collection_date	2010
+GCA_001712935.1	geo_loc_name	Portugal
+GCA_001712935.1	host	Homo sapiens
+GCA_001712935.1	host_disease	Syphilis
+GCA_001712935.1	isolation_source	Vaginal
+GCA_001712935.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001712935.1	sub_species	pallidum
+GCA_001712955.1	strain	PT_SIF0954
+GCA_001712955.1	collected_by	NIH, Portugal
+GCA_001712955.1	collection_date	2010
+GCA_001712955.1	geo_loc_name	Portugal
+GCA_001712955.1	host	Homo sapiens
+GCA_001712955.1	host_disease	Syphilis
+GCA_001712955.1	isolation_source	Scrotum
+GCA_001712955.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001712955.1	sub_species	pallidum
+GCA_001712975.1	strain	PT_SIF1002
+GCA_001712975.1	collected_by	NIH, Portugal
+GCA_001712975.1	collection_date	2011
+GCA_001712975.1	geo_loc_name	Portugal
+GCA_001712975.1	host	Homo sapiens
+GCA_001712975.1	host_disease	Syphilis
+GCA_001712975.1	isolation_source	Penile
+GCA_001712975.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001712975.1	sub_species	pallidum
+GCA_001712995.1	strain	PT_SIF1020
+GCA_001712995.1	collected_by	NIH, Portugal
+GCA_001712995.1	collection_date	2011
+GCA_001712995.1	geo_loc_name	Portugal
+GCA_001712995.1	host	Homo sapiens
+GCA_001712995.1	host_disease	Syphilis
+GCA_001712995.1	isolation_source	Penile
+GCA_001712995.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001712995.1	sub_species	pallidum
+GCA_001713015.1	strain	PT_SIF1063
+GCA_001713015.1	collected_by	NIH, Portugal
+GCA_001713015.1	collection_date	2012
+GCA_001713015.1	geo_loc_name	Portugal
+GCA_001713015.1	host	Homo sapiens
+GCA_001713015.1	host_disease	Syphilis
+GCA_001713015.1	isolation_source	Anal
+GCA_001713015.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713015.1	sub_species	pallidum
+GCA_001713035.1	strain	PT_SIF1127
+GCA_001713035.1	collected_by	NIH, Portugal
+GCA_001713035.1	collection_date	2013
+GCA_001713035.1	geo_loc_name	Portugal
+GCA_001713035.1	host	Homo sapiens
+GCA_001713035.1	host_disease	Syphilis
+GCA_001713035.1	isolation_source	Penile
+GCA_001713035.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713035.1	sub_species	pallidum
+GCA_001713055.1	strain	PT_SIF1135
+GCA_001713055.1	collected_by	NIH, Portugal
+GCA_001713055.1	collection_date	2013
+GCA_001713055.1	geo_loc_name	Portugal
+GCA_001713055.1	host	Homo sapiens
+GCA_001713055.1	host_disease	Syphilis
+GCA_001713055.1	isolation_source	Anal
+GCA_001713055.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713055.1	sub_species	pallidum
+GCA_001713075.1	strain	PT_SIF1140
+GCA_001713075.1	collected_by	NIH, Portugal
+GCA_001713075.1	collection_date	2013
+GCA_001713075.1	geo_loc_name	Portugal
+GCA_001713075.1	host	Homo sapiens
+GCA_001713075.1	host_disease	Syphilis
+GCA_001713075.1	isolation_source	Anal
+GCA_001713075.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713075.1	sub_species	pallidum
+GCA_001713095.1	strain	PT_SIF1142
+GCA_001713095.1	collected_by	NIH, Portugal
+GCA_001713095.1	collection_date	2013
+GCA_001713095.1	geo_loc_name	Portugal
+GCA_001713095.1	host	Homo sapiens
+GCA_001713095.1	host_disease	Syphilis
+GCA_001713095.1	isolation_source	Penile
+GCA_001713095.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713095.1	sub_species	pallidum
+GCA_001713115.1	strain	PT_SIF1156
+GCA_001713115.1	collected_by	NIH, Portugal
+GCA_001713115.1	collection_date	2013
+GCA_001713115.1	geo_loc_name	Portugal
+GCA_001713115.1	host	Homo sapiens
+GCA_001713115.1	host_disease	Syphilis
+GCA_001713115.1	isolation_source	Penile
+GCA_001713115.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713115.1	sub_species	pallidum
+GCA_001713135.1	strain	PT_SIF1167
+GCA_001713135.1	collected_by	NIH, Portugal
+GCA_001713135.1	collection_date	2013
+GCA_001713135.1	geo_loc_name	Portugal
+GCA_001713135.1	host	Homo sapiens
+GCA_001713135.1	host_disease	Syphilis
+GCA_001713135.1	isolation_source	Penile
+GCA_001713135.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713135.1	sub_species	pallidum
+GCA_001713155.1	strain	PT_SIF1183
+GCA_001713155.1	collected_by	NIH, Portugal
+GCA_001713155.1	collection_date	2013
+GCA_001713155.1	geo_loc_name	Portugal
+GCA_001713155.1	host	Homo sapiens
+GCA_001713155.1	host_disease	Syphilis
+GCA_001713155.1	isolation_source	Penile
+GCA_001713155.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713155.1	sub_species	pallidum
+GCA_001713175.1	strain	PT_SIF1196
+GCA_001713175.1	collected_by	NIH, Portugal
+GCA_001713175.1	collection_date	2013
+GCA_001713175.1	geo_loc_name	Portugal
+GCA_001713175.1	host	Homo sapiens
+GCA_001713175.1	host_disease	Syphilis
+GCA_001713175.1	isolation_source	Penile
+GCA_001713175.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713175.1	sub_species	pallidum
+GCA_001713195.1	strain	PT_SIF1200
+GCA_001713195.1	collected_by	NIH, Portugal
+GCA_001713195.1	collection_date	2013
+GCA_001713195.1	geo_loc_name	Portugal
+GCA_001713195.1	host	Homo sapiens
+GCA_001713195.1	host_disease	Syphilis
+GCA_001713195.1	isolation_source	Penile
+GCA_001713195.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713195.1	sub_species	pallidum
+GCA_001713215.1	strain	PT_SIF1242
+GCA_001713215.1	collected_by	NIH, Portugal
+GCA_001713215.1	collection_date	2014
+GCA_001713215.1	geo_loc_name	Portugal
+GCA_001713215.1	host	Homo sapiens
+GCA_001713215.1	host_disease	Syphilis
+GCA_001713215.1	isolation_source	Penile
+GCA_001713215.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713215.1	sub_species	pallidum
+GCA_001713235.1	strain	PT_SIF1252
+GCA_001713235.1	collected_by	NIH, Portugal
+GCA_001713235.1	collection_date	2014
+GCA_001713235.1	geo_loc_name	Portugal
+GCA_001713235.1	host	Homo sapiens
+GCA_001713235.1	host_disease	Syphilis
+GCA_001713235.1	isolation_source	Penile
+GCA_001713235.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713235.1	sub_species	pallidum
+GCA_001713255.1	strain	PT_SIF1261
+GCA_001713255.1	collected_by	NIH, Portugal
+GCA_001713255.1	collection_date	2014
+GCA_001713255.1	geo_loc_name	Portugal
+GCA_001713255.1	host	Homo sapiens
+GCA_001713255.1	host_disease	Syphilis
+GCA_001713255.1	isolation_source	Anal
+GCA_001713255.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713255.1	sub_species	pallidum
+GCA_001713275.1	strain	PT_SIF1278
+GCA_001713275.1	collected_by	NIH, Portugal
+GCA_001713275.1	collection_date	2014
+GCA_001713275.1	geo_loc_name	Portugal
+GCA_001713275.1	host	Homo sapiens
+GCA_001713275.1	host_disease	Syphilis
+GCA_001713275.1	isolation_source	Anal
+GCA_001713275.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713275.1	sub_species	pallidum
+GCA_001713295.1	strain	PT_SIF1280
+GCA_001713295.1	collected_by	NIH, Portugal
+GCA_001713295.1	collection_date	2014
+GCA_001713295.1	geo_loc_name	Portugal
+GCA_001713295.1	host	Homo sapiens
+GCA_001713295.1	host_disease	Syphilis
+GCA_001713295.1	isolation_source	Anal
+GCA_001713295.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713295.1	sub_species	pallidum
+GCA_001713315.1	strain	PT_SIF1299
+GCA_001713315.1	collected_by	NIH, Portugal
+GCA_001713315.1	collection_date	2014
+GCA_001713315.1	geo_loc_name	Portugal
+GCA_001713315.1	host	Homo sapiens
+GCA_001713315.1	host_disease	Syphilis
+GCA_001713315.1	isolation_source	Penile
+GCA_001713315.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713315.1	sub_species	pallidum
+GCA_001713335.1	strain	PT_SIF1348
+GCA_001713335.1	collected_by	NIH, Portugal
+GCA_001713335.1	collection_date	2014
+GCA_001713335.1	geo_loc_name	Portugal
+GCA_001713335.1	host	Homo sapiens
+GCA_001713335.1	host_disease	Syphilis
+GCA_001713335.1	isolation_source	Anal
+GCA_001713335.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001713335.1	sub_species	pallidum
+GCA_001761515.1	strain	PT_SIF0751
+GCA_001761515.1	collected_by	NIH, Portugal
+GCA_001761515.1	collection_date	2009
+GCA_001761515.1	geo_loc_name	Portugal
+GCA_001761515.1	host	Homo sapiens
+GCA_001761515.1	host_disease	Syphilis
+GCA_001761515.1	isolation_source	Tongue
+GCA_001761515.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001761515.1	sub_species	pallidum
+GCA_001761565.1	strain	PT_SIF0877_3
+GCA_001761565.1	collected_by	NIH, Portugal
+GCA_001761565.1	collection_date	2010
+GCA_001761565.1	geo_loc_name	Portugal
+GCA_001761565.1	host	Homo sapiens
+GCA_001761565.1	host_disease	Syphilis
+GCA_001761565.1	isolation_source	Tongue
+GCA_001761565.1	lat_lon	38.72218828 N 9.13975864 W
+GCA_001761565.1	sub_species	pallidum
+GCA_001941545.1	strain	Seattle Nichols
+GCA_001941545.1	genotype	14aa
+GCA_001941545.1	host	Homo sapiens
+GCA_001941545.1	collection_date	2013-02
+GCA_001941545.1	geo_loc_name	USA: Seattle, WA
+GCA_001941545.1	sample_type	Bacteria harvested from rabbit testes
+GCA_001941545.1	sub_species	pallidum
+GCA_002271195.1	strain	Ghana-051
+GCA_002271195.1	collected_by	Sophia Children's Hospital in Rotterdam
+GCA_002271195.1	collection_date	1988
+GCA_002271195.1	geo_loc_name	Ghana
+GCA_002271195.1	host	Homo sapiens
+GCA_002271195.1	host_disease	yaws
+GCA_002271195.1	isolation_source	disease
+GCA_002271195.1	lat_lon	5.55602 N 0.1969 W
+GCA_002271195.1	sub_species	pertenue
+GCA_002271235.1	strain	CDC 2575
+GCA_002271235.1	collected_by	Liska
+GCA_002271235.1	collection_date	1980
+GCA_002271235.1	geo_loc_name	Ghana
+GCA_002271235.1	host	Homo sapiens
+GCA_002271235.1	host_disease	yaws
+GCA_002271235.1	isolation_source	disease
+GCA_002271235.1	lat_lon	5.5560 N 0.1969 W
+GCA_002271235.1	host_disease_stage	disease
+GCA_002271235.1	sub_species	pertenue
+GCA_003055985.1	collected_by	Masaryk University
+GCA_003055985.1	collection_date	2014-12-20
+GCA_003055985.1	geo_loc_name	Czech Republic
+GCA_003055985.1	host	Homo sapiens
+GCA_003055985.1	host_disease	syphilis
+GCA_003055985.1	isolation_source	primary chancre
+GCA_003055985.1	lat_lon	49.18 N 16.61 E
+GCA_003055985.1	sub_species	pallidum
+GCA_003055985.1	strain	UZ1974
+GCA_003076575.1	strain	LMNP-1
+GCA_003076575.1	alternate_ID	40M5160407
+GCA_003076575.1	collected_by	DPZ Goettingen
+GCA_003076575.1	collection_date	2007-04-16
+GCA_003076575.1	geo_loc_name	Tanzania: Lake Manyara
+GCA_003076575.1	host	Papio anubis
+GCA_003076575.1	host_disease	anogenital lesion
+GCA_003076575.1	isolation_source	skin
+GCA_003076575.1	lat_lon	missing
+GCA_003076575.1	sub_species	pertenue
+GCA_003611295.1	strain	Kampung Dalan K363
+GCA_003611295.1	collected_by	unknown
+GCA_003611295.1	collection_date	1990-01-05
+GCA_003611295.1	geo_loc_name	Indonesia: Pariaman region in Sumatra
+GCA_003611295.1	host	Homo sapiens
+GCA_003611295.1	host_disease	yaws
+GCA_003611295.1	isolation_source	skin lesion
+GCA_003611295.1	lat_lon	0.625851 S 100.122478 E
+GCA_003611295.1	sub_species	pertenue
+GCA_003611315.1	strain	Sei Geringging K403
+GCA_003611315.1	collected_by	unknown
+GCA_003611315.1	collection_date	1990-05-14
+GCA_003611315.1	geo_loc_name	Indonesia: Pariaman region in Sumatra
+GCA_003611315.1	host	Homo sapiens
+GCA_003611315.1	host_disease	yaws
+GCA_003611315.1	isolation_source	skin lesion
+GCA_003611315.1	lat_lon	0.625851 S 100.122478 E
+GCA_003611315.1	sub_species	pertenue
+GCA_003627115.1	strain	Haiti B
+GCA_003627115.1	collected_by	Dr S. Levitan
+GCA_003627115.1	collection_date	1951
+GCA_003627115.1	geo_loc_name	Haiti: Cotes-de-Fer
+GCA_003627115.1	host	Homo sapiens
+GCA_003627115.1	host_disease	syphilis
+GCA_003627115.1	isolation_source	lesions on the lower abdomen
+GCA_003627115.1	lat_lon	18.190409 N 73.003120 W
+GCA_003627115.1	host_age	11
+GCA_003627115.1	host_sex	male
+GCA_003627115.1	sub_species	pallidum
+GCA_003952805.1	strain	CDC-1
+GCA_003952805.1	collected_by	missing
+GCA_003952805.1	collection_date	1980-11
+GCA_003952805.1	geo_loc_name	Ghana: Densuso
+GCA_003952805.1	host	Homo sapiens
+GCA_003952805.1	host_disease	yaws
+GCA_003952805.1	isolation_source	papillomatous lesion
+GCA_003952805.1	lat_lon	missing
+GCA_003952805.1	host_age	5 years
+GCA_003952805.1	host_disease_outcome	yaws
+GCA_003952805.1	host_sex	male
+GCA_003952805.1	sub_species	pertenue
+GCA_004194495.1	strain	Iraq B
+GCA_004194495.1	collected_by	unknown
+GCA_004194495.1	collection_date	1951
+GCA_004194495.1	geo_loc_name	Iraq
+GCA_004194495.1	host	Homo sapiens
+GCA_004194495.1	host_disease	endemic syphilis
+GCA_004194495.1	isolation_source	lesion
+GCA_004194495.1	lat_lon	32.854535 N 42.9133 E
+GCA_004194495.1	host_age	7 years
+GCA_004194495.1	host_sex	female
+GCA_004194495.1	sub_species	endemicum
+GCA_005311045.1	strain	CW88
+GCA_005311045.1	collected_by	missing
+GCA_005311045.1	collection_date	2017
+GCA_005311045.1	geo_loc_name	Czech Republic
+GCA_005311045.1	host	Homo sapiens
+GCA_005311045.1	host_disease	syphilis
+GCA_005311045.1	isolation_source	genital smear
+GCA_005311045.1	lat_lon	missing
+GCA_005311045.1	sub_species	pallidum
+GCA_005311065.1	strain	CW86
+GCA_005311065.1	collected_by	missing
+GCA_005311065.1	collection_date	2013
+GCA_005311065.1	geo_loc_name	France
+GCA_005311065.1	host	Homo sapiens
+GCA_005311065.1	host_disease	syphilis
+GCA_005311065.1	isolation_source	genital smear
+GCA_005311065.1	lat_lon	missing
+GCA_005311065.1	sub_species	pallidum
+GCA_005311085.1	strain	CW83
+GCA_005311085.1	collected_by	missing
+GCA_005311085.1	collection_date	2015
+GCA_005311085.1	geo_loc_name	Cuba
+GCA_005311085.1	host	Homo sapiens
+GCA_005311085.1	host_disease	syphilis
+GCA_005311085.1	isolation_source	genital smear
+GCA_005311085.1	lat_lon	missing
+GCA_005311085.1	sub_species	pallidum
+GCA_005311105.1	strain	CW82
+GCA_005311105.1	collected_by	missing
+GCA_005311105.1	collection_date	2016
+GCA_005311105.1	geo_loc_name	Cuba
+GCA_005311105.1	host	Homo sapiens
+GCA_005311105.1	host_disease	syphilis
+GCA_005311105.1	isolation_source	genital smear
+GCA_005311105.1	lat_lon	missing
+GCA_005311105.1	sub_species	pallidum
+GCA_005311125.1	strain	CW65
+GCA_005311125.1	collected_by	missing
+GCA_005311125.1	collection_date	2014
+GCA_005311125.1	geo_loc_name	Australia
+GCA_005311125.1	host	Homo sapiens
+GCA_005311125.1	host_disease	syphilis
+GCA_005311125.1	isolation_source	anal smear
+GCA_005311125.1	lat_lon	missing
+GCA_005311125.1	sub_species	pallidum
+GCA_005311145.1	strain	CW56
+GCA_005311145.1	collected_by	missing
+GCA_005311145.1	collection_date	2013
+GCA_005311145.1	geo_loc_name	Cuba
+GCA_005311145.1	host	Homo sapiens
+GCA_005311145.1	host_disease	syphilis
+GCA_005311145.1	isolation_source	genital smear
+GCA_005311145.1	lat_lon	missing
+GCA_005311145.1	sub_species	pallidum
+GCA_005311165.1	strain	CW30
+GCA_005311165.1	collected_by	missing
+GCA_005311165.1	collection_date	2014
+GCA_005311165.1	geo_loc_name	Czech Republic
+GCA_005311165.1	host	Homo sapiens
+GCA_005311165.1	host_disease	syphilis
+GCA_005311165.1	isolation_source	genital smear
+GCA_005311165.1	lat_lon	missing
+GCA_005311165.1	sub_species	pallidum
+GCA_005311185.1	strain	CW85
+GCA_005311185.1	collected_by	missing
+GCA_005311185.1	collection_date	2016
+GCA_005311185.1	geo_loc_name	France
+GCA_005311185.1	host	Homo sapiens
+GCA_005311185.1	host_disease	syphilis
+GCA_005311185.1	isolation_source	genital smear
+GCA_005311185.1	lat_lon	missing
+GCA_005311185.1	sub_species	pallidum
+GCA_005311205.1	strain	CW84
+GCA_005311205.1	collected_by	missing
+GCA_005311205.1	collection_date	2015
+GCA_005311205.1	geo_loc_name	France
+GCA_005311205.1	host	Homo sapiens
+GCA_005311205.1	host_disease	syphilis
+GCA_005311205.1	isolation_source	genital smear
+GCA_005311205.1	lat_lon	missing
+GCA_005311205.1	sub_species	pallidum
+GCA_005311445.1	strain	CW59
+GCA_005311445.1	collected_by	missing
+GCA_005311445.1	collection_date	2012
+GCA_005311445.1	geo_loc_name	France
+GCA_005311445.1	host	Homo sapiens
+GCA_005311445.1	host_disease	syphilis
+GCA_005311445.1	isolation_source	anal smear
+GCA_005311445.1	lat_lon	missing
+GCA_005311445.1	sub_species	pallidum
+GCA_005341485.1	strain	CW87
+GCA_005341485.1	collected_by	missing
+GCA_005341485.1	collection_date	2016
+GCA_005341485.1	geo_loc_name	France
+GCA_005341485.1	host	Homo sapiens
+GCA_005341485.1	host_disease	syphilis
+GCA_005341485.1	isolation_source	bucal smear
+GCA_005341485.1	lat_lon	missing
+GCA_005341485.1	sub_species	pallidum
+GCA_005408385.1	strain	Philadelphia 1
+GCA_005408385.1	collected_by	CDC
+GCA_005408385.1	collection_date	1988
+GCA_005408385.1	geo_loc_name	USA: Philadelphia
+GCA_005408385.1	host	Homo sapiens
+GCA_005408385.1	host_disease	syphilis
+GCA_005408385.1	isolation_source	unknown
+GCA_005408385.1	lat_lon	unknown
+GCA_005408385.1	sub_species	pallidum
+GCA_005408405.1	strain	Grady
+GCA_005408405.1	collected_by	CDC
+GCA_005408405.1	collection_date	1980
+GCA_005408405.1	geo_loc_name	USA: Atlanta
+GCA_005408405.1	host	Homo sapiens
+GCA_005408405.1	host_disease	syphilis
+GCA_005408405.1	isolation_source	unknown
+GCA_005408405.1	lat_lon	unknown
+GCA_005408405.1	sub_species	pallidum
+GCA_005885795.1	strain	X-4
+GCA_005885795.1	collected_by	Zhongshan Hospital, Xiamen University
+GCA_005885795.1	collection_date	2017-05-22
+GCA_005885795.1	geo_loc_name	China: Xiamen
+GCA_005885795.1	host	Homo sapiens
+GCA_005885795.1	host_disease	Syphilis
+GCA_005885795.1	isolation_source	missing
+GCA_005885795.1	lat_lon	not applicable
+GCA_005885795.1	culture_collection	not applicable
+GCA_005885795.1	host_age	62
+GCA_005885795.1	host_description	not collection
+GCA_005885795.1	host_disease_outcome	not collection
+GCA_005885795.1	host_disease_stage	primary syphilis
+GCA_005885795.1	host_health_state	not collection
+GCA_005885795.1	host_sex	male
+GCA_005885795.1	host_subject_id	not collection
+GCA_005885795.1	host_tissue_sampled	skin lesion
+GCA_005885795.1	passage_history	not applicable
+GCA_005885795.1	pathotype	not applicable
+GCA_005885795.1	serotype	not applicable
+GCA_005885795.1	serovar	not applicable
+GCA_005885795.1	specimen_voucher	not applicable
+GCA_005885795.1	subgroup	not applicable
+GCA_005885795.1	subtype	not applicable
+GCA_005885795.1	sub_species	pallidum
+GCA_009017435.1	strain	UW-148B
+GCA_009017435.1	collected_by	Christina Marra
+GCA_009017435.1	collection_date	2003
+GCA_009017435.1	geo_loc_name	USA: Washington
+GCA_009017435.1	host	Homo sapiens
+GCA_009017435.1	host_disease	syphilis
+GCA_009017435.1	isolation_source	rabbit
+GCA_009017435.1	lat_lon	47.6062 N 122.3321 W
+GCA_009017475.1	strain	UW-148B2
+GCA_009017475.1	collected_by	Christina Marra
+GCA_009017475.1	collection_date	2009
+GCA_009017475.1	geo_loc_name	USA: Washington
+GCA_009017475.1	host	Homo sapiens
+GCA_009017475.1	host_disease	syphilis
+GCA_009017475.1	isolation_source	rabbit
+GCA_009017475.1	lat_lon	47.6062 N 122.3321 W
+GCA_015239315.1	strain	SMUTp_01
+GCA_015239315.1	alternate_ID	01
+GCA_015239315.1	collected_by	Dermatology hospital of Southern Medical University
+GCA_015239315.1	collection_date	2018
+GCA_015239315.1	geo_loc_name	China: Guangzhou
+GCA_015239315.1	host	Homo sapiens
+GCA_015239315.1	host_disease	Syphilis
+GCA_015239315.1	isolation_source	chancre
+GCA_015239315.1	lab_host	rabbit testicle
+GCA_015239315.1	lat_lon	23.8 N 113.17 E
+GCA_015239315.1	sub_species	pallidum
+GCA_015239335.1	strain	SMUTp_02
+GCA_015239335.1	alternate_ID	02
+GCA_015239335.1	collected_by	Dermatology hospital of Southern Medical University
+GCA_015239335.1	collection_date	2017
+GCA_015239335.1	geo_loc_name	China: Guangzhou
+GCA_015239335.1	host	Homo sapiens
+GCA_015239335.1	host_disease	Syphilis
+GCA_015239335.1	isolation_source	Rabbit testicles
+GCA_015239335.1	lat_lon	23.8 N 113.17 E
+GCA_015239335.1	sub_species	pallidum
+GCA_015239355.1	strain	SMUTp_04
+GCA_015239355.1	alternate_ID	04
+GCA_015239355.1	collected_by	Dermatology hospital of Southern Medical University
+GCA_015239355.1	collection_date	2018
+GCA_015239355.1	geo_loc_name	China: Guangzhou
+GCA_015239355.1	host	Homo sapiens
+GCA_015239355.1	host_disease	Syphilis
+GCA_015239355.1	isolation_source	Chancre
+GCA_015239355.1	lat_lon	23.8 N 113.17 E
+GCA_015239355.1	sub_species	pallidum
+GCA_015239375.1	strain	SMUTp_08
+GCA_015239375.1	alternate_ID	08
+GCA_015239375.1	collected_by	Dermatology hospital of Southern Medical University
+GCA_015239375.1	collection_date	2018
+GCA_015239375.1	geo_loc_name	China: Guangzhou
+GCA_015239375.1	host	Homo sapiens
+GCA_015239375.1	host_disease	Syphilis
+GCA_015239375.1	isolation_source	Chancre
+GCA_015239375.1	lat_lon	23.8 N 113.17 E
+GCA_015239375.1	sub_species	pallidum
+GCA_015239395.1	strain	SMUTp_09
+GCA_015239395.1	alternate_ID	09
+GCA_015239395.1	collected_by	Dermatology hospital of Southern Medical University
+GCA_015239395.1	collection_date	2018
+GCA_015239395.1	geo_loc_name	China: Guangzhou
+GCA_015239395.1	host	Homo sapiens
+GCA_015239395.1	host_disease	Syphilis
+GCA_015239395.1	isolation_source	Chancre
+GCA_015239395.1	lat_lon	23.8 N 113.17 E
+GCA_015239395.1	sub_species	pallidum
+GCA_015239415.1	strain	SMUTp_07
+GCA_015239415.1	alternate_ID	07
+GCA_015239415.1	collected_by	Dermatology hospital of Southern Medical University
+GCA_015239415.1	collection_date	2018
+GCA_015239415.1	geo_loc_name	China: Guangzhou
+GCA_015239415.1	host	Homo sapiens
+GCA_015239415.1	host_disease	Syphilis
+GCA_015239415.1	isolation_source	Chancre
+GCA_015239415.1	lat_lon	23.8 N 113.17 E
+GCA_015239415.1	sub_species	pallidum
+GCA_018199035.3	strain	ItalyGE4b
+GCA_018199035.3	collected_by	NA
+GCA_018199035.3	collection_date	2017
+GCA_018199035.3	geo_loc_name	Italy
+GCA_018199035.3	host	Homo sapiens
+GCA_018199035.3	host_disease	syphilis
+GCA_018199035.3	isolation_source	swab
+GCA_018199035.3	lat_lon	missing
+GCA_018199075.2	strain	ItalyAS23
+GCA_018199075.2	collected_by	NA
+GCA_018199075.2	collection_date	2017
+GCA_018199075.2	geo_loc_name	Italy
+GCA_018199075.2	host	Homo sapiens
+GCA_018199075.2	host_disease	syphilis
+GCA_018199075.2	isolation_source	swab
+GCA_018199075.2	lat_lon	missing
+GCA_018199115.2	strain	ItalyAS14
+GCA_018199115.2	collected_by	NA
+GCA_018199115.2	collection_date	2017
+GCA_018199115.2	geo_loc_name	Italy
+GCA_018199115.2	host	Homo sapiens
+GCA_018199115.2	host_disease	syphilis
+GCA_018199115.2	isolation_source	swab
+GCA_018199115.2	lat_lon	missing
+GCA_018199255.2	strain	Italy7CGx
+GCA_018199255.2	collected_by	NA
+GCA_018199255.2	collection_date	2017
+GCA_018199255.2	geo_loc_name	Italy
+GCA_018199255.2	host	Homo sapiens
+GCA_018199255.2	host_disease	syphilis
+GCA_018199255.2	isolation_source	swab
+GCA_018199255.2	lat_lon	missing
+GCA_018199335.2	strain	Italy8PLe
+GCA_018199335.2	collected_by	NA
+GCA_018199335.2	collection_date	2017
+GCA_018199335.2	geo_loc_name	Italy
+GCA_018199335.2	host	Homo sapiens
+GCA_018199335.2	host_disease	syphilis
+GCA_018199335.2	isolation_source	swab
+GCA_018199335.2	lat_lon	missing
+GCA_018199375.2	strain	Dublin58B
+GCA_018199375.2	collected_by	NA
+GCA_018199375.2	collection_date	2002
+GCA_018199375.2	geo_loc_name	Ireland
+GCA_018199375.2	host	Homo sapiens
+GCA_018199375.2	host_disease	syphilis
+GCA_018199375.2	isolation_source	swab
+GCA_018199375.2	lat_lon	missing
+GCA_018199415.2	strain	Italy17LGMi
+GCA_018199415.2	collected_by	NA
+GCA_018199415.2	collection_date	2017
+GCA_018199415.2	geo_loc_name	Italy
+GCA_018199415.2	host	Homo sapiens
+GCA_018199415.2	host_disease	syphilis
+GCA_018199415.2	isolation_source	swab
+GCA_018199415.2	lat_lon	missing
+GCA_018199435.2	strain	Dublin57B
+GCA_018199435.2	collected_by	NA
+GCA_018199435.2	collection_date	2002
+GCA_018199435.2	geo_loc_name	Ireland
+GCA_018199435.2	host	Homo sapiens
+GCA_018199435.2	host_disease	syphilis
+GCA_018199435.2	isolation_source	swab
+GCA_018199435.2	lat_lon	missing
+GCA_018199455.2	strain	Dublin55B
+GCA_018199455.2	collected_by	NA
+GCA_018199455.2	collection_date	2002
+GCA_018199455.2	geo_loc_name	Ireland
+GCA_018199455.2	host	Homo sapiens
+GCA_018199455.2	host_disease	syphilis
+GCA_018199455.2	isolation_source	swab
+GCA_018199455.2	lat_lon	missing
+GCA_018199475.2	strain	Dublin54B
+GCA_018199475.2	collected_by	NA
+GCA_018199475.2	collection_date	2002
+GCA_018199475.2	geo_loc_name	Ireland
+GCA_018199475.2	host	Homo sapiens
+GCA_018199475.2	host_disease	syphilis
+GCA_018199475.2	isolation_source	swab
+GCA_018199475.2	lat_lon	missing
+GCA_018199495.2	strain	Dublin52B
+GCA_018199495.2	collected_by	NA
+GCA_018199495.2	collection_date	2002
+GCA_018199495.2	geo_loc_name	Ireland
+GCA_018199495.2	host	Homo sapiens
+GCA_018199495.2	host_disease	syphilis
+GCA_018199495.2	isolation_source	swab
+GCA_018199495.2	lat_lon	missing
+GCA_018199515.2	strain	Dublin41B
+GCA_018199515.2	collected_by	NA
+GCA_018199515.2	collection_date	2002
+GCA_018199515.2	geo_loc_name	Ireland
+GCA_018199515.2	host	Homo sapiens
+GCA_018199515.2	host_disease	syphilis
+GCA_018199515.2	isolation_source	swab
+GCA_018199515.2	lat_lon	missing
+GCA_018199535.2	strain	Dublin50B
+GCA_018199535.2	collected_by	NA
+GCA_018199535.2	collection_date	2002
+GCA_018199535.2	geo_loc_name	Ireland
+GCA_018199535.2	host	Homo sapiens
+GCA_018199535.2	host_disease	syphilis
+GCA_018199535.2	isolation_source	swab
+GCA_018199535.2	lat_lon	missing
+GCA_018199555.2	strain	Dublin46B
+GCA_018199555.2	collected_by	NA
+GCA_018199555.2	collection_date	2002
+GCA_018199555.2	geo_loc_name	Ireland
+GCA_018199555.2	host	Homo sapiens
+GCA_018199555.2	host_disease	syphilis
+GCA_018199555.2	isolation_source	swab
+GCA_018199555.2	lat_lon	missing
+GCA_018199575.2	strain	Dublin37B
+GCA_018199575.2	collected_by	NA
+GCA_018199575.2	collection_date	2002
+GCA_018199575.2	geo_loc_name	Ireland
+GCA_018199575.2	host	Homo sapiens
+GCA_018199575.2	host_disease	syphilis
+GCA_018199575.2	isolation_source	swab
+GCA_018199575.2	lat_lon	missing
+GCA_018199595.2	strain	Dublin24B
+GCA_018199595.2	collected_by	NA
+GCA_018199595.2	collection_date	2002
+GCA_018199595.2	geo_loc_name	Ireland
+GCA_018199595.2	host	Homo sapiens
+GCA_018199595.2	host_disease	syphilis
+GCA_018199595.2	isolation_source	swab
+GCA_018199595.2	lat_lon	missing
+GCA_018199615.2	strain	Dublin21Be
+GCA_018199615.2	collected_by	NA
+GCA_018199615.2	collection_date	2002
+GCA_018199615.2	geo_loc_name	Ireland
+GCA_018199615.2	host	Homo sapiens
+GCA_018199615.2	host_disease	syphilis
+GCA_018199615.2	isolation_source	swab
+GCA_018199615.2	lat_lon	missing
+GCA_018199635.2	strain	China48
+GCA_018199635.2	collected_by	NA
+GCA_018199635.2	collection_date	2018
+GCA_018199635.2	geo_loc_name	China
+GCA_018199635.2	host	Homo sapiens
+GCA_018199635.2	host_disease	syphilis
+GCA_018199635.2	isolation_source	swab
+GCA_018199635.2	lat_lon	missing
+GCA_018199735.2	strain	China47
+GCA_018199735.2	collected_by	NA
+GCA_018199735.2	collection_date	2018
+GCA_018199735.2	geo_loc_name	China
+GCA_018199735.2	host	Homo sapiens
+GCA_018199735.2	host_disease	syphilis
+GCA_018199735.2	isolation_source	swab
+GCA_018199735.2	lat_lon	missing
+GCA_018199835.2	strain	China44
+GCA_018199835.2	collected_by	NA
+GCA_018199835.2	collection_date	2018
+GCA_018199835.2	geo_loc_name	China
+GCA_018199835.2	host	Homo sapiens
+GCA_018199835.2	host_disease	syphilis
+GCA_018199835.2	isolation_source	swab
+GCA_018199835.2	lat_lon	missing
+GCA_018199875.2	strain	China30
+GCA_018199875.2	collected_by	NA
+GCA_018199875.2	collection_date	2018
+GCA_018199875.2	geo_loc_name	China
+GCA_018199875.2	host	Homo sapiens
+GCA_018199875.2	host_disease	syphilis
+GCA_018199875.2	isolation_source	swab
+GCA_018199875.2	lat_lon	missing
+GCA_018199895.2	strain	China42
+GCA_018199895.2	collected_by	NA
+GCA_018199895.2	collection_date	2018
+GCA_018199895.2	geo_loc_name	China
+GCA_018199895.2	host	Homo sapiens
+GCA_018199895.2	host_disease	syphilis
+GCA_018199895.2	isolation_source	swab
+GCA_018199895.2	lat_lon	missing
+GCA_018199915.2	strain	China31
+GCA_018199915.2	collected_by	NA
+GCA_018199915.2	collection_date	2018
+GCA_018199915.2	geo_loc_name	China
+GCA_018199915.2	host	Homo sapiens
+GCA_018199915.2	host_disease	syphilis
+GCA_018199915.2	isolation_source	swab
+GCA_018199915.2	lat_lon	missing
+GCA_018199935.2	strain	China23
+GCA_018199935.2	collected_by	NA
+GCA_018199935.2	collection_date	2018
+GCA_018199935.2	geo_loc_name	China
+GCA_018199935.2	host	Homo sapiens
+GCA_018199935.2	host_disease	syphilis
+GCA_018199935.2	isolation_source	swab
+GCA_018199935.2	lat_lon	missing
+GCA_018200055.3	strain	UAB6xi
+GCA_018200055.3	collected_by	NA
+GCA_018200055.3	collection_date	2001
+GCA_018200055.3	geo_loc_name	Madagascar
+GCA_018200055.3	host	Homo sapiens
+GCA_018200055.3	host_disease	syphilis
+GCA_018200055.3	isolation_source	swab
+GCA_018200055.3	lat_lon	missing
+GCA_018200075.2	strain	UAB515xi
+GCA_018200075.2	collected_by	NA
+GCA_018200075.2	collection_date	2006
+GCA_018200075.2	geo_loc_name	Madagascar
+GCA_018200075.2	host	Homo sapiens
+GCA_018200075.2	host_disease	syphilis
+GCA_018200075.2	isolation_source	swab
+GCA_018200075.2	lat_lon	missing
+GCA_018200095.2	strain	UAB522x
+GCA_018200095.2	collected_by	NA
+GCA_018200095.2	collection_date	2006
+GCA_018200095.2	geo_loc_name	Madagascar
+GCA_018200095.2	host	Homo sapiens
+GCA_018200095.2	host_disease	syphilis
+GCA_018200095.2	isolation_source	swab
+GCA_018200095.2	lat_lon	missing
+GCA_018200115.2	strain	UAB523x
+GCA_018200115.2	collected_by	NA
+GCA_018200115.2	collection_date	2006
+GCA_018200115.2	geo_loc_name	Madagascar
+GCA_018200115.2	host	Homo sapiens
+GCA_018200115.2	host_disease	syphilis
+GCA_018200115.2	isolation_source	swab
+GCA_018200115.2	lat_lon	missing
+GCA_018200135.2	strain	UAB89xi
+GCA_018200135.2	collected_by	NA
+GCA_018200135.2	collection_date	2001
+GCA_018200135.2	geo_loc_name	Madagascar
+GCA_018200135.2	host	Homo sapiens
+GCA_018200135.2	host_disease	syphilis
+GCA_018200135.2	isolation_source	swab
+GCA_018200135.2	lat_lon	missing
+GCA_018200155.2	strain	UAB75
+GCA_018200155.2	collected_by	NA
+GCA_018200155.2	collection_date	2001
+GCA_018200155.2	geo_loc_name	Madagascar
+GCA_018200155.2	host	Homo sapiens
+GCA_018200155.2	host_disease	syphilis
+GCA_018200155.2	isolation_source	swab
+GCA_018200155.2	lat_lon	missing
+GCA_018200175.2	strain	UAB81xi
+GCA_018200175.2	collected_by	NA
+GCA_018200175.2	collection_date	2001
+GCA_018200175.2	geo_loc_name	Madagascar
+GCA_018200175.2	host	Homo sapiens
+GCA_018200175.2	host_disease	syphilis
+GCA_018200175.2	isolation_source	swab
+GCA_018200175.2	lat_lon	missing
+GCA_018200195.2	strain	UAB76xei
+GCA_018200195.2	collected_by	NA
+GCA_018200195.2	collection_date	2001
+GCA_018200195.2	geo_loc_name	Madagascar
+GCA_018200195.2	host	Homo sapiens
+GCA_018200195.2	host_disease	syphilis
+GCA_018200195.2	isolation_source	swab
+GCA_018200195.2	lat_lon	missing
+GCA_018200355.2	strain	UAB516xi
+GCA_018200355.2	collected_by	NA
+GCA_018200355.2	collection_date	2006
+GCA_018200355.2	geo_loc_name	Madagascar
+GCA_018200355.2	host	Homo sapiens
+GCA_018200355.2	host_disease	syphilis
+GCA_018200355.2	isolation_source	swab
+GCA_018200355.2	lat_lon	missing
+GCA_018200375.2	strain	UAB71i
+GCA_018200375.2	collected_by	NA
+GCA_018200375.2	collection_date	2001
+GCA_018200375.2	geo_loc_name	Madagascar
+GCA_018200375.2	host	Homo sapiens
+GCA_018200375.2	host_disease	syphilis
+GCA_018200375.2	isolation_source	swab
+GCA_018200375.2	lat_lon	missing
+GCA_018200445.2	strain	UAB69i
+GCA_018200445.2	collected_by	NA
+GCA_018200445.2	collection_date	2001
+GCA_018200445.2	geo_loc_name	Madagascar
+GCA_018200445.2	host	Homo sapiens
+GCA_018200445.2	host_disease	syphilis
+GCA_018200445.2	isolation_source	swab
+GCA_018200445.2	lat_lon	missing
+GCA_018200535.2	strain	UAB521xi
+GCA_018200535.2	collected_by	NA
+GCA_018200535.2	collection_date	2006
+GCA_018200535.2	geo_loc_name	Madagascar
+GCA_018200535.2	host	Homo sapiens
+GCA_018200535.2	host_disease	syphilis
+GCA_018200535.2	isolation_source	swab
+GCA_018200535.2	lat_lon	missing
+GCA_018200635.2	strain	UAB67xi
+GCA_018200635.2	collected_by	NA
+GCA_018200635.2	collection_date	2001
+GCA_018200635.2	geo_loc_name	Madagascar
+GCA_018200635.2	host	Homo sapiens
+GCA_018200635.2	host_disease	syphilis
+GCA_018200635.2	isolation_source	swab
+GCA_018200635.2	lat_lon	missing
+GCA_018200675.2	strain	Japan360x
+GCA_018200675.2	collected_by	NA
+GCA_018200675.2	collection_date	2020
+GCA_018200675.2	geo_loc_name	Japan
+GCA_018200675.2	host	Homo sapiens
+GCA_018200675.2	host_disease	syphilis
+GCA_018200675.2	isolation_source	swab
+GCA_018200675.2	lat_lon	missing
+GCA_018200795.2	strain	UAB62i
+GCA_018200795.2	collected_by	NA
+GCA_018200795.2	collection_date	2001
+GCA_018200795.2	geo_loc_name	Madagascar
+GCA_018200795.2	host	Homo sapiens
+GCA_018200795.2	host_disease	syphilis
+GCA_018200795.2	isolation_source	swab
+GCA_018200795.2	lat_lon	missing
+GCA_018200875.2	strain	UAB61xei
+GCA_018200875.2	collected_by	NA
+GCA_018200875.2	collection_date	2001
+GCA_018200875.2	geo_loc_name	Madagascar
+GCA_018200875.2	host	Homo sapiens
+GCA_018200875.2	host_disease	syphilis
+GCA_018200875.2	isolation_source	swab
+GCA_018200875.2	lat_lon	missing
+GCA_018200935.2	strain	UAB60i
+GCA_018200935.2	collected_by	NA
+GCA_018200935.2	collection_date	2001
+GCA_018200935.2	geo_loc_name	Madagascar
+GCA_018200935.2	host	Homo sapiens
+GCA_018200935.2	host_disease	syphilis
+GCA_018200935.2	isolation_source	swab
+GCA_018200935.2	lat_lon	missing
+GCA_018200975.2	strain	UAB554xi
+GCA_018200975.2	collected_by	NA
+GCA_018200975.2	collection_date	2007
+GCA_018200975.2	geo_loc_name	Madagascar
+GCA_018200975.2	host	Homo sapiens
+GCA_018200975.2	host_disease	syphilis
+GCA_018200975.2	isolation_source	swab
+GCA_018200975.2	lat_lon	missing
+GCA_018201115.2	strain	UAB552x
+GCA_018201115.2	collected_by	NA
+GCA_018201115.2	collection_date	2007
+GCA_018201115.2	geo_loc_name	Madagascar
+GCA_018201115.2	host	Homo sapiens
+GCA_018201115.2	host_disease	syphilis
+GCA_018201115.2	isolation_source	swab
+GCA_018201115.2	lat_lon	missing
+GCA_018201195.2	strain	UAB553xei
+GCA_018201195.2	collected_by	NA
+GCA_018201195.2	collection_date	2007
+GCA_018201195.2	geo_loc_name	Madagascar
+GCA_018201195.2	host	Homo sapiens
+GCA_018201195.2	host_disease	syphilis
+GCA_018201195.2	isolation_source	swab
+GCA_018201195.2	lat_lon	missing
+GCA_018201215.2	strain	UAB218i
+GCA_018201215.2	collected_by	NA
+GCA_018201215.2	collection_date	2003
+GCA_018201215.2	geo_loc_name	Madagascar
+GCA_018201215.2	host	Homo sapiens
+GCA_018201215.2	host_disease	syphilis
+GCA_018201215.2	isolation_source	swab
+GCA_018201215.2	lat_lon	missing
+GCA_018201235.2	strain	UAB237
+GCA_018201235.2	collected_by	NA
+GCA_018201235.2	collection_date	2003
+GCA_018201235.2	geo_loc_name	Madagascar
+GCA_018201235.2	host	Homo sapiens
+GCA_018201235.2	host_disease	syphilis
+GCA_018201235.2	isolation_source	swab
+GCA_018201235.2	lat_lon	missing
+GCA_018201255.2	strain	UAB231i
+GCA_018201255.2	collected_by	NA
+GCA_018201255.2	collection_date	2003
+GCA_018201255.2	geo_loc_name	Madagascar
+GCA_018201255.2	host	Homo sapiens
+GCA_018201255.2	host_disease	syphilis
+GCA_018201255.2	isolation_source	swab
+GCA_018201255.2	lat_lon	missing
+GCA_018201275.2	strain	UAB229xe
+GCA_018201275.2	collected_by	NA
+GCA_018201275.2	collection_date	2003
+GCA_018201275.2	geo_loc_name	Madagascar
+GCA_018201275.2	host	Homo sapiens
+GCA_018201275.2	host_disease	syphilis
+GCA_018201275.2	isolation_source	swab
+GCA_018201275.2	lat_lon	missing
+GCA_018201295.2	strain	UAB551xi
+GCA_018201295.2	collected_by	NA
+GCA_018201295.2	collection_date	2007
+GCA_018201295.2	geo_loc_name	Madagascar
+GCA_018201295.2	host	Homo sapiens
+GCA_018201295.2	host_disease	syphilis
+GCA_018201295.2	isolation_source	swab
+GCA_018201295.2	lat_lon	missing
+GCA_018201315.2	strain	UAB54xi
+GCA_018201315.2	collected_by	NA
+GCA_018201315.2	collection_date	2001
+GCA_018201315.2	geo_loc_name	Madagascar
+GCA_018201315.2	host	Homo sapiens
+GCA_018201315.2	host_disease	syphilis
+GCA_018201315.2	isolation_source	swab
+GCA_018201315.2	lat_lon	missing
+GCA_018201335.2	strain	UAB549xe
+GCA_018201335.2	collected_by	NA
+GCA_018201335.2	collection_date	2007
+GCA_018201335.2	geo_loc_name	Madagascar
+GCA_018201335.2	host	Homo sapiens
+GCA_018201335.2	host_disease	syphilis
+GCA_018201335.2	isolation_source	swab
+GCA_018201335.2	lat_lon	missing
+GCA_018201355.2	strain	UAB546i
+GCA_018201355.2	collected_by	NA
+GCA_018201355.2	collection_date	2007
+GCA_018201355.2	geo_loc_name	Madagascar
+GCA_018201355.2	host	Homo sapiens
+GCA_018201355.2	host_disease	syphilis
+GCA_018201355.2	isolation_source	swab
+GCA_018201355.2	lat_lon	missing
+GCA_018201375.2	strain	UAB547xei
+GCA_018201375.2	collected_by	NA
+GCA_018201375.2	collection_date	2007
+GCA_018201375.2	geo_loc_name	Madagascar
+GCA_018201375.2	host	Homo sapiens
+GCA_018201375.2	host_disease	syphilis
+GCA_018201375.2	isolation_source	swab
+GCA_018201375.2	lat_lon	missing
+GCA_018201395.2	strain	UAB538xi
+GCA_018201395.2	collected_by	NA
+GCA_018201395.2	collection_date	2007
+GCA_018201395.2	geo_loc_name	Madagascar
+GCA_018201395.2	host	Homo sapiens
+GCA_018201395.2	host_disease	syphilis
+GCA_018201395.2	isolation_source	swab
+GCA_018201395.2	lat_lon	missing
+GCA_018201475.2	strain	UAB236i
+GCA_018201475.2	collected_by	NA
+GCA_018201475.2	collection_date	2003
+GCA_018201475.2	geo_loc_name	Madagascar
+GCA_018201475.2	host	Homo sapiens
+GCA_018201475.2	host_disease	syphilis
+GCA_018201475.2	isolation_source	swab
+GCA_018201475.2	lat_lon	missing
+GCA_018201615.2	strain	UAB545ei
+GCA_018201615.2	collected_by	NA
+GCA_018201615.2	collection_date	2006
+GCA_018201615.2	geo_loc_name	Madagascar
+GCA_018201615.2	host	Homo sapiens
+GCA_018201615.2	host_disease	syphilis
+GCA_018201615.2	isolation_source	swab
+GCA_018201615.2	lat_lon	missing
+GCA_018201755.2	strain	UAB534xi
+GCA_018201755.2	collected_by	NA
+GCA_018201755.2	collection_date	2006
+GCA_018201755.2	geo_loc_name	Madagascar
+GCA_018201755.2	host	Homo sapiens
+GCA_018201755.2	host_disease	syphilis
+GCA_018201755.2	isolation_source	swab
+GCA_018201755.2	lat_lon	missing
+GCA_018201795.2	strain	UAB535i
+GCA_018201795.2	collected_by	NA
+GCA_018201795.2	collection_date	2006
+GCA_018201795.2	geo_loc_name	Madagascar
+GCA_018201795.2	host	Homo sapiens
+GCA_018201795.2	host_disease	syphilis
+GCA_018201795.2	isolation_source	swab
+GCA_018201795.2	lat_lon	missing
+GCA_018201895.2	strain	PeruC40020xe
+GCA_018201895.2	collected_by	NA
+GCA_018201895.2	collection_date	2019
+GCA_018201895.2	geo_loc_name	Peru
+GCA_018201895.2	host	Homo sapiens
+GCA_018201895.2	host_disease	syphilis
+GCA_018201895.2	isolation_source	swab
+GCA_018201895.2	lat_lon	missing
+GCA_018201915.2	strain	PeruB20010x
+GCA_018201915.2	collected_by	NA
+GCA_018201915.2	collection_date	2019
+GCA_018201915.2	geo_loc_name	Peru
+GCA_018201915.2	host	Homo sapiens
+GCA_018201915.2	host_disease	syphilis
+GCA_018201915.2	isolation_source	swab
+GCA_018201915.2	lat_lon	missing
+GCA_018202035.2	strain	UAB531i
+GCA_018202035.2	collected_by	NA
+GCA_018202035.2	collection_date	2006
+GCA_018202035.2	geo_loc_name	Madagascar
+GCA_018202035.2	host	Homo sapiens
+GCA_018202035.2	host_disease	syphilis
+GCA_018202035.2	isolation_source	swab
+GCA_018202035.2	lat_lon	missing
+GCA_018202155.2	strain	UAB533i
+GCA_018202155.2	collected_by	NA
+GCA_018202155.2	collection_date	2006
+GCA_018202155.2	geo_loc_name	Madagascar
+GCA_018202155.2	host	Homo sapiens
+GCA_018202155.2	host_disease	syphilis
+GCA_018202155.2	isolation_source	swab
+GCA_018202155.2	lat_lon	missing
+GCA_018202175.2	strain	UAB532xi
+GCA_018202175.2	collected_by	NA
+GCA_018202175.2	collection_date	2006
+GCA_018202175.2	geo_loc_name	Madagascar
+GCA_018202175.2	host	Homo sapiens
+GCA_018202175.2	host_disease	syphilis
+GCA_018202175.2	isolation_source	swab
+GCA_018202175.2	lat_lon	missing
+GCA_018202195.2	strain	UAB530i
+GCA_018202195.2	collected_by	NA
+GCA_018202195.2	collection_date	2006
+GCA_018202195.2	geo_loc_name	Madagascar
+GCA_018202195.2	host	Homo sapiens
+GCA_018202195.2	host_disease	syphilis
+GCA_018202195.2	isolation_source	swab
+GCA_018202195.2	lat_lon	missing
+GCA_018202215.2	strain	PeruC10050xe
+GCA_018202215.2	collected_by	NA
+GCA_018202215.2	collection_date	2019
+GCA_018202215.2	geo_loc_name	Peru
+GCA_018202215.2	host	Homo sapiens
+GCA_018202215.2	host_disease	syphilis
+GCA_018202215.2	isolation_source	swab
+GCA_018202215.2	lat_lon	missing
+GCA_018202235.3	strain	UAB52xi
+GCA_018202235.3	collected_by	NA
+GCA_018202235.3	collection_date	2001
+GCA_018202235.3	geo_loc_name	Madagascar
+GCA_018202235.3	host	Homo sapiens
+GCA_018202235.3	host_disease	syphilis
+GCA_018202235.3	isolation_source	swab
+GCA_018202235.3	lat_lon	missing
+GCA_018202255.2	strain	Japan356
+GCA_018202255.2	collected_by	NA
+GCA_018202255.2	collection_date	2019
+GCA_018202255.2	geo_loc_name	Japan
+GCA_018202255.2	host	Homo sapiens
+GCA_018202255.2	host_disease	syphilis
+GCA_018202255.2	isolation_source	swab
+GCA_018202255.2	lat_lon	missing
+GCA_018202275.2	strain	UAB529i
+GCA_018202275.2	collected_by	NA
+GCA_018202275.2	collection_date	2006
+GCA_018202275.2	geo_loc_name	Madagascar
+GCA_018202275.2	host	Homo sapiens
+GCA_018202275.2	host_disease	syphilis
+GCA_018202275.2	isolation_source	swab
+GCA_018202275.2	lat_lon	missing
+GCA_018202295.2	strain	UAB526xi
+GCA_018202295.2	collected_by	NA
+GCA_018202295.2	collection_date	2006
+GCA_018202295.2	geo_loc_name	Madagascar
+GCA_018202295.2	host	Homo sapiens
+GCA_018202295.2	host_disease	syphilis
+GCA_018202295.2	isolation_source	swab
+GCA_018202295.2	lat_lon	missing
+GCA_018202315.2	strain	Japan357
+GCA_018202315.2	collected_by	NA
+GCA_018202315.2	collection_date	2019
+GCA_018202315.2	geo_loc_name	Japan
+GCA_018202315.2	host	Homo sapiens
+GCA_018202315.2	host_disease	syphilis
+GCA_018202315.2	isolation_source	swab
+GCA_018202315.2	lat_lon	missing
+GCA_018202515.2	strain	UAB525xe
+GCA_018202515.2	collected_by	NA
+GCA_018202515.2	collection_date	2006
+GCA_018202515.2	geo_loc_name	Madagascar
+GCA_018202515.2	host	Homo sapiens
+GCA_018202515.2	host_disease	syphilis
+GCA_018202515.2	isolation_source	swab
+GCA_018202515.2	lat_lon	missing
+GCA_018202535.2	strain	Japan361
+GCA_018202535.2	collected_by	NA
+GCA_018202535.2	collection_date	2020
+GCA_018202535.2	geo_loc_name	Japan
+GCA_018202535.2	host	Homo sapiens
+GCA_018202535.2	host_disease	syphilis
+GCA_018202535.2	isolation_source	swab
+GCA_018202535.2	lat_lon	missing
+GCA_018202555.2	strain	UAB512x
+GCA_018202555.2	collected_by	NA
+GCA_018202555.2	collection_date	2006
+GCA_018202555.2	geo_loc_name	Madagascar
+GCA_018202555.2	host	Homo sapiens
+GCA_018202555.2	host_disease	syphilis
+GCA_018202555.2	isolation_source	swab
+GCA_018202555.2	lat_lon	missing
+GCA_018202575.2	strain	Japan358
+GCA_018202575.2	collected_by	NA
+GCA_018202575.2	collection_date	2020
+GCA_018202575.2	geo_loc_name	Japan
+GCA_018202575.2	host	Homo sapiens
+GCA_018202575.2	host_disease	syphilis
+GCA_018202575.2	isolation_source	swab
+GCA_018202575.2	lat_lon	missing
+GCA_018202595.2	strain	UAB509ei
+GCA_018202595.2	collected_by	NA
+GCA_018202595.2	collection_date	2006
+GCA_018202595.2	geo_loc_name	Madagascar
+GCA_018202595.2	host	Homo sapiens
+GCA_018202595.2	host_disease	syphilis
+GCA_018202595.2	isolation_source	swab
+GCA_018202595.2	lat_lon	missing
+GCA_018202615.2	strain	UAB511xi
+GCA_018202615.2	collected_by	NA
+GCA_018202615.2	collection_date	2006
+GCA_018202615.2	geo_loc_name	Madagascar
+GCA_018202615.2	host	Homo sapiens
+GCA_018202615.2	host_disease	syphilis
+GCA_018202615.2	isolation_source	swab
+GCA_018202615.2	lat_lon	missing
+GCA_018202635.2	strain	China11
+GCA_018202635.2	collected_by	NA
+GCA_018202635.2	collection_date	2018
+GCA_018202635.2	geo_loc_name	China
+GCA_018202635.2	host	Homo sapiens
+GCA_018202635.2	host_disease	syphilis
+GCA_018202635.2	isolation_source	swab
+GCA_018202635.2	lat_lon	missing
+GCA_018202655.2	strain	UAB510i
+GCA_018202655.2	collected_by	NA
+GCA_018202655.2	collection_date	2006
+GCA_018202655.2	geo_loc_name	Madagascar
+GCA_018202655.2	host	Homo sapiens
+GCA_018202655.2	host_disease	syphilis
+GCA_018202655.2	isolation_source	swab
+GCA_018202655.2	lat_lon	missing
+GCA_018202675.2	strain	UAB508
+GCA_018202675.2	collected_by	NA
+GCA_018202675.2	collection_date	2006
+GCA_018202675.2	geo_loc_name	Madagascar
+GCA_018202675.2	host	Homo sapiens
+GCA_018202675.2	host_disease	syphilis
+GCA_018202675.2	isolation_source	swab
+GCA_018202675.2	lat_lon	missing
+GCA_018202695.2	strain	Japan319
+GCA_018202695.2	collected_by	NA
+GCA_018202695.2	collection_date	2019
+GCA_018202695.2	geo_loc_name	Japan
+GCA_018202695.2	host	Homo sapiens
+GCA_018202695.2	host_disease	syphilis
+GCA_018202695.2	isolation_source	swab
+GCA_018202695.2	lat_lon	missing
+GCA_018202715.2	strain	UAB507ei
+GCA_018202715.2	collected_by	NA
+GCA_018202715.2	collection_date	2006
+GCA_018202715.2	geo_loc_name	Madagascar
+GCA_018202715.2	host	Homo sapiens
+GCA_018202715.2	host_disease	syphilis
+GCA_018202715.2	isolation_source	swab
+GCA_018202715.2	lat_lon	missing
+GCA_018202735.2	strain	UAB505ei
+GCA_018202735.2	collected_by	NA
+GCA_018202735.2	collection_date	2006
+GCA_018202735.2	geo_loc_name	Madagascar
+GCA_018202735.2	host	Homo sapiens
+GCA_018202735.2	host_disease	syphilis
+GCA_018202735.2	isolation_source	swab
+GCA_018202735.2	lat_lon	missing
+GCA_018202755.2	strain	Japan317xi
+GCA_018202755.2	collected_by	NA
+GCA_018202755.2	collection_date	2019
+GCA_018202755.2	geo_loc_name	Japan
+GCA_018202755.2	host	Homo sapiens
+GCA_018202755.2	host_disease	syphilis
+GCA_018202755.2	isolation_source	swab
+GCA_018202755.2	lat_lon	missing
+GCA_018202775.2	strain	UAB504xi
+GCA_018202775.2	collected_by	NA
+GCA_018202775.2	collection_date	2006
+GCA_018202775.2	geo_loc_name	Madagascar
+GCA_018202775.2	host	Homo sapiens
+GCA_018202775.2	host_disease	syphilis
+GCA_018202775.2	isolation_source	swab
+GCA_018202775.2	lat_lon	missing
+GCA_018202795.2	strain	UAB503i
+GCA_018202795.2	collected_by	NA
+GCA_018202795.2	collection_date	2006
+GCA_018202795.2	geo_loc_name	Madagascar
+GCA_018202795.2	host	Homo sapiens
+GCA_018202795.2	host_disease	syphilis
+GCA_018202795.2	isolation_source	swab
+GCA_018202795.2	lat_lon	missing
+GCA_018202815.2	strain	UAB501
+GCA_018202815.2	collected_by	NA
+GCA_018202815.2	collection_date	2003
+GCA_018202815.2	geo_loc_name	Madagascar
+GCA_018202815.2	host	Homo sapiens
+GCA_018202815.2	host_disease	syphilis
+GCA_018202815.2	isolation_source	swab
+GCA_018202815.2	lat_lon	missing
+GCA_018202835.2	strain	UAB49xi
+GCA_018202835.2	collected_by	NA
+GCA_018202835.2	collection_date	2000
+GCA_018202835.2	geo_loc_name	Madagascar
+GCA_018202835.2	host	Homo sapiens
+GCA_018202835.2	host_disease	syphilis
+GCA_018202835.2	isolation_source	swab
+GCA_018202835.2	lat_lon	missing
+GCA_018202855.2	strain	UAB46xei
+GCA_018202855.2	collected_by	NA
+GCA_018202855.2	collection_date	2000
+GCA_018202855.2	geo_loc_name	Madagascar
+GCA_018202855.2	host	Homo sapiens
+GCA_018202855.2	host_disease	syphilis
+GCA_018202855.2	isolation_source	swab
+GCA_018202855.2	lat_lon	missing
+GCA_018202875.2	strain	UAB40xi
+GCA_018202875.2	collected_by	NA
+GCA_018202875.2	collection_date	2000
+GCA_018202875.2	geo_loc_name	Madagascar
+GCA_018202875.2	host	Homo sapiens
+GCA_018202875.2	host_disease	syphilis
+GCA_018202875.2	isolation_source	swab
+GCA_018202875.2	lat_lon	missing
+GCA_018202895.2	strain	UAB44xi
+GCA_018202895.2	collected_by	NA
+GCA_018202895.2	collection_date	2000
+GCA_018202895.2	geo_loc_name	Madagascar
+GCA_018202895.2	host	Homo sapiens
+GCA_018202895.2	host_disease	syphilis
+GCA_018202895.2	isolation_source	swab
+GCA_018202895.2	lat_lon	missing
+GCA_018202915.2	strain	ItalyGE5b
+GCA_018202915.2	collected_by	NA
+GCA_018202915.2	collection_date	2017
+GCA_018202915.2	geo_loc_name	Italy
+GCA_018202915.2	host	Homo sapiens
+GCA_018202915.2	host_disease	syphilis
+GCA_018202915.2	isolation_source	swab
+GCA_018202915.2	lat_lon	missing
+GCA_018202935.2	strain	Japan318
+GCA_018202935.2	collected_by	NA
+GCA_018202935.2	collection_date	2019
+GCA_018202935.2	geo_loc_name	Japan
+GCA_018202935.2	host	Homo sapiens
+GCA_018202935.2	host_disease	syphilis
+GCA_018202935.2	isolation_source	swab
+GCA_018202935.2	lat_lon	missing
+GCA_018202955.2	strain	UAB38xi
+GCA_018202955.2	collected_by	NA
+GCA_018202955.2	collection_date	2000
+GCA_018202955.2	geo_loc_name	Madagascar
+GCA_018202955.2	host	Homo sapiens
+GCA_018202955.2	host_disease	syphilis
+GCA_018202955.2	isolation_source	swab
+GCA_018202955.2	lat_lon	missing
+GCA_018202975.2	strain	Japan316x
+GCA_018202975.2	collected_by	NA
+GCA_018202975.2	collection_date	2019
+GCA_018202975.2	geo_loc_name	Japan
+GCA_018202975.2	host	Homo sapiens
+GCA_018202975.2	host_disease	syphilis
+GCA_018202975.2	isolation_source	swab
+GCA_018202975.2	lat_lon	missing
+GCA_018202995.2	strain	UAB28xi
+GCA_018202995.2	collected_by	NA
+GCA_018202995.2	collection_date	2000
+GCA_018202995.2	geo_loc_name	Madagascar
+GCA_018202995.2	host	Homo sapiens
+GCA_018202995.2	host_disease	syphilis
+GCA_018202995.2	isolation_source	swab
+GCA_018202995.2	lat_lon	missing
+GCA_018203015.2	strain	ItalyGE6
+GCA_018203015.2	collected_by	NA
+GCA_018203015.2	collection_date	2017
+GCA_018203015.2	geo_loc_name	Italy
+GCA_018203015.2	host	Homo sapiens
+GCA_018203015.2	host_disease	syphilis
+GCA_018203015.2	isolation_source	swab
+GCA_018203015.2	lat_lon	missing
+GCA_018203035.2	strain	UAB278i
+GCA_018203035.2	collected_by	NA
+GCA_018203035.2	collection_date	2003
+GCA_018203035.2	geo_loc_name	Madagascar
+GCA_018203035.2	host	Homo sapiens
+GCA_018203035.2	host_disease	syphilis
+GCA_018203035.2	isolation_source	swab
+GCA_018203035.2	lat_lon	missing
+GCA_018203055.2	strain	UAB276i
+GCA_018203055.2	collected_by	NA
+GCA_018203055.2	collection_date	2003
+GCA_018203055.2	geo_loc_name	Madagascar
+GCA_018203055.2	host	Homo sapiens
+GCA_018203055.2	host_disease	syphilis
+GCA_018203055.2	isolation_source	swab
+GCA_018203055.2	lat_lon	missing
+GCA_018203075.2	strain	UAB275i
+GCA_018203075.2	collected_by	NA
+GCA_018203075.2	collection_date	2003
+GCA_018203075.2	geo_loc_name	Madagascar
+GCA_018203075.2	host	Homo sapiens
+GCA_018203075.2	host_disease	syphilis
+GCA_018203075.2	isolation_source	swab
+GCA_018203075.2	lat_lon	missing
+GCA_018203095.2	strain	UAB267i
+GCA_018203095.2	collected_by	NA
+GCA_018203095.2	collection_date	2003
+GCA_018203095.2	geo_loc_name	Madagascar
+GCA_018203095.2	host	Homo sapiens
+GCA_018203095.2	host_disease	syphilis
+GCA_018203095.2	isolation_source	swab
+GCA_018203095.2	lat_lon	missing
+GCA_018203115.2	strain	UAB268xi
+GCA_018203115.2	collected_by	NA
+GCA_018203115.2	collection_date	2003
+GCA_018203115.2	geo_loc_name	Madagascar
+GCA_018203115.2	host	Homo sapiens
+GCA_018203115.2	host_disease	syphilis
+GCA_018203115.2	isolation_source	swab
+GCA_018203115.2	lat_lon	missing
+GCA_018203135.2	strain	ItalyGE5a
+GCA_018203135.2	collected_by	NA
+GCA_018203135.2	collection_date	2017
+GCA_018203135.2	geo_loc_name	Italy
+GCA_018203135.2	host	Homo sapiens
+GCA_018203135.2	host_disease	syphilis
+GCA_018203135.2	isolation_source	swab
+GCA_018203135.2	lat_lon	missing
+GCA_018203155.2	strain	UAB266i
+GCA_018203155.2	collected_by	NA
+GCA_018203155.2	collection_date	2003
+GCA_018203155.2	geo_loc_name	Madagascar
+GCA_018203155.2	host	Homo sapiens
+GCA_018203155.2	host_disease	syphilis
+GCA_018203155.2	isolation_source	swab
+GCA_018203155.2	lat_lon	missing
+GCA_018203175.2	strain	UAB263xi
+GCA_018203175.2	collected_by	NA
+GCA_018203175.2	collection_date	2003
+GCA_018203175.2	geo_loc_name	Madagascar
+GCA_018203175.2	host	Homo sapiens
+GCA_018203175.2	host_disease	syphilis
+GCA_018203175.2	isolation_source	swab
+GCA_018203175.2	lat_lon	missing
+GCA_018203195.2	strain	UAB216i
+GCA_018203195.2	collected_by	NA
+GCA_018203195.2	collection_date	2003
+GCA_018203195.2	geo_loc_name	Madagascar
+GCA_018203195.2	host	Homo sapiens
+GCA_018203195.2	host_disease	syphilis
+GCA_018203195.2	isolation_source	swab
+GCA_018203195.2	lat_lon	missing
+GCA_018203215.2	strain	UAB211i
+GCA_018203215.2	collected_by	NA
+GCA_018203215.2	collection_date	2002
+GCA_018203215.2	geo_loc_name	Madagascar
+GCA_018203215.2	host	Homo sapiens
+GCA_018203215.2	host_disease	syphilis
+GCA_018203215.2	isolation_source	swab
+GCA_018203215.2	lat_lon	missing
+GCA_018203235.2	strain	UAB204xe
+GCA_018203235.2	collected_by	NA
+GCA_018203235.2	collection_date	2002
+GCA_018203235.2	geo_loc_name	Madagascar
+GCA_018203235.2	host	Homo sapiens
+GCA_018203235.2	host_disease	syphilis
+GCA_018203235.2	isolation_source	swab
+GCA_018203235.2	lat_lon	missing
+GCA_018203255.2	strain	UAB203i
+GCA_018203255.2	collected_by	NA
+GCA_018203255.2	collection_date	2002
+GCA_018203255.2	geo_loc_name	Madagascar
+GCA_018203255.2	host	Homo sapiens
+GCA_018203255.2	host_disease	syphilis
+GCA_018203255.2	isolation_source	swab
+GCA_018203255.2	lat_lon	missing
+GCA_018203275.2	strain	UAB202xi
+GCA_018203275.2	collected_by	NA
+GCA_018203275.2	collection_date	2002
+GCA_018203275.2	geo_loc_name	Madagascar
+GCA_018203275.2	host	Homo sapiens
+GCA_018203275.2	host_disease	syphilis
+GCA_018203275.2	isolation_source	swab
+GCA_018203275.2	lat_lon	missing
+GCA_018203295.2	strain	UAB197i
+GCA_018203295.2	collected_by	NA
+GCA_018203295.2	collection_date	2002
+GCA_018203295.2	geo_loc_name	Madagascar
+GCA_018203295.2	host	Homo sapiens
+GCA_018203295.2	host_disease	syphilis
+GCA_018203295.2	isolation_source	swab
+GCA_018203295.2	lat_lon	missing
+GCA_018203315.2	strain	UAB195xi
+GCA_018203315.2	collected_by	NA
+GCA_018203315.2	collection_date	2002
+GCA_018203315.2	geo_loc_name	Madagascar
+GCA_018203315.2	host	Homo sapiens
+GCA_018203315.2	host_disease	syphilis
+GCA_018203315.2	isolation_source	swab
+GCA_018203315.2	lat_lon	missing
+GCA_018203335.2	strain	UAB194xi
+GCA_018203335.2	collected_by	NA
+GCA_018203335.2	collection_date	2002
+GCA_018203335.2	geo_loc_name	Madagascar
+GCA_018203335.2	host	Homo sapiens
+GCA_018203335.2	host_disease	syphilis
+GCA_018203335.2	isolation_source	swab
+GCA_018203335.2	lat_lon	missing
+GCA_018203355.2	strain	UAB193i
+GCA_018203355.2	collected_by	NA
+GCA_018203355.2	collection_date	2002
+GCA_018203355.2	geo_loc_name	Madagascar
+GCA_018203355.2	host	Homo sapiens
+GCA_018203355.2	host_disease	syphilis
+GCA_018203355.2	isolation_source	swab
+GCA_018203355.2	lat_lon	missing
+GCA_018203375.2	strain	UAB17x
+GCA_018203375.2	collected_by	NA
+GCA_018203375.2	collection_date	2000
+GCA_018203375.2	geo_loc_name	Madagascar
+GCA_018203375.2	host	Homo sapiens
+GCA_018203375.2	host_disease	syphilis
+GCA_018203375.2	isolation_source	swab
+GCA_018203375.2	lat_lon	missing
+GCA_018203395.2	strain	UAB191xei
+GCA_018203395.2	collected_by	NA
+GCA_018203395.2	collection_date	2002
+GCA_018203395.2	geo_loc_name	Madagascar
+GCA_018203395.2	host	Homo sapiens
+GCA_018203395.2	host_disease	syphilis
+GCA_018203395.2	isolation_source	swab
+GCA_018203395.2	lat_lon	missing
+GCA_018203415.2	strain	UAB16xi
+GCA_018203415.2	collected_by	NA
+GCA_018203415.2	collection_date	2000
+GCA_018203415.2	geo_loc_name	Madagascar
+GCA_018203415.2	host	Homo sapiens
+GCA_018203415.2	host_disease	syphilis
+GCA_018203415.2	isolation_source	swab
+GCA_018203415.2	lat_lon	missing
+GCA_018203435.2	strain	UAB167xei
+GCA_018203435.2	collected_by	NA
+GCA_018203435.2	collection_date	2002
+GCA_018203435.2	geo_loc_name	Madagascar
+GCA_018203435.2	host	Homo sapiens
+GCA_018203435.2	host_disease	syphilis
+GCA_018203435.2	isolation_source	swab
+GCA_018203435.2	lat_lon	missing
+GCA_018203455.2	strain	UAB178ei
+GCA_018203455.2	collected_by	NA
+GCA_018203455.2	collection_date	2002
+GCA_018203455.2	geo_loc_name	Madagascar
+GCA_018203455.2	host	Homo sapiens
+GCA_018203455.2	host_disease	syphilis
+GCA_018203455.2	isolation_source	swab
+GCA_018203455.2	lat_lon	missing
+GCA_018203475.2	strain	UAB166xe
+GCA_018203475.2	collected_by	NA
+GCA_018203475.2	collection_date	2002
+GCA_018203475.2	geo_loc_name	Madagascar
+GCA_018203475.2	host	Homo sapiens
+GCA_018203475.2	host_disease	syphilis
+GCA_018203475.2	isolation_source	swab
+GCA_018203475.2	lat_lon	missing
+GCA_018203495.2	strain	UAB164xei
+GCA_018203495.2	collected_by	NA
+GCA_018203495.2	collection_date	2002
+GCA_018203495.2	geo_loc_name	Madagascar
+GCA_018203495.2	host	Homo sapiens
+GCA_018203495.2	host_disease	syphilis
+GCA_018203495.2	isolation_source	swab
+GCA_018203495.2	lat_lon	missing
+GCA_018203515.2	strain	UAB165xi
+GCA_018203515.2	collected_by	NA
+GCA_018203515.2	collection_date	2002
+GCA_018203515.2	geo_loc_name	Madagascar
+GCA_018203515.2	host	Homo sapiens
+GCA_018203515.2	host_disease	syphilis
+GCA_018203515.2	isolation_source	swab
+GCA_018203515.2	lat_lon	missing
+GCA_018203535.2	strain	UAB160xe
+GCA_018203535.2	collected_by	NA
+GCA_018203535.2	collection_date	2001
+GCA_018203535.2	geo_loc_name	Madagascar
+GCA_018203535.2	host	Homo sapiens
+GCA_018203535.2	host_disease	syphilis
+GCA_018203535.2	isolation_source	swab
+GCA_018203535.2	lat_lon	missing
+GCA_018203555.2	strain	UAB162xi
+GCA_018203555.2	collected_by	NA
+GCA_018203555.2	collection_date	2002
+GCA_018203555.2	geo_loc_name	Madagascar
+GCA_018203555.2	host	Homo sapiens
+GCA_018203555.2	host_disease	syphilis
+GCA_018203555.2	isolation_source	swab
+GCA_018203555.2	lat_lon	missing
+GCA_018203575.1	strain	Tube7Lihire
+GCA_018203575.1	collected_by	NA
+GCA_018203575.1	collection_date	2015
+GCA_018203575.1	geo_loc_name	Papua New Guinea
+GCA_018203575.1	host	Homo sapiens
+GCA_018203575.1	host_disease	syphilis
+GCA_018203575.1	isolation_source	swab
+GCA_018203575.1	lat_lon	missing
+GCA_018203595.2	strain	UAB12xi
+GCA_018203595.2	collected_by	NA
+GCA_018203595.2	collection_date	2000
+GCA_018203595.2	geo_loc_name	Madagascar
+GCA_018203595.2	host	Homo sapiens
+GCA_018203595.2	host_disease	syphilis
+GCA_018203595.2	isolation_source	swab
+GCA_018203595.2	lat_lon	missing
+GCA_018203615.2	strain	PeruC40040x
+GCA_018203615.2	collected_by	NA
+GCA_018203615.2	collection_date	2019
+GCA_018203615.2	geo_loc_name	Peru
+GCA_018203615.2	host	Homo sapiens
+GCA_018203615.2	host_disease	syphilis
+GCA_018203615.2	isolation_source	swab
+GCA_018203615.2	lat_lon	missing
+GCA_018203635.2	strain	PeruC10010x
+GCA_018203635.2	collected_by	NA
+GCA_018203635.2	collection_date	2019
+GCA_018203635.2	geo_loc_name	Peru
+GCA_018203635.2	host	Homo sapiens
+GCA_018203635.2	host_disease	syphilis
+GCA_018203635.2	isolation_source	swab
+GCA_018203635.2	lat_lon	missing
+GCA_018203655.2	strain	Peru214361x
+GCA_018203655.2	collected_by	NA
+GCA_018203655.2	collection_date	2018
+GCA_018203655.2	geo_loc_name	Peru
+GCA_018203655.2	host	Homo sapiens
+GCA_018203655.2	host_disease	syphilis
+GCA_018203655.2	isolation_source	swab
+GCA_018203655.2	lat_lon	missing
+GCA_018203675.2	strain	Peru213041xe
+GCA_018203675.2	collected_by	NA
+GCA_018203675.2	collection_date	2018
+GCA_018203675.2	geo_loc_name	Peru
+GCA_018203675.2	host	Homo sapiens
+GCA_018203675.2	host_disease	syphilis
+GCA_018203675.2	isolation_source	swab
+GCA_018203675.2	lat_lon	missing
+GCA_018203695.2	strain	Peru214601x
+GCA_018203695.2	collected_by	NA
+GCA_018203695.2	collection_date	2018
+GCA_018203695.2	geo_loc_name	Peru
+GCA_018203695.2	host	Homo sapiens
+GCA_018203695.2	host_disease	syphilis
+GCA_018203695.2	isolation_source	swab
+GCA_018203695.2	lat_lon	missing
+GCA_018203715.2	strain	Peru213161xe
+GCA_018203715.2	collected_by	NA
+GCA_018203715.2	collection_date	2018
+GCA_018203715.2	geo_loc_name	Peru
+GCA_018203715.2	host	Homo sapiens
+GCA_018203715.2	host_disease	syphilis
+GCA_018203715.2	isolation_source	swab
+GCA_018203715.2	lat_lon	missing
+GCA_018203735.2	strain	MD57x
+GCA_018203735.2	collected_by	NA
+GCA_018203735.2	collection_date	2000
+GCA_018203735.2	geo_loc_name	USA
+GCA_018203735.2	host	Homo sapiens
+GCA_018203735.2	host_disease	syphilis
+GCA_018203735.2	isolation_source	swab
+GCA_018203735.2	lat_lon	missing
+GCA_018203755.2	strain	MD530xe
+GCA_018203755.2	collected_by	NA
+GCA_018203755.2	collection_date	2000
+GCA_018203755.2	geo_loc_name	USA
+GCA_018203755.2	host	Homo sapiens
+GCA_018203755.2	host_disease	syphilis
+GCA_018203755.2	isolation_source	swab
+GCA_018203755.2	lat_lon	missing
+GCA_018203775.2	strain	MD536x
+GCA_018203775.2	collected_by	NA
+GCA_018203775.2	collection_date	2001
+GCA_018203775.2	geo_loc_name	USA
+GCA_018203775.2	host	Homo sapiens
+GCA_018203775.2	host_disease	syphilis
+GCA_018203775.2	isolation_source	swab
+GCA_018203775.2	lat_lon	missing
+GCA_018203795.2	strain	MD521B
+GCA_018203795.2	collected_by	NA
+GCA_018203795.2	collection_date	2001
+GCA_018203795.2	geo_loc_name	USA
+GCA_018203795.2	host	Homo sapiens
+GCA_018203795.2	host_disease	syphilis
+GCA_018203795.2	isolation_source	swab
+GCA_018203795.2	lat_lon	missing
+GCA_018203815.2	strain	MD51x
+GCA_018203815.2	collected_by	NA
+GCA_018203815.2	collection_date	2000
+GCA_018203815.2	geo_loc_name	USA
+GCA_018203815.2	host	Homo sapiens
+GCA_018203815.2	host_disease	syphilis
+GCA_018203815.2	isolation_source	swab
+GCA_018203815.2	lat_lon	missing
+GCA_018203835.2	strain	MD507x
+GCA_018203835.2	collected_by	NA
+GCA_018203835.2	collection_date	1998
+GCA_018203835.2	geo_loc_name	USA
+GCA_018203835.2	host	Homo sapiens
+GCA_018203835.2	host_disease	syphilis
+GCA_018203835.2	isolation_source	swab
+GCA_018203835.2	lat_lon	missing
+GCA_018203855.2	strain	MD26x
+GCA_018203855.2	collected_by	NA
+GCA_018203855.2	collection_date	1999
+GCA_018203855.2	geo_loc_name	USA
+GCA_018203855.2	host	Homo sapiens
+GCA_018203855.2	host_disease	syphilis
+GCA_018203855.2	isolation_source	swab
+GCA_018203855.2	lat_lon	missing
+GCA_018203875.2	strain	MD25x
+GCA_018203875.2	collected_by	NA
+GCA_018203875.2	collection_date	1999
+GCA_018203875.2	geo_loc_name	USA
+GCA_018203875.2	host	Homo sapiens
+GCA_018203875.2	host_disease	syphilis
+GCA_018203875.2	isolation_source	swab
+GCA_018203875.2	lat_lon	missing
+GCA_018203895.2	strain	MD24xe
+GCA_018203895.2	collected_by	NA
+GCA_018203895.2	collection_date	1999
+GCA_018203895.2	geo_loc_name	USA
+GCA_018203895.2	host	Homo sapiens
+GCA_018203895.2	host_disease	syphilis
+GCA_018203895.2	isolation_source	swab
+GCA_018203895.2	lat_lon	missing
+GCA_018203915.2	strain	MD22xe
+GCA_018203915.2	collected_by	NA
+GCA_018203915.2	collection_date	1999
+GCA_018203915.2	geo_loc_name	USA
+GCA_018203915.2	host	Homo sapiens
+GCA_018203915.2	host_disease	syphilis
+GCA_018203915.2	isolation_source	swab
+GCA_018203915.2	lat_lon	missing
+GCA_018203935.2	strain	MD20B
+GCA_018203935.2	collected_by	NA
+GCA_018203935.2	collection_date	1998
+GCA_018203935.2	geo_loc_name	USA
+GCA_018203935.2	host	Homo sapiens
+GCA_018203935.2	host_disease	syphilis
+GCA_018203935.2	isolation_source	swab
+GCA_018203935.2	lat_lon	missing
+GCA_018203955.2	strain	MD18Be
+GCA_018203955.2	collected_by	NA
+GCA_018203955.2	collection_date	1998
+GCA_018203955.2	geo_loc_name	USA
+GCA_018203955.2	host	Homo sapiens
+GCA_018203955.2	host_disease	syphilis
+GCA_018203955.2	isolation_source	swab
+GCA_018203955.2	lat_lon	missing
+GCA_018203975.2	strain	MD16x
+GCA_018203975.2	collected_by	NA
+GCA_018203975.2	collection_date	1998
+GCA_018203975.2	geo_loc_name	USA
+GCA_018203975.2	host	Homo sapiens
+GCA_018203975.2	host_disease	syphilis
+GCA_018203975.2	isolation_source	swab
+GCA_018203975.2	lat_lon	missing
+GCA_018203995.2	strain	MD09B
+GCA_018203995.2	collected_by	NA
+GCA_018203995.2	collection_date	1998
+GCA_018203995.2	geo_loc_name	USA
+GCA_018203995.2	host	Homo sapiens
+GCA_018203995.2	host_disease	syphilis
+GCA_018203995.2	isolation_source	swab
+GCA_018203995.2	lat_lon	missing
+GCA_018204015.2	strain	MD06B
+GCA_018204015.2	collected_by	NA
+GCA_018204015.2	collection_date	2002
+GCA_018204015.2	geo_loc_name	USA
+GCA_018204015.2	host	Homo sapiens
+GCA_018204015.2	host_disease	syphilis
+GCA_018204015.2	isolation_source	swab
+GCA_018204015.2	lat_lon	missing
+GCA_018204035.2	strain	Japan368i
+GCA_018204035.2	collected_by	NA
+GCA_018204035.2	collection_date	2020
+GCA_018204035.2	geo_loc_name	Japan
+GCA_018204035.2	host	Homo sapiens
+GCA_018204035.2	host_disease	syphilis
+GCA_018204035.2	isolation_source	swab
+GCA_018204035.2	lat_lon	missing
+GCA_018204055.2	strain	Japan365x
+GCA_018204055.2	collected_by	NA
+GCA_018204055.2	collection_date	2020
+GCA_018204055.2	geo_loc_name	Japan
+GCA_018204055.2	host	Homo sapiens
+GCA_018204055.2	host_disease	syphilis
+GCA_018204055.2	isolation_source	swab
+GCA_018204055.2	lat_lon	missing
+GCA_018204075.2	strain	Japan362x
+GCA_018204075.2	collected_by	NA
+GCA_018204075.2	collection_date	2020
+GCA_018204075.2	geo_loc_name	Japan
+GCA_018204075.2	host	Homo sapiens
+GCA_018204075.2	host_disease	syphilis
+GCA_018204075.2	isolation_source	swab
+GCA_018204075.2	lat_lon	missing
+GCA_018204095.2	strain	Japan364
+GCA_018204095.2	collected_by	NA
+GCA_018204095.2	collection_date	2020
+GCA_018204095.2	geo_loc_name	Japan
+GCA_018204095.2	host	Homo sapiens
+GCA_018204095.2	host_disease	syphilis
+GCA_018204095.2	isolation_source	swab
+GCA_018204095.2	lat_lon	missing
+GCA_018204115.2	strain	Japan354x
+GCA_018204115.2	collected_by	NA
+GCA_018204115.2	collection_date	2019
+GCA_018204115.2	geo_loc_name	Japan
+GCA_018204115.2	host	Homo sapiens
+GCA_018204115.2	host_disease	syphilis
+GCA_018204115.2	isolation_source	swab
+GCA_018204115.2	lat_lon	missing
+GCA_018204135.2	strain	Japan355
+GCA_018204135.2	collected_by	NA
+GCA_018204135.2	collection_date	2019
+GCA_018204135.2	geo_loc_name	Japan
+GCA_018204135.2	host	Homo sapiens
+GCA_018204135.2	host_disease	syphilis
+GCA_018204135.2	isolation_source	swab
+GCA_018204135.2	lat_lon	missing
+GCA_018204155.2	strain	Japan352xe
+GCA_018204155.2	collected_by	NA
+GCA_018204155.2	collection_date	2019
+GCA_018204155.2	geo_loc_name	Japan
+GCA_018204155.2	host	Homo sapiens
+GCA_018204155.2	host_disease	syphilis
+GCA_018204155.2	isolation_source	swab
+GCA_018204155.2	lat_lon	missing
+GCA_018204175.2	strain	Japan351
+GCA_018204175.2	collected_by	NA
+GCA_018204175.2	collection_date	2019
+GCA_018204175.2	geo_loc_name	Japan
+GCA_018204175.2	host	Homo sapiens
+GCA_018204175.2	host_disease	syphilis
+GCA_018204175.2	isolation_source	swab
+GCA_018204175.2	lat_lon	missing
+GCA_018204195.2	strain	Japan349
+GCA_018204195.2	collected_by	NA
+GCA_018204195.2	collection_date	2019
+GCA_018204195.2	geo_loc_name	Japan
+GCA_018204195.2	host	Homo sapiens
+GCA_018204195.2	host_disease	syphilis
+GCA_018204195.2	isolation_source	swab
+GCA_018204195.2	lat_lon	missing
+GCA_018204215.1	strain	Japan346e
+GCA_018204215.1	collected_by	NA
+GCA_018204215.1	collection_date	2019
+GCA_018204215.1	geo_loc_name	Japan
+GCA_018204215.1	host	Homo sapiens
+GCA_018204215.1	host_disease	syphilis
+GCA_018204215.1	isolation_source	swab
+GCA_018204215.1	lat_lon	missing
+GCA_018204235.2	strain	Japan348
+GCA_018204235.2	collected_by	NA
+GCA_018204235.2	collection_date	2019
+GCA_018204235.2	geo_loc_name	Japan
+GCA_018204235.2	host	Homo sapiens
+GCA_018204235.2	host_disease	syphilis
+GCA_018204235.2	isolation_source	swab
+GCA_018204235.2	lat_lon	missing
+GCA_018204255.2	strain	Japan344e
+GCA_018204255.2	collected_by	NA
+GCA_018204255.2	collection_date	2019
+GCA_018204255.2	geo_loc_name	Japan
+GCA_018204255.2	host	Homo sapiens
+GCA_018204255.2	host_disease	syphilis
+GCA_018204255.2	isolation_source	swab
+GCA_018204255.2	lat_lon	missing
+GCA_018204275.2	strain	Japan337
+GCA_018204275.2	collected_by	NA
+GCA_018204275.2	collection_date	2019
+GCA_018204275.2	geo_loc_name	Japan
+GCA_018204275.2	host	Homo sapiens
+GCA_018204275.2	host_disease	syphilis
+GCA_018204275.2	isolation_source	swab
+GCA_018204275.2	lat_lon	missing
+GCA_018204295.2	strain	Japan343
+GCA_018204295.2	collected_by	NA
+GCA_018204295.2	collection_date	2019
+GCA_018204295.2	geo_loc_name	Japan
+GCA_018204295.2	host	Homo sapiens
+GCA_018204295.2	host_disease	syphilis
+GCA_018204295.2	isolation_source	swab
+GCA_018204295.2	lat_lon	missing
+GCA_018204315.2	strain	Japan345
+GCA_018204315.2	collected_by	NA
+GCA_018204315.2	collection_date	2019
+GCA_018204315.2	geo_loc_name	Japan
+GCA_018204315.2	host	Homo sapiens
+GCA_018204315.2	host_disease	syphilis
+GCA_018204315.2	isolation_source	swab
+GCA_018204315.2	lat_lon	missing
+GCA_018204335.2	strain	Japan342e
+GCA_018204335.2	collected_by	NA
+GCA_018204335.2	collection_date	2019
+GCA_018204335.2	geo_loc_name	Japan
+GCA_018204335.2	host	Homo sapiens
+GCA_018204335.2	host_disease	syphilis
+GCA_018204335.2	isolation_source	swab
+GCA_018204335.2	lat_lon	missing
+GCA_018204355.2	strain	Japan338xei
+GCA_018204355.2	collected_by	NA
+GCA_018204355.2	collection_date	2019
+GCA_018204355.2	geo_loc_name	Japan
+GCA_018204355.2	host	Homo sapiens
+GCA_018204355.2	host_disease	syphilis
+GCA_018204355.2	isolation_source	swab
+GCA_018204355.2	lat_lon	missing
+GCA_018204375.2	strain	Japan339
+GCA_018204375.2	collected_by	NA
+GCA_018204375.2	collection_date	2019
+GCA_018204375.2	geo_loc_name	Japan
+GCA_018204375.2	host	Homo sapiens
+GCA_018204375.2	host_disease	syphilis
+GCA_018204375.2	isolation_source	swab
+GCA_018204375.2	lat_lon	missing
+GCA_018204395.2	strain	Japan332
+GCA_018204395.2	collected_by	NA
+GCA_018204395.2	collection_date	2019
+GCA_018204395.2	geo_loc_name	Japan
+GCA_018204395.2	host	Homo sapiens
+GCA_018204395.2	host_disease	syphilis
+GCA_018204395.2	isolation_source	swab
+GCA_018204395.2	lat_lon	missing
+GCA_018204415.2	strain	Japan329
+GCA_018204415.2	collected_by	NA
+GCA_018204415.2	collection_date	2019
+GCA_018204415.2	geo_loc_name	Japan
+GCA_018204415.2	host	Homo sapiens
+GCA_018204415.2	host_disease	syphilis
+GCA_018204415.2	isolation_source	swab
+GCA_018204415.2	lat_lon	missing
+GCA_018204495.2	strain	Japan331
+GCA_018204495.2	collected_by	NA
+GCA_018204495.2	collection_date	2019
+GCA_018204495.2	geo_loc_name	Japan
+GCA_018204495.2	host	Homo sapiens
+GCA_018204495.2	host_disease	syphilis
+GCA_018204495.2	isolation_source	swab
+GCA_018204495.2	lat_lon	missing
+GCA_018204595.2	strain	Japan328x
+GCA_018204595.2	collected_by	NA
+GCA_018204595.2	collection_date	2019
+GCA_018204595.2	geo_loc_name	Japan
+GCA_018204595.2	host	Homo sapiens
+GCA_018204595.2	host_disease	syphilis
+GCA_018204595.2	isolation_source	swab
+GCA_018204595.2	lat_lon	missing
+GCA_018204755.3	strain	Japan325xe
+GCA_018204755.3	collected_by	NA
+GCA_018204755.3	collection_date	2019
+GCA_018204755.3	geo_loc_name	Japan
+GCA_018204755.3	host	Homo sapiens
+GCA_018204755.3	host_disease	syphilis
+GCA_018204755.3	isolation_source	swab
+GCA_018204755.3	lat_lon	missing
+GCA_018204835.1	strain	Japan326e
+GCA_018204835.1	collected_by	NA
+GCA_018204835.1	collection_date	2019
+GCA_018204835.1	geo_loc_name	Japan
+GCA_018204835.1	host	Homo sapiens
+GCA_018204835.1	host_disease	syphilis
+GCA_018204835.1	isolation_source	swab
+GCA_018204835.1	lat_lon	missing
+GCA_018204935.2	strain	Japan324x
+GCA_018204935.2	collected_by	NA
+GCA_018204935.2	collection_date	2019
+GCA_018204935.2	geo_loc_name	Japan
+GCA_018204935.2	host	Homo sapiens
+GCA_018204935.2	host_disease	syphilis
+GCA_018204935.2	isolation_source	swab
+GCA_018204935.2	lat_lon	missing
+GCA_018204975.2	strain	Japan323x
+GCA_018204975.2	collected_by	NA
+GCA_018204975.2	collection_date	2019
+GCA_018204975.2	geo_loc_name	Japan
+GCA_018204975.2	host	Homo sapiens
+GCA_018204975.2	host_disease	syphilis
+GCA_018204975.2	isolation_source	swab
+GCA_018204975.2	lat_lon	missing
+GCA_018205095.1	strain	Japan322e
+GCA_018205095.1	collected_by	NA
+GCA_018205095.1	collection_date	2019
+GCA_018205095.1	geo_loc_name	Japan
+GCA_018205095.1	host	Homo sapiens
+GCA_018205095.1	host_disease	syphilis
+GCA_018205095.1	isolation_source	swab
+GCA_018205095.1	lat_lon	missing
+GCA_018205175.1	strain	Japan320e
+GCA_018205175.1	collected_by	NA
+GCA_018205175.1	collection_date	2019
+GCA_018205175.1	geo_loc_name	Japan
+GCA_018205175.1	host	Homo sapiens
+GCA_018205175.1	host_disease	syphilis
+GCA_018205175.1	isolation_source	swab
+GCA_018205175.1	lat_lon	missing
+GCA_018205215.2	strain	Japan314
+GCA_018205215.2	collected_by	NA
+GCA_018205215.2	collection_date	2019
+GCA_018205215.2	geo_loc_name	Japan
+GCA_018205215.2	host	Homo sapiens
+GCA_018205215.2	host_disease	syphilis
+GCA_018205215.2	isolation_source	swab
+GCA_018205215.2	lat_lon	missing
+GCA_018205235.2	strain	Japan312xe
+GCA_018205235.2	collected_by	NA
+GCA_018205235.2	collection_date	2019
+GCA_018205235.2	geo_loc_name	Japan
+GCA_018205235.2	host	Homo sapiens
+GCA_018205235.2	host_disease	syphilis
+GCA_018205235.2	isolation_source	swab
+GCA_018205235.2	lat_lon	missing
+GCA_018205255.2	strain	Japan313x
+GCA_018205255.2	collected_by	NA
+GCA_018205255.2	collection_date	2019
+GCA_018205255.2	geo_loc_name	Japan
+GCA_018205255.2	host	Homo sapiens
+GCA_018205255.2	host_disease	syphilis
+GCA_018205255.2	isolation_source	swab
+GCA_018205255.2	lat_lon	missing
+GCA_018205275.2	strain	Japan309x
+GCA_018205275.2	collected_by	NA
+GCA_018205275.2	collection_date	2019
+GCA_018205275.2	geo_loc_name	Japan
+GCA_018205275.2	host	Homo sapiens
+GCA_018205275.2	host_disease	syphilis
+GCA_018205275.2	isolation_source	swab
+GCA_018205275.2	lat_lon	missing
+GCA_018205375.2	strain	Japan308
+GCA_018205375.2	collected_by	NA
+GCA_018205375.2	collection_date	2019
+GCA_018205375.2	geo_loc_name	Japan
+GCA_018205375.2	host	Homo sapiens
+GCA_018205375.2	host_disease	syphilis
+GCA_018205375.2	isolation_source	swab
+GCA_018205375.2	lat_lon	missing
+GCA_018205495.2	strain	Japan307
+GCA_018205495.2	collected_by	NA
+GCA_018205495.2	collection_date	2019
+GCA_018205495.2	geo_loc_name	Japan
+GCA_018205495.2	host	Homo sapiens
+GCA_018205495.2	host_disease	syphilis
+GCA_018205495.2	isolation_source	swab
+GCA_018205495.2	lat_lon	missing
+GCA_018205735.2	strain	Japan303
+GCA_018205735.2	collected_by	NA
+GCA_018205735.2	collection_date	2019
+GCA_018205735.2	geo_loc_name	Japan
+GCA_018205735.2	host	Homo sapiens
+GCA_018205735.2	host_disease	syphilis
+GCA_018205735.2	isolation_source	swab
+GCA_018205735.2	lat_lon	missing
+GCA_018206135.2	strain	Japan306
+GCA_018206135.2	collected_by	NA
+GCA_018206135.2	collection_date	2019
+GCA_018206135.2	geo_loc_name	Japan
+GCA_018206135.2	host	Homo sapiens
+GCA_018206135.2	host_disease	syphilis
+GCA_018206135.2	isolation_source	swab
+GCA_018206135.2	lat_lon	missing
+GCA_018206355.2	strain	Japan305
+GCA_018206355.2	collected_by	NA
+GCA_018206355.2	collection_date	2019
+GCA_018206355.2	geo_loc_name	Japan
+GCA_018206355.2	host	Homo sapiens
+GCA_018206355.2	host_disease	syphilis
+GCA_018206355.2	isolation_source	swab
+GCA_018206355.2	lat_lon	missing
+GCA_018206585.2	strain	Japan302x
+GCA_018206585.2	collected_by	NA
+GCA_018206585.2	collection_date	2019
+GCA_018206585.2	geo_loc_name	Japan
+GCA_018206585.2	host	Homo sapiens
+GCA_018206585.2	host_disease	syphilis
+GCA_018206585.2	isolation_source	swab
+GCA_018206585.2	lat_lon	missing
+GCA_018206745.2	strain	Japan301
+GCA_018206745.2	collected_by	NA
+GCA_018206745.2	collection_date	2019
+GCA_018206745.2	geo_loc_name	Japan
+GCA_018206745.2	host	Homo sapiens
+GCA_018206745.2	host_disease	syphilis
+GCA_018206745.2	isolation_source	swab
+GCA_018206745.2	lat_lon	missing
+GCA_018206955.2	strain	Japan300
+GCA_018206955.2	collected_by	NA
+GCA_018206955.2	collection_date	2019
+GCA_018206955.2	geo_loc_name	Japan
+GCA_018206955.2	host	Homo sapiens
+GCA_018206955.2	host_disease	syphilis
+GCA_018206955.2	isolation_source	swab
+GCA_018206955.2	lat_lon	missing
+GCA_018207135.2	strain	Japan298x
+GCA_018207135.2	collected_by	NA
+GCA_018207135.2	collection_date	2019
+GCA_018207135.2	geo_loc_name	Japan
+GCA_018207135.2	host	Homo sapiens
+GCA_018207135.2	host_disease	syphilis
+GCA_018207135.2	isolation_source	swab
+GCA_018207135.2	lat_lon	missing
+GCA_018207195.2	strain	Japan295x
+GCA_018207195.2	collected_by	NA
+GCA_018207195.2	collection_date	2019
+GCA_018207195.2	geo_loc_name	Japan
+GCA_018207195.2	host	Homo sapiens
+GCA_018207195.2	host_disease	syphilis
+GCA_018207195.2	isolation_source	swab
+GCA_018207195.2	lat_lon	missing
+GCA_018207275.2	strain	Japan294x
+GCA_018207275.2	collected_by	NA
+GCA_018207275.2	collection_date	2019
+GCA_018207275.2	geo_loc_name	Japan
+GCA_018207275.2	host	Homo sapiens
+GCA_018207275.2	host_disease	syphilis
+GCA_018207275.2	isolation_source	swab
+GCA_018207275.2	lat_lon	missing
+GCA_018207315.2	strain	Japan291x
+GCA_018207315.2	collected_by	NA
+GCA_018207315.2	collection_date	2019
+GCA_018207315.2	geo_loc_name	Japan
+GCA_018207315.2	host	Homo sapiens
+GCA_018207315.2	host_disease	syphilis
+GCA_018207315.2	isolation_source	swab
+GCA_018207315.2	lat_lon	missing
+GCA_018207435.2	strain	Japan290
+GCA_018207435.2	collected_by	NA
+GCA_018207435.2	collection_date	2019
+GCA_018207435.2	geo_loc_name	Japan
+GCA_018207435.2	host	Homo sapiens
+GCA_018207435.2	host_disease	syphilis
+GCA_018207435.2	isolation_source	swab
+GCA_018207435.2	lat_lon	missing
+GCA_018207455.2	strain	Japan288
+GCA_018207455.2	collected_by	NA
+GCA_018207455.2	collection_date	2019
+GCA_018207455.2	geo_loc_name	Japan
+GCA_018207455.2	host	Homo sapiens
+GCA_018207455.2	host_disease	syphilis
+GCA_018207455.2	isolation_source	swab
+GCA_018207455.2	lat_lon	missing
+GCA_018207475.2	strain	Japan287e
+GCA_018207475.2	collected_by	NA
+GCA_018207475.2	collection_date	2019
+GCA_018207475.2	geo_loc_name	Japan
+GCA_018207475.2	host	Homo sapiens
+GCA_018207475.2	host_disease	syphilis
+GCA_018207475.2	isolation_source	swab
+GCA_018207475.2	lat_lon	missing
+GCA_018207495.2	strain	ItalyAS15
+GCA_018207495.2	collected_by	NA
+GCA_018207495.2	collection_date	2017
+GCA_018207495.2	geo_loc_name	Italy
+GCA_018207495.2	host	Homo sapiens
+GCA_018207495.2	host_disease	syphilis
+GCA_018207495.2	isolation_source	swab
+GCA_018207495.2	lat_lon	missing
+GCA_018207775.2	strain	Japan311
+GCA_018207775.2	collected_by	NA
+GCA_018207775.2	collection_date	2019
+GCA_018207775.2	geo_loc_name	Japan
+GCA_018207775.2	host	Homo sapiens
+GCA_018207775.2	host_disease	syphilis
+GCA_018207775.2	isolation_source	swab
+GCA_018207775.2	lat_lon	missing
+GCA_019775755.2	strain	UAB528ei
+GCA_019775755.2	collected_by	NA
+GCA_019775755.2	collection_date	2006
+GCA_019775755.2	geo_loc_name	Madagascar
+GCA_019775755.2	host	Homo sapiens
+GCA_019775755.2	host_disease	syphilis
+GCA_019775755.2	isolation_source	swab
+GCA_019775755.2	lat_lon	missing
+GCA_023016345.1	strain	TpN-CL8
+GCA_023016345.1	identified_by	Diane G. Edmondson, Steven J. Norris
+GCA_023016345.1	collected_by	H. J. Nichols, W. H. Hough
+GCA_023016345.1	collection_date	1912-06-30
+GCA_023016345.1	geo_loc_name	USA: DC, Washington
+GCA_023016345.1	host	Homo sapiens
+GCA_023016345.1	host_disease	syphilis
+GCA_023016345.1	isolation_source	cerebrospinal fluid
+GCA_023016345.1	lat_lon	38.9072 N 77.0369 W
+GCA_023016345.1	culture_collection	Not applicable
+GCA_023016345.1	host_age	25
+GCA_023016345.1	host_description	Male
+GCA_023016345.1	host_sex	male
+GCA_023016345.1	host_tissue_sampled	Cerebrospinal fluid
+GCA_023016345.1	passage_history	Passaged in rabbits since 1912, in vitro culture 2017-
+GCA_023016345.1	sub_species	pallidum
+GCA_023016345.1	subsrc_note	Nichols clone
+GCA_023016365.1	strain	TpN-CL5
+GCA_023016365.1	identified_by	Diane G. Edmondson, Steven J. Norris
+GCA_023016365.1	collected_by	H. J. Nichols, W. H. Hough
+GCA_023016365.1	collection_date	1912-06-30
+GCA_023016365.1	geo_loc_name	USA: DC, Washington
+GCA_023016365.1	host	Homo sapiens
+GCA_023016365.1	host_disease	syphilis
+GCA_023016365.1	isolation_source	cerebrospinal fluid
+GCA_023016365.1	lat_lon	38.9072 N 77.0369 W
+GCA_023016365.1	culture_collection	Not applicable
+GCA_023016365.1	host_age	25
+GCA_023016365.1	host_description	Male
+GCA_023016365.1	host_sex	male
+GCA_023016365.1	host_tissue_sampled	Cerebrospinal fluid
+GCA_023016365.1	passage_history	Passaged in rabbits since 1912, in vitro culture 2017-
+GCA_023016365.1	sub_species	pallidum
+GCA_023016365.1	subsrc_note	Nichols clone
+GCA_023016385.1	strain	TpN-CL1
+GCA_023016385.1	identified_by	Diane G. Edmondson, Steven J. Norris
+GCA_023016385.1	collected_by	H. J. Nichols, W. H. Hough
+GCA_023016385.1	collection_date	1912-06-30
+GCA_023016385.1	geo_loc_name	USA: DC, Washington
+GCA_023016385.1	host	Homo sapiens
+GCA_023016385.1	host_disease	syphilis
+GCA_023016385.1	isolation_source	cerebrospinal fluid
+GCA_023016385.1	lat_lon	38.9072 N 77.0369 W
+GCA_023016385.1	culture_collection	Not applicable
+GCA_023016385.1	host_age	25
+GCA_023016385.1	host_description	Male
+GCA_023016385.1	host_disease_outcome	Recovery
+GCA_023016385.1	host_disease_stage	Tertiary Syphilis
+GCA_023016385.1	host_sex	male
+GCA_023016385.1	host_tissue_sampled	Cerebrospinal fluid
+GCA_023016385.1	passage_history	Passaged in rabbits since 1912, in vitro culture 2017-
+GCA_023016385.1	sub_species	pallidum
+GCA_023016385.1	subsrc_note	Nichols clone
+GCA_023016405.1	strain	TpN-CL4
+GCA_023016405.1	identified_by	Diane G. Edmondson, Steven J. Norris
+GCA_023016405.1	collected_by	H. J. Nichols, W. H. Hough
+GCA_023016405.1	collection_date	1912-06-30
+GCA_023016405.1	geo_loc_name	USA: DC, Washington
+GCA_023016405.1	host	Homo sapiens
+GCA_023016405.1	host_disease	syphilis
+GCA_023016405.1	isolation_source	cerebrospinal fluid
+GCA_023016405.1	lat_lon	38.9072 N 77.0369 W
+GCA_023016405.1	culture_collection	Not applicable
+GCA_023016405.1	host_age	25
+GCA_023016405.1	host_description	Male
+GCA_023016405.1	host_sex	male
+GCA_023016405.1	host_tissue_sampled	Cerebrospinal fluid
+GCA_023016405.1	passage_history	Passaged in rabbits since 1912, in vitro culture 2017-
+GCA_023016405.1	sub_species	pallidum
+GCA_023016405.1	subsrc_note	Nichols clone
+GCA_023016425.1	strain	TpN-CL3
+GCA_023016425.1	identified_by	Diane G. Edmondson, Steven J. Norris
+GCA_023016425.1	collected_by	H. J. Nichols, W. H. Hough
+GCA_023016425.1	collection_date	1912-06-30
+GCA_023016425.1	geo_loc_name	USA: DC, Washington
+GCA_023016425.1	host	Homo sapiens
+GCA_023016425.1	host_disease	syphilis
+GCA_023016425.1	isolation_source	cerebrospinal fluid
+GCA_023016425.1	lat_lon	38.9072 N 77.0369 W
+GCA_023016425.1	culture_collection	Not applicable
+GCA_023016425.1	host_age	25
+GCA_023016425.1	host_description	Male
+GCA_023016425.1	host_sex	male
+GCA_023016425.1	host_tissue_sampled	Cerebrospinal fluid
+GCA_023016425.1	passage_history	Passaged in rabbits since 1912, in vitro culture 2017-
+GCA_023016425.1	sub_species	pallidum
+GCA_023016425.1	subsrc_note	Nichols clone
+GCA_023016445.1	strain	TpN-CL2
+GCA_023016445.1	identified_by	Diane G. Edmondson, Steven J. Norris
+GCA_023016445.1	collected_by	H. J. Nichols, W. H. Hough
+GCA_023016445.1	collection_date	1912-06-30
+GCA_023016445.1	geo_loc_name	USA: DC, Washington
+GCA_023016445.1	host	Homo sapiens
+GCA_023016445.1	host_disease	syphilis
+GCA_023016445.1	isolation_source	cerebrospinal fluid
+GCA_023016445.1	lat_lon	38.9072 N 77.0369 W
+GCA_023016445.1	culture_collection	Not applicable
+GCA_023016445.1	host_age	25
+GCA_023016445.1	host_description	Male
+GCA_023016445.1	host_sex	male
+GCA_023016445.1	host_tissue_sampled	Cerebrospinal fluid
+GCA_023016445.1	passage_history	Passaged in rabbits since 1912, in vitro culture 2017-
+GCA_023016445.1	sub_species	pallidum
+GCA_023016445.1	subsrc_note	Nichols clone
+GCA_023116935.1	strain	C279
+GCA_023116935.1	collected_by	A A Noda; Tropical Medicine Institute Pedro Kouri, Havana, Cuba
+GCA_023116935.1	collection_date	2017
+GCA_023116935.1	geo_loc_name	Cuba
+GCA_023116935.1	host	Homo sapiens
+GCA_023116935.1	host_disease	bejel
+GCA_023116935.1	isolation_source	genital ulcer
+GCA_023116935.1	lat_lon	23.1 N 82.35 W
+GCA_023116935.1	host_sex	male
+GCA_023116935.1	sub_species	endemicum
+GCA_023117035.1	strain	C77
+GCA_023117035.1	isolate	77
+GCA_023117035.1	collected_by	Angel A. Noda, Institute of Tropical Medicine Pedro Kouri
+GCA_023117035.1	collection_date	2014
+GCA_023117035.1	geo_loc_name	Cuba
+GCA_023117035.1	host	Homo sapiens
+GCA_023117035.1	host_disease	bejel
+GCA_023117035.1	isolation_source	Genital ulcer
+GCA_023117035.1	host_sex	male
+GCA_023117035.1	sub_species	endemicum
+GCA_023117035.1	lat_lon	23.107924 N 82.379735 W
+GCA_024971635.1	strain	Madras
+GCA_024971635.1	collected_by	CDC
+GCA_024971635.1	collection_date	1954
+GCA_024971635.1	geo_loc_name	India: Madras
+GCA_024971635.1	host	Homo sapiens
+GCA_024971635.1	host_disease	syphilis
+GCA_024971635.1	isolation_source	lession
+GCA_024971635.1	lat_lon	13.08165 N 80.27410 E
+GCA_024971635.1	sub_species	pallidum
+GCA_025201015.1	strain	34832H3
+GCA_025201015.1	collected_by	NA
+GCA_025201015.1	collection_date	missing
+GCA_025201015.1	geo_loc_name	Argentina
+GCA_025201015.1	host	Homo sapiens
+GCA_025201015.1	host_disease	syphilis
+GCA_025201015.1	isolation_source	swab
+GCA_025201015.1	lat_lon	missing
+GCA_025201035.1	strain	62391H1
+GCA_025201035.1	collected_by	NA
+GCA_025201035.1	collection_date	missing
+GCA_025201035.1	geo_loc_name	Argentina
+GCA_025201035.1	host	Homo sapiens
+GCA_025201035.1	host_disease	syphilis
+GCA_025201035.1	isolation_source	swab
+GCA_025201035.1	lat_lon	missing
+GCA_025201055.1	strain	26165H2
+GCA_025201055.1	collected_by	NA
+GCA_025201055.1	collection_date	missing
+GCA_025201055.1	geo_loc_name	Argentina
+GCA_025201055.1	host	Homo sapiens
+GCA_025201055.1	host_disease	syphilis
+GCA_025201055.1	isolation_source	swab
+GCA_025201055.1	lat_lon	missing
+GCA_025201075.1	strain	34832H2
+GCA_025201075.1	collected_by	NA
+GCA_025201075.1	collection_date	missing
+GCA_025201075.1	geo_loc_name	Argentina
+GCA_025201075.1	host	Homo sapiens
+GCA_025201075.1	host_disease	syphilis
+GCA_025201075.1	isolation_source	swab
+GCA_025201075.1	lat_lon	missing
+GCA_025201095.1	strain	62388H1
+GCA_025201095.1	collected_by	NA
+GCA_025201095.1	collection_date	missing
+GCA_025201095.1	geo_loc_name	Argentina
+GCA_025201095.1	host	Homo sapiens
+GCA_025201095.1	host_disease	syphilis
+GCA_025201095.1	isolation_source	swab
+GCA_025201095.1	lat_lon	missing
+GCA_025201115.1	strain	62388H3
+GCA_025201115.1	collected_by	NA
+GCA_025201115.1	collection_date	missing
+GCA_025201115.1	geo_loc_name	Argentina
+GCA_025201115.1	host	Homo sapiens
+GCA_025201115.1	host_disease	syphilis
+GCA_025201115.1	isolation_source	swab
+GCA_025201115.1	lat_lon	missing
+GCA_025201135.1	strain	82674H1
+GCA_025201135.1	collected_by	NA
+GCA_025201135.1	collection_date	missing
+GCA_025201135.1	geo_loc_name	Argentina
+GCA_025201135.1	host	Homo sapiens
+GCA_025201135.1	host_disease	syphilis
+GCA_025201135.1	isolation_source	swab
+GCA_025201135.1	lat_lon	missing
+GCA_025201155.1	strain	26166H1
+GCA_025201155.1	collected_by	NA
+GCA_025201155.1	collection_date	missing
+GCA_025201155.1	geo_loc_name	Argentina
+GCA_025201155.1	host	Homo sapiens
+GCA_025201155.1	host_disease	syphilis
+GCA_025201155.1	isolation_source	swab
+GCA_025201155.1	lat_lon	missing
+GCA_025201175.1	strain	34829H1
+GCA_025201175.1	collected_by	NA
+GCA_025201175.1	collection_date	missing
+GCA_025201175.1	geo_loc_name	Argentina
+GCA_025201175.1	host	Homo sapiens
+GCA_025201175.1	host_disease	syphilis
+GCA_025201175.1	isolation_source	swab
+GCA_025201175.1	lat_lon	missing
+GCA_025201195.1	strain	62388H2
+GCA_025201195.1	collected_by	NA
+GCA_025201195.1	collection_date	missing
+GCA_025201195.1	geo_loc_name	Argentina
+GCA_025201195.1	host	Homo sapiens
+GCA_025201195.1	host_disease	syphilis
+GCA_025201195.1	isolation_source	swab
+GCA_025201195.1	lat_lon	missing
+GCA_025201215.1	strain	66835H3
+GCA_025201215.1	collected_by	NA
+GCA_025201215.1	collection_date	missing
+GCA_025201215.1	geo_loc_name	Argentina
+GCA_025201215.1	host	Homo sapiens
+GCA_025201215.1	host_disease	syphilis
+GCA_025201215.1	isolation_source	swab
+GCA_025201215.1	lat_lon	missing
+GCA_025201255.1	strain	ItalyGE4a
+GCA_025201255.1	collected_by	NA
+GCA_025201255.1	collection_date	2017
+GCA_025201255.1	geo_loc_name	Italy
+GCA_025201255.1	host	Homo sapiens
+GCA_025201255.1	host_disease	syphilis
+GCA_025201255.1	isolation_source	swab
+GCA_025201255.1	lat_lon	missing
+GCA_025201275.1	strain	62391H3
+GCA_025201275.1	collected_by	NA
+GCA_025201275.1	collection_date	missing
+GCA_025201275.1	geo_loc_name	Argentina
+GCA_025201275.1	host	Homo sapiens
+GCA_025201275.1	host_disease	syphilis
+GCA_025201275.1	isolation_source	swab
+GCA_025201275.1	lat_lon	missing
+GCA_025201295.1	strain	90603H2
+GCA_025201295.1	collected_by	NA
+GCA_025201295.1	collection_date	missing
+GCA_025201295.1	geo_loc_name	Argentina
+GCA_025201295.1	host	Homo sapiens
+GCA_025201295.1	host_disease	syphilis
+GCA_025201295.1	isolation_source	swab
+GCA_025201295.1	lat_lon	missing
+GCA_025201315.1	strain	66425H2
+GCA_025201315.1	collected_by	NA
+GCA_025201315.1	collection_date	missing
+GCA_025201315.1	geo_loc_name	Argentina
+GCA_025201315.1	host	Homo sapiens
+GCA_025201315.1	host_disease	syphilis
+GCA_025201315.1	isolation_source	swab
+GCA_025201315.1	lat_lon	missing
+GCA_025398415.1	strain	ChinaNJ55
+GCA_025398415.1	collected_by	NA
+GCA_025398415.1	collection_date	2018
+GCA_025398415.1	geo_loc_name	China
+GCA_025398415.1	host	Homo sapiens
+GCA_025398415.1	host_disease	syphilis
+GCA_025398415.1	isolation_source	swab
+GCA_025398415.1	lat_lon	missing
+GCA_025398475.1	strain	ChinaNJ59
+GCA_025398475.1	collected_by	NA
+GCA_025398475.1	collection_date	2018
+GCA_025398475.1	geo_loc_name	China
+GCA_025398475.1	host	Homo sapiens
+GCA_025398475.1	host_disease	syphilis
+GCA_025398475.1	isolation_source	swab
+GCA_025398475.1	lat_lon	missing
+GCA_025398495.1	strain	ChinaNJ41
+GCA_025398495.1	collected_by	NA
+GCA_025398495.1	collection_date	2017
+GCA_025398495.1	geo_loc_name	China
+GCA_025398495.1	host	Homo sapiens
+GCA_025398495.1	host_disease	syphilis
+GCA_025398495.1	isolation_source	swab
+GCA_025398495.1	lat_lon	missing
+GCA_025398515.1	strain	ChinaNJ42
+GCA_025398515.1	collected_by	NA
+GCA_025398515.1	collection_date	2018
+GCA_025398515.1	geo_loc_name	China
+GCA_025398515.1	host	Homo sapiens
+GCA_025398515.1	host_disease	syphilis
+GCA_025398515.1	isolation_source	swab
+GCA_025398515.1	lat_lon	missing
+GCA_025398535.1	strain	ChinaNJ56
+GCA_025398535.1	collected_by	NA
+GCA_025398535.1	collection_date	2018
+GCA_025398535.1	geo_loc_name	China
+GCA_025398535.1	host	Homo sapiens
+GCA_025398535.1	host_disease	syphilis
+GCA_025398535.1	isolation_source	swab
+GCA_025398535.1	lat_lon	missing
+GCA_025398555.1	strain	ChinaNJ06
+GCA_025398555.1	collected_by	NA
+GCA_025398555.1	collection_date	2016
+GCA_025398555.1	geo_loc_name	China
+GCA_025398555.1	host	Homo sapiens
+GCA_025398555.1	host_disease	syphilis
+GCA_025398555.1	isolation_source	swab
+GCA_025398555.1	lat_lon	missing
+GCA_025398575.1	strain	ChinaNJ27
+GCA_025398575.1	collected_by	NA
+GCA_025398575.1	collection_date	2019
+GCA_025398575.1	geo_loc_name	China
+GCA_025398575.1	host	Homo sapiens
+GCA_025398575.1	host_disease	syphilis
+GCA_025398575.1	isolation_source	swab
+GCA_025398575.1	lat_lon	missing
+GCA_025398595.1	strain	China27
+GCA_025398595.1	collected_by	NA
+GCA_025398595.1	collection_date	2018
+GCA_025398595.1	geo_loc_name	China
+GCA_025398595.1	host	Homo sapiens
+GCA_025398595.1	host_disease	syphilis
+GCA_025398595.1	isolation_source	swab
+GCA_025398595.1	lat_lon	missing
+GCA_025398615.1	strain	China16
+GCA_025398615.1	collected_by	NA
+GCA_025398615.1	collection_date	2018
+GCA_025398615.1	geo_loc_name	China
+GCA_025398615.1	host	Homo sapiens
+GCA_025398615.1	host_disease	syphilis
+GCA_025398615.1	isolation_source	swab
+GCA_025398615.1	lat_lon	missing
+GCA_025398635.1	strain	ChinaNJ25
+GCA_025398635.1	collected_by	NA
+GCA_025398635.1	collection_date	2019
+GCA_025398635.1	geo_loc_name	China
+GCA_025398635.1	host	Homo sapiens
+GCA_025398635.1	host_disease	syphilis
+GCA_025398635.1	isolation_source	swab
+GCA_025398635.1	lat_lon	missing
+GCA_025398655.1	strain	ChinaNJ28
+GCA_025398655.1	collected_by	NA
+GCA_025398655.1	collection_date	2017
+GCA_025398655.1	geo_loc_name	China
+GCA_025398655.1	host	Homo sapiens
+GCA_025398655.1	host_disease	syphilis
+GCA_025398655.1	isolation_source	swab
+GCA_025398655.1	lat_lon	missing
+GCA_026240715.1	strain	UAB3
+GCA_026240715.1	collected_by	NA
+GCA_026240715.1	collection_date	2000
+GCA_026240715.1	geo_loc_name	Madagascar
+GCA_026240715.1	host	Homo sapiens
+GCA_026240715.1	host_disease	syphilis
+GCA_026240715.1	isolation_source	swab
+GCA_026240715.1	lat_lon	missing
+GCA_026240735.1	strain	UAB2
+GCA_026240735.1	collected_by	NA
+GCA_026240735.1	collection_date	2000
+GCA_026240735.1	geo_loc_name	Madagascar
+GCA_026240735.1	host	Homo sapiens
+GCA_026240735.1	host_disease	syphilis
+GCA_026240735.1	isolation_source	swab
+GCA_026240735.1	lat_lon	missing
+GCA_026409145.1	strain	UAB4
+GCA_026409145.1	collected_by	NA
+GCA_026409145.1	collection_date	2000
+GCA_026409145.1	geo_loc_name	Madagascar
+GCA_026409145.1	host	Homo sapiens
+GCA_026409145.1	host_disease	syphilis
+GCA_026409145.1	isolation_source	swab
+GCA_026409145.1	lat_lon	missing
+GCA_026409385.1	strain	UAB550
+GCA_026409385.1	collected_by	NA
+GCA_026409385.1	collection_date	2007
+GCA_026409385.1	geo_loc_name	Madagascar
+GCA_026409385.1	host	Homo sapiens
+GCA_026409385.1	host_disease	syphilis
+GCA_026409385.1	isolation_source	swab
+GCA_026409385.1	lat_lon	missing
+GCA_026409405.1	strain	UAB548
+GCA_026409405.1	collected_by	NA
+GCA_026409405.1	collection_date	2007
+GCA_026409405.1	geo_loc_name	Madagascar
+GCA_026409405.1	host	Homo sapiens
+GCA_026409405.1	host_disease	syphilis
+GCA_026409405.1	isolation_source	swab
+GCA_026409405.1	lat_lon	missing
+GCA_026409425.1	strain	UAB536
+GCA_026409425.1	collected_by	NA
+GCA_026409425.1	collection_date	2006
+GCA_026409425.1	geo_loc_name	Madagascar
+GCA_026409425.1	host	Homo sapiens
+GCA_026409425.1	host_disease	syphilis
+GCA_026409425.1	isolation_source	swab
+GCA_026409425.1	lat_lon	missing
+GCA_026409445.1	strain	UAB502
+GCA_026409445.1	collected_by	NA
+GCA_026409445.1	collection_date	2006
+GCA_026409445.1	geo_loc_name	Madagascar
+GCA_026409445.1	host	Homo sapiens
+GCA_026409445.1	host_disease	syphilis
+GCA_026409445.1	isolation_source	swab
+GCA_026409445.1	lat_lon	missing
+GCA_026409465.1	strain	UAB209
+GCA_026409465.1	collected_by	NA
+GCA_026409465.1	collection_date	2002
+GCA_026409465.1	geo_loc_name	Madagascar
+GCA_026409465.1	host	Homo sapiens
+GCA_026409465.1	host_disease	syphilis
+GCA_026409465.1	isolation_source	swab
+GCA_026409465.1	lat_lon	missing
+GCA_026409485.1	strain	UAB14
+GCA_026409485.1	collected_by	NA
+GCA_026409485.1	collection_date	2000
+GCA_026409485.1	geo_loc_name	Madagascar
+GCA_026409485.1	host	Homo sapiens
+GCA_026409485.1	host_disease	syphilis
+GCA_026409485.1	isolation_source	swab
+GCA_026409485.1	lat_lon	missing
+GCA_026409505.1	strain	PeruC40050
+GCA_026409505.1	collected_by	NA
+GCA_026409505.1	collection_date	2019
+GCA_026409505.1	geo_loc_name	Peru
+GCA_026409505.1	host	Homo sapiens
+GCA_026409505.1	host_disease	syphilis
+GCA_026409505.1	isolation_source	swab
+GCA_026409505.1	lat_lon	missing
+GCA_026409525.1	strain	PeruC10090
+GCA_026409525.1	collected_by	NA
+GCA_026409525.1	collection_date	2020
+GCA_026409525.1	geo_loc_name	Peru
+GCA_026409525.1	host	Homo sapiens
+GCA_026409525.1	host_disease	syphilis
+GCA_026409525.1	isolation_source	swab
+GCA_026409525.1	lat_lon	missing
+GCA_026409545.1	strain	PeruB20070
+GCA_026409545.1	collected_by	NA
+GCA_026409545.1	collection_date	2020
+GCA_026409545.1	geo_loc_name	Peru
+GCA_026409545.1	host	Homo sapiens
+GCA_026409545.1	host_disease	syphilis
+GCA_026409545.1	isolation_source	swab
+GCA_026409545.1	lat_lon	missing
+GCA_026409585.1	strain	UAB555
+GCA_026409585.1	collected_by	NA
+GCA_026409585.1	collection_date	2007
+GCA_026409585.1	geo_loc_name	Madagascar
+GCA_026409585.1	host	Homo sapiens
+GCA_026409585.1	host_disease	syphilis
+GCA_026409585.1	isolation_source	swab
+GCA_026409585.1	lat_lon	missing
+GCA_026409605.1	strain	UAB544
+GCA_026409605.1	collected_by	NA
+GCA_026409605.1	collection_date	2007
+GCA_026409605.1	geo_loc_name	Madagascar
+GCA_026409605.1	host	Homo sapiens
+GCA_026409605.1	host_disease	syphilis
+GCA_026409605.1	isolation_source	swab
+GCA_026409605.1	lat_lon	missing
+GCA_026409625.1	strain	UAB543
+GCA_026409625.1	collected_by	NA
+GCA_026409625.1	collection_date	2007
+GCA_026409625.1	geo_loc_name	Madagascar
+GCA_026409625.1	host	Homo sapiens
+GCA_026409625.1	host_disease	syphilis
+GCA_026409625.1	isolation_source	swab
+GCA_026409625.1	lat_lon	missing
+GCA_026409645.1	strain	UAB542
+GCA_026409645.1	collected_by	NA
+GCA_026409645.1	collection_date	2007
+GCA_026409645.1	geo_loc_name	Madagascar
+GCA_026409645.1	host	Homo sapiens
+GCA_026409645.1	host_disease	syphilis
+GCA_026409645.1	isolation_source	swab
+GCA_026409645.1	lat_lon	missing
+GCA_026409665.1	strain	UAB539
+GCA_026409665.1	collected_by	NA
+GCA_026409665.1	collection_date	2006
+GCA_026409665.1	geo_loc_name	Madagascar
+GCA_026409665.1	host	Homo sapiens
+GCA_026409665.1	host_disease	syphilis
+GCA_026409665.1	isolation_source	swab
+GCA_026409665.1	lat_lon	missing
+GCA_026409685.1	strain	UAB537
+GCA_026409685.1	collected_by	NA
+GCA_026409685.1	collection_date	2006
+GCA_026409685.1	geo_loc_name	Madagascar
+GCA_026409685.1	host	Homo sapiens
+GCA_026409685.1	host_disease	syphilis
+GCA_026409685.1	isolation_source	swab
+GCA_026409685.1	lat_lon	missing
+GCA_026409705.1	strain	UAB520
+GCA_026409705.1	collected_by	NA
+GCA_026409705.1	collection_date	2006
+GCA_026409705.1	geo_loc_name	Madagascar
+GCA_026409705.1	host	Homo sapiens
+GCA_026409705.1	host_disease	syphilis
+GCA_026409705.1	isolation_source	swab
+GCA_026409705.1	lat_lon	missing
+GCA_026409725.1	strain	UAB514
+GCA_026409725.1	collected_by	NA
+GCA_026409725.1	collection_date	2006
+GCA_026409725.1	geo_loc_name	Madagascar
+GCA_026409725.1	host	Homo sapiens
+GCA_026409725.1	host_disease	syphilis
+GCA_026409725.1	isolation_source	swab
+GCA_026409725.1	lat_lon	missing
+GCA_026409745.1	strain	UAB35
+GCA_026409745.1	collected_by	NA
+GCA_026409745.1	collection_date	2000
+GCA_026409745.1	geo_loc_name	Madagascar
+GCA_026409745.1	host	Homo sapiens
+GCA_026409745.1	host_disease	syphilis
+GCA_026409745.1	isolation_source	swab
+GCA_026409745.1	lat_lon	missing
+GCA_026409765.1	strain	UAB32
+GCA_026409765.1	collected_by	NA
+GCA_026409765.1	collection_date	2000
+GCA_026409765.1	geo_loc_name	Madagascar
+GCA_026409765.1	host	Homo sapiens
+GCA_026409765.1	host_disease	syphilis
+GCA_026409765.1	isolation_source	swab
+GCA_026409765.1	lat_lon	missing
+GCA_026409785.1	strain	UAB270
+GCA_026409785.1	collected_by	NA
+GCA_026409785.1	collection_date	2003
+GCA_026409785.1	geo_loc_name	Madagascar
+GCA_026409785.1	host	Homo sapiens
+GCA_026409785.1	host_disease	syphilis
+GCA_026409785.1	isolation_source	swab
+GCA_026409785.1	lat_lon	missing
+GCA_026409805.1	strain	UAB264
+GCA_026409805.1	collected_by	NA
+GCA_026409805.1	collection_date	2003
+GCA_026409805.1	geo_loc_name	Madagascar
+GCA_026409805.1	host	Homo sapiens
+GCA_026409805.1	host_disease	syphilis
+GCA_026409805.1	isolation_source	swab
+GCA_026409805.1	lat_lon	missing
+GCA_026409825.1	strain	UAB261
+GCA_026409825.1	collected_by	NA
+GCA_026409825.1	collection_date	2003
+GCA_026409825.1	geo_loc_name	Madagascar
+GCA_026409825.1	host	Homo sapiens
+GCA_026409825.1	host_disease	syphilis
+GCA_026409825.1	isolation_source	swab
+GCA_026409825.1	lat_lon	missing
+GCA_026409845.1	strain	UAB25
+GCA_026409845.1	collected_by	NA
+GCA_026409845.1	collection_date	2000
+GCA_026409845.1	geo_loc_name	Madagascar
+GCA_026409845.1	host	Homo sapiens
+GCA_026409845.1	host_disease	syphilis
+GCA_026409845.1	isolation_source	swab
+GCA_026409845.1	lat_lon	missing
+GCA_026409865.1	strain	UAB235
+GCA_026409865.1	collected_by	NA
+GCA_026409865.1	collection_date	2003
+GCA_026409865.1	geo_loc_name	Madagascar
+GCA_026409865.1	host	Homo sapiens
+GCA_026409865.1	host_disease	syphilis
+GCA_026409865.1	isolation_source	swab
+GCA_026409865.1	lat_lon	missing
+GCA_026409885.1	strain	UAB232
+GCA_026409885.1	collected_by	NA
+GCA_026409885.1	collection_date	2003
+GCA_026409885.1	geo_loc_name	Madagascar
+GCA_026409885.1	host	Homo sapiens
+GCA_026409885.1	host_disease	syphilis
+GCA_026409885.1	isolation_source	swab
+GCA_026409885.1	lat_lon	missing
+GCA_026409905.1	strain	UAB226
+GCA_026409905.1	collected_by	NA
+GCA_026409905.1	collection_date	2003
+GCA_026409905.1	geo_loc_name	Madagascar
+GCA_026409905.1	host	Homo sapiens
+GCA_026409905.1	host_disease	syphilis
+GCA_026409905.1	isolation_source	swab
+GCA_026409905.1	lat_lon	missing
+GCA_026409925.1	strain	UAB222
+GCA_026409925.1	collected_by	NA
+GCA_026409925.1	collection_date	2003
+GCA_026409925.1	geo_loc_name	Madagascar
+GCA_026409925.1	host	Homo sapiens
+GCA_026409925.1	host_disease	syphilis
+GCA_026409925.1	isolation_source	swab
+GCA_026409925.1	lat_lon	missing
+GCA_026409945.1	strain	UAB199
+GCA_026409945.1	collected_by	NA
+GCA_026409945.1	collection_date	2002
+GCA_026409945.1	geo_loc_name	Madagascar
+GCA_026409945.1	host	Homo sapiens
+GCA_026409945.1	host_disease	syphilis
+GCA_026409945.1	isolation_source	swab
+GCA_026409945.1	lat_lon	missing
+GCA_026409965.1	strain	UAB190
+GCA_026409965.1	collected_by	NA
+GCA_026409965.1	collection_date	2002
+GCA_026409965.1	geo_loc_name	Madagascar
+GCA_026409965.1	host	Homo sapiens
+GCA_026409965.1	host_disease	syphilis
+GCA_026409965.1	isolation_source	swab
+GCA_026409965.1	lat_lon	missing
+GCA_026409985.1	strain	UAB18
+GCA_026409985.1	collected_by	NA
+GCA_026409985.1	collection_date	2000
+GCA_026409985.1	geo_loc_name	Madagascar
+GCA_026409985.1	host	Homo sapiens
+GCA_026409985.1	host_disease	syphilis
+GCA_026409985.1	isolation_source	swab
+GCA_026409985.1	lat_lon	missing
+GCA_026410005.1	strain	UAB15
+GCA_026410005.1	collected_by	NA
+GCA_026410005.1	collection_date	2000
+GCA_026410005.1	geo_loc_name	Madagascar
+GCA_026410005.1	host	Homo sapiens
+GCA_026410005.1	host_disease	syphilis
+GCA_026410005.1	isolation_source	swab
+GCA_026410005.1	lat_lon	missing
+GCA_026410025.1	strain	UAB119
+GCA_026410025.1	collected_by	NA
+GCA_026410025.1	collection_date	2001
+GCA_026410025.1	geo_loc_name	Madagascar
+GCA_026410025.1	host	Homo sapiens
+GCA_026410025.1	host_disease	syphilis
+GCA_026410025.1	isolation_source	swab
+GCA_026410025.1	lat_lon	missing
+GCA_027568595.1	strain	ARG62500H3
+GCA_027568595.1	collected_by	NA
+GCA_027568595.1	collection_date	missing
+GCA_027568595.1	geo_loc_name	Argentina
+GCA_027568595.1	host	Homo sapiens
+GCA_027568595.1	host_disease	syphilis
+GCA_027568595.1	isolation_source	swab
+GCA_027568595.1	lat_lon	missing
+GCA_027568615.1	strain	ARG62500H2
+GCA_027568615.1	collected_by	NA
+GCA_027568615.1	collection_date	missing
+GCA_027568615.1	geo_loc_name	Argentina
+GCA_027568615.1	host	Homo sapiens
+GCA_027568615.1	host_disease	syphilis
+GCA_027568615.1	isolation_source	swab
+GCA_027568615.1	lat_lon	missing
+GCA_027568635.1	strain	ARG002GM
+GCA_027568635.1	collected_by	NA
+GCA_027568635.1	collection_date	missing
+GCA_027568635.1	geo_loc_name	Argentina
+GCA_027568635.1	host	Homo sapiens
+GCA_027568635.1	host_disease	syphilis
+GCA_027568635.1	isolation_source	swab
+GCA_027568635.1	lat_lon	missing
+GCA_027568655.1	strain	ARG36502H1
+GCA_027568655.1	collected_by	NA
+GCA_027568655.1	collection_date	missing
+GCA_027568655.1	geo_loc_name	Argentina
+GCA_027568655.1	host	Homo sapiens
+GCA_027568655.1	host_disease	syphilis
+GCA_027568655.1	isolation_source	swab
+GCA_027568655.1	lat_lon	missing
+GCA_027568675.1	strain	ARG001GM
+GCA_027568675.1	collected_by	NA
+GCA_027568675.1	collection_date	missing
+GCA_027568675.1	geo_loc_name	Argentina
+GCA_027568675.1	host	Homo sapiens
+GCA_027568675.1	host_disease	syphilis
+GCA_027568675.1	isolation_source	swab
+GCA_027568675.1	lat_lon	missing
+GCA_027568695.1	strain	ARG36502H3
+GCA_027568695.1	collected_by	NA
+GCA_027568695.1	collection_date	missing
+GCA_027568695.1	geo_loc_name	Argentina
+GCA_027568695.1	host	Homo sapiens
+GCA_027568695.1	host_disease	syphilis
+GCA_027568695.1	isolation_source	swab
+GCA_027568695.1	lat_lon	missing
+GCA_027568715.1	strain	GSPAR0465GM
+GCA_027568715.1	collected_by	NA
+GCA_027568715.1	collection_date	missing
+GCA_027568715.1	geo_loc_name	Argentina
+GCA_027568715.1	host	Homo sapiens
+GCA_027568715.1	host_disease	syphilis
+GCA_027568715.1	isolation_source	swab
+GCA_027568715.1	lat_lon	missing
+GCA_027568735.1	strain	ARG90603H1
+GCA_027568735.1	collected_by	NA
+GCA_027568735.1	collection_date	missing
+GCA_027568735.1	geo_loc_name	Argentina
+GCA_027568735.1	host	Homo sapiens
+GCA_027568735.1	host_disease	syphilis
+GCA_027568735.1	isolation_source	swab
+GCA_027568735.1	lat_lon	missing
+GCA_027568755.1	strain	ARG62500H1
+GCA_027568755.1	collected_by	NA
+GCA_027568755.1	collection_date	missing
+GCA_027568755.1	geo_loc_name	Argentina
+GCA_027568755.1	host	Homo sapiens
+GCA_027568755.1	host_disease	syphilis
+GCA_027568755.1	isolation_source	swab
+GCA_027568755.1	lat_lon	missing
+GCA_027568775.1	strain	ARG98419H2
+GCA_027568775.1	collected_by	NA
+GCA_027568775.1	collection_date	missing
+GCA_027568775.1	geo_loc_name	Argentina
+GCA_027568775.1	host	Homo sapiens
+GCA_027568775.1	host_disease	syphilis
+GCA_027568775.1	isolation_source	swab
+GCA_027568775.1	lat_lon	missing
+GCA_027568795.1	strain	ARG95916H3
+GCA_027568795.1	collected_by	NA
+GCA_027568795.1	collection_date	missing
+GCA_027568795.1	geo_loc_name	Argentina
+GCA_027568795.1	host	Homo sapiens
+GCA_027568795.1	host_disease	syphilis
+GCA_027568795.1	isolation_source	swab
+GCA_027568795.1	lat_lon	missing
+GCA_027568815.1	strain	ARG93448H2
+GCA_027568815.1	collected_by	NA
+GCA_027568815.1	collection_date	missing
+GCA_027568815.1	geo_loc_name	Argentina
+GCA_027568815.1	host	Homo sapiens
+GCA_027568815.1	host_disease	syphilis
+GCA_027568815.1	isolation_source	swab
+GCA_027568815.1	lat_lon	missing
+GCA_027568835.1	strain	ARG74085H1
+GCA_027568835.1	collected_by	NA
+GCA_027568835.1	collection_date	missing
+GCA_027568835.1	geo_loc_name	Argentina
+GCA_027568835.1	host	Homo sapiens
+GCA_027568835.1	host_disease	syphilis
+GCA_027568835.1	isolation_source	swab
+GCA_027568835.1	lat_lon	missing
+GCA_027568855.1	strain	ARG55527H1
+GCA_027568855.1	collected_by	NA
+GCA_027568855.1	collection_date	missing
+GCA_027568855.1	geo_loc_name	Argentina
+GCA_027568855.1	host	Homo sapiens
+GCA_027568855.1	host_disease	syphilis
+GCA_027568855.1	isolation_source	swab
+GCA_027568855.1	lat_lon	missing
+GCA_027568875.1	strain	ARG66248H1
+GCA_027568875.1	collected_by	NA
+GCA_027568875.1	collection_date	missing
+GCA_027568875.1	geo_loc_name	Argentina
+GCA_027568875.1	host	Homo sapiens
+GCA_027568875.1	host_disease	syphilis
+GCA_027568875.1	isolation_source	swab
+GCA_027568875.1	lat_lon	missing
+GCA_027626055.1	collected_by	NA
+GCA_027626055.1	collection_date	2022
+GCA_027626055.1	geo_loc_name	USA
+GCA_027626055.1	host	Homo sapiens
+GCA_027626055.1	host_disease	syphilis
+GCA_027626055.1	isolation_source	swab
+GCA_027626055.1	lat_lon	missing
+GCA_027626055.1	strain	UW16057L
+GCA_027626075.1	collected_by	NA
+GCA_027626075.1	collection_date	2022
+GCA_027626075.1	geo_loc_name	USA
+GCA_027626075.1	host	Homo sapiens
+GCA_027626075.1	host_disease	syphilis
+GCA_027626075.1	isolation_source	swab
+GCA_027626075.1	lat_lon	missing
+GCA_027626075.1	strain	UW15977O
+GCA_027626095.1	strain	GSPAR0465OM
+GCA_027626095.1	collected_by	NA
+GCA_027626095.1	collection_date	missing
+GCA_027626095.1	geo_loc_name	Argentina
+GCA_027626095.1	host	Homo sapiens
+GCA_027626095.1	host_disease	syphilis
+GCA_027626095.1	isolation_source	swab
+GCA_027626095.1	lat_lon	missing
+GCA_027626115.1	strain	GSPAR0453OM
+GCA_027626115.1	collected_by	NA
+GCA_027626115.1	collection_date	missing
+GCA_027626115.1	geo_loc_name	Argentina
+GCA_027626115.1	host	Homo sapiens
+GCA_027626115.1	host_disease	syphilis
+GCA_027626115.1	isolation_source	swab
+GCA_027626115.1	lat_lon	missing
+GCA_027626135.1	strain	GSPAR0441CG
+GCA_027626135.1	collected_by	NA
+GCA_027626135.1	collection_date	missing
+GCA_027626135.1	geo_loc_name	Argentina
+GCA_027626135.1	host	Homo sapiens
+GCA_027626135.1	host_disease	syphilis
+GCA_027626135.1	isolation_source	swab
+GCA_027626135.1	lat_lon	missing
+GCA_027626155.1	strain	GSPAR043FCG
+GCA_027626155.1	collected_by	NA
+GCA_027626155.1	collection_date	missing
+GCA_027626155.1	geo_loc_name	Argentina
+GCA_027626155.1	host	Homo sapiens
+GCA_027626155.1	host_disease	syphilis
+GCA_027626155.1	isolation_source	swab
+GCA_027626155.1	lat_lon	missing
+GCA_027626175.1	strain	GSPAR042DCG
+GCA_027626175.1	collected_by	NA
+GCA_027626175.1	collection_date	missing
+GCA_027626175.1	geo_loc_name	Argentina
+GCA_027626175.1	host	Homo sapiens
+GCA_027626175.1	host_disease	syphilis
+GCA_027626175.1	isolation_source	swab
+GCA_027626175.1	lat_lon	missing
+GCA_027626195.1	strain	GSPAR0409PM
+GCA_027626195.1	collected_by	NA
+GCA_027626195.1	collection_date	missing
+GCA_027626195.1	geo_loc_name	Argentina
+GCA_027626195.1	host	Homo sapiens
+GCA_027626195.1	host_disease	syphilis
+GCA_027626195.1	isolation_source	swab
+GCA_027626195.1	lat_lon	missing
+GCA_027626215.1	strain	GSPAR0409GM
+GCA_027626215.1	collected_by	NA
+GCA_027626215.1	collection_date	missing
+GCA_027626215.1	geo_loc_name	Argentina
+GCA_027626215.1	host	Homo sapiens
+GCA_027626215.1	host_disease	syphilis
+GCA_027626215.1	isolation_source	swab
+GCA_027626215.1	lat_lon	missing
+GCA_027626235.1	strain	GSPAR0385OM
+GCA_027626235.1	collected_by	NA
+GCA_027626235.1	collection_date	missing
+GCA_027626235.1	geo_loc_name	Argentina
+GCA_027626235.1	host	Homo sapiens
+GCA_027626235.1	host_disease	syphilis
+GCA_027626235.1	isolation_source	swab
+GCA_027626235.1	lat_lon	missing
+GCA_027626255.1	strain	GSPAR037VCG
+GCA_027626255.1	collected_by	NA
+GCA_027626255.1	collection_date	missing
+GCA_027626255.1	geo_loc_name	Argentina
+GCA_027626255.1	host	Homo sapiens
+GCA_027626255.1	host_disease	syphilis
+GCA_027626255.1	isolation_source	swab
+GCA_027626255.1	lat_lon	missing
+GCA_027626275.1	strain	GSPAR033LVM
+GCA_027626275.1	collected_by	NA
+GCA_027626275.1	collection_date	missing
+GCA_027626275.1	geo_loc_name	Argentina
+GCA_027626275.1	host	Homo sapiens
+GCA_027626275.1	host_disease	syphilis
+GCA_027626275.1	isolation_source	swab
+GCA_027626275.1	lat_lon	missing
+GCA_027626295.1	strain	GSPAR032HPM
+GCA_027626295.1	collected_by	NA
+GCA_027626295.1	collection_date	missing
+GCA_027626295.1	geo_loc_name	Argentina
+GCA_027626295.1	host	Homo sapiens
+GCA_027626295.1	host_disease	syphilis
+GCA_027626295.1	isolation_source	swab
+GCA_027626295.1	lat_lon	missing
+GCA_027626315.1	strain	GSPAR031RPM
+GCA_027626315.1	collected_by	NA
+GCA_027626315.1	collection_date	missing
+GCA_027626315.1	geo_loc_name	Argentina
+GCA_027626315.1	host	Homo sapiens
+GCA_027626315.1	host_disease	syphilis
+GCA_027626315.1	isolation_source	swab
+GCA_027626315.1	lat_lon	missing
+GCA_027626335.1	strain	GSPAR031ROM
+GCA_027626335.1	collected_by	NA
+GCA_027626335.1	collection_date	missing
+GCA_027626335.1	geo_loc_name	Argentina
+GCA_027626335.1	host	Homo sapiens
+GCA_027626335.1	host_disease	syphilis
+GCA_027626335.1	isolation_source	swab
+GCA_027626335.1	lat_lon	missing
+GCA_027626355.1	strain	GSPAR031RIZ
+GCA_027626355.1	collected_by	NA
+GCA_027626355.1	collection_date	missing
+GCA_027626355.1	geo_loc_name	Argentina
+GCA_027626355.1	host	Homo sapiens
+GCA_027626355.1	host_disease	syphilis
+GCA_027626355.1	isolation_source	swab
+GCA_027626355.1	lat_lon	missing
+GCA_027626375.1	strain	GSPAR031RGM
+GCA_027626375.1	collected_by	NA
+GCA_027626375.1	collection_date	missing
+GCA_027626375.1	geo_loc_name	Argentina
+GCA_027626375.1	host	Homo sapiens
+GCA_027626375.1	host_disease	syphilis
+GCA_027626375.1	isolation_source	swab
+GCA_027626375.1	lat_lon	missing
+GCA_027626395.1	strain	GSPAR024TOM
+GCA_027626395.1	collected_by	NA
+GCA_027626395.1	collection_date	missing
+GCA_027626395.1	geo_loc_name	Argentina
+GCA_027626395.1	host	Homo sapiens
+GCA_027626395.1	host_disease	syphilis
+GCA_027626395.1	isolation_source	swab
+GCA_027626395.1	lat_lon	missing
+GCA_027626415.1	strain	GSPAR024TGM
+GCA_027626415.1	collected_by	NA
+GCA_027626415.1	collection_date	missing
+GCA_027626415.1	geo_loc_name	Argentina
+GCA_027626415.1	host	Homo sapiens
+GCA_027626415.1	host_disease	syphilis
+GCA_027626415.1	isolation_source	swab
+GCA_027626415.1	lat_lon	missing
+GCA_027626435.1	strain	GSPAR022NCG
+GCA_027626435.1	collected_by	NA
+GCA_027626435.1	collection_date	missing
+GCA_027626435.1	geo_loc_name	Argentina
+GCA_027626435.1	host	Homo sapiens
+GCA_027626435.1	host_disease	syphilis
+GCA_027626435.1	isolation_source	swab
+GCA_027626435.1	lat_lon	missing
+GCA_027626455.1	strain	GSPAR021LGM
+GCA_027626455.1	collected_by	NA
+GCA_027626455.1	collection_date	missing
+GCA_027626455.1	geo_loc_name	Argentina
+GCA_027626455.1	host	Homo sapiens
+GCA_027626455.1	host_disease	syphilis
+GCA_027626455.1	isolation_source	swab
+GCA_027626455.1	lat_lon	missing
+GCA_027626475.1	strain	GSPAR020HPM
+GCA_027626475.1	collected_by	NA
+GCA_027626475.1	collection_date	missing
+GCA_027626475.1	geo_loc_name	Argentina
+GCA_027626475.1	host	Homo sapiens
+GCA_027626475.1	host_disease	syphilis
+GCA_027626475.1	isolation_source	swab
+GCA_027626475.1	lat_lon	missing
+GCA_027626495.1	strain	GSPAR020HOM
+GCA_027626495.1	collected_by	NA
+GCA_027626495.1	collection_date	missing
+GCA_027626495.1	geo_loc_name	Argentina
+GCA_027626495.1	host	Homo sapiens
+GCA_027626495.1	host_disease	syphilis
+GCA_027626495.1	isolation_source	swab
+GCA_027626495.1	lat_lon	missing
+GCA_027626515.1	strain	GSPAR019FOM
+GCA_027626515.1	collected_by	NA
+GCA_027626515.1	collection_date	missing
+GCA_027626515.1	geo_loc_name	Argentina
+GCA_027626515.1	host	Homo sapiens
+GCA_027626515.1	host_disease	syphilis
+GCA_027626515.1	isolation_source	swab
+GCA_027626515.1	lat_lon	missing
+GCA_027626535.1	strain	GSPAR017LOM
+GCA_027626535.1	collected_by	NA
+GCA_027626535.1	collection_date	missing
+GCA_027626535.1	geo_loc_name	Argentina
+GCA_027626535.1	host	Homo sapiens
+GCA_027626535.1	host_disease	syphilis
+GCA_027626535.1	isolation_source	swab
+GCA_027626535.1	lat_lon	missing
+GCA_027626555.1	strain	GSPAR015ROM
+GCA_027626555.1	collected_by	NA
+GCA_027626555.1	collection_date	missing
+GCA_027626555.1	geo_loc_name	Argentina
+GCA_027626555.1	host	Homo sapiens
+GCA_027626555.1	host_disease	syphilis
+GCA_027626555.1	isolation_source	swab
+GCA_027626555.1	lat_lon	missing
+GCA_027626575.1	strain	GSPAR012TCG
+GCA_027626575.1	collected_by	NA
+GCA_027626575.1	collection_date	missing
+GCA_027626575.1	geo_loc_name	Argentina
+GCA_027626575.1	host	Homo sapiens
+GCA_027626575.1	host_disease	syphilis
+GCA_027626575.1	isolation_source	swab
+GCA_027626575.1	lat_lon	missing
+GCA_027626595.1	strain	GSPAR011ZOM
+GCA_027626595.1	collected_by	NA
+GCA_027626595.1	collection_date	missing
+GCA_027626595.1	geo_loc_name	Argentina
+GCA_027626595.1	host	Homo sapiens
+GCA_027626595.1	host_disease	syphilis
+GCA_027626595.1	isolation_source	swab
+GCA_027626595.1	lat_lon	missing
+GCA_027626615.1	strain	GSPAR010XCG
+GCA_027626615.1	collected_by	NA
+GCA_027626615.1	collection_date	missing
+GCA_027626615.1	geo_loc_name	Argentina
+GCA_027626615.1	host	Homo sapiens
+GCA_027626615.1	host_disease	syphilis
+GCA_027626615.1	isolation_source	swab
+GCA_027626615.1	lat_lon	missing
+GCA_027626635.1	strain	GSPAR009BOM
+GCA_027626635.1	collected_by	NA
+GCA_027626635.1	collection_date	missing
+GCA_027626635.1	geo_loc_name	Argentina
+GCA_027626635.1	host	Homo sapiens
+GCA_027626635.1	host_disease	syphilis
+GCA_027626635.1	isolation_source	swab
+GCA_027626635.1	lat_lon	missing
+GCA_027626655.1	strain	GSPAR006NOM
+GCA_027626655.1	collected_by	NA
+GCA_027626655.1	collection_date	missing
+GCA_027626655.1	geo_loc_name	Argentina
+GCA_027626655.1	host	Homo sapiens
+GCA_027626655.1	host_disease	syphilis
+GCA_027626655.1	isolation_source	swab
+GCA_027626655.1	lat_lon	missing
+GCA_027626675.1	strain	GSPAR005LPM
+GCA_027626675.1	collected_by	NA
+GCA_027626675.1	collection_date	missing
+GCA_027626675.1	geo_loc_name	Argentina
+GCA_027626675.1	host	Homo sapiens
+GCA_027626675.1	host_disease	syphilis
+GCA_027626675.1	isolation_source	swab
+GCA_027626675.1	lat_lon	missing
+GCA_027626695.1	strain	GSPAR004HOM
+GCA_027626695.1	collected_by	NA
+GCA_027626695.1	collection_date	missing
+GCA_027626695.1	geo_loc_name	Argentina
+GCA_027626695.1	host	Homo sapiens
+GCA_027626695.1	host_disease	syphilis
+GCA_027626695.1	isolation_source	swab
+GCA_027626695.1	lat_lon	missing
+GCA_027626715.1	strain	GSPAR004HOC
+GCA_027626715.1	collected_by	NA
+GCA_027626715.1	collection_date	missing
+GCA_027626715.1	geo_loc_name	Argentina
+GCA_027626715.1	host	Homo sapiens
+GCA_027626715.1	host_disease	syphilis
+GCA_027626715.1	isolation_source	swab
+GCA_027626715.1	lat_lon	missing
+GCA_027626735.1	strain	GSPAR001VPM
+GCA_027626735.1	collected_by	NA
+GCA_027626735.1	collection_date	missing
+GCA_027626735.1	geo_loc_name	Argentina
+GCA_027626735.1	host	Homo sapiens
+GCA_027626735.1	host_disease	syphilis
+GCA_027626735.1	isolation_source	swab
+GCA_027626735.1	lat_lon	missing
+GCA_027626755.1	strain	GSPAR001VOM
+GCA_027626755.1	collected_by	NA
+GCA_027626755.1	collection_date	missing
+GCA_027626755.1	geo_loc_name	Argentina
+GCA_027626755.1	host	Homo sapiens
+GCA_027626755.1	host_disease	syphilis
+GCA_027626755.1	isolation_source	swab
+GCA_027626755.1	lat_lon	missing
+GCA_027626775.1	strain	Brazil201
+GCA_027626775.1	collected_by	NA
+GCA_027626775.1	collection_date	2022
+GCA_027626775.1	geo_loc_name	Brazil
+GCA_027626775.1	host	Homo sapiens
+GCA_027626775.1	host_disease	syphilis
+GCA_027626775.1	isolation_source	swab
+GCA_027626775.1	lat_lon	missing
+GCA_027626795.1	strain	Brazil124
+GCA_027626795.1	collected_by	NA
+GCA_027626795.1	collection_date	2022
+GCA_027626795.1	geo_loc_name	Brazil
+GCA_027626795.1	host	Homo sapiens
+GCA_027626795.1	host_disease	syphilis
+GCA_027626795.1	isolation_source	swab
+GCA_027626795.1	lat_lon	missing
+GCA_027626815.1	strain	Brazil063
+GCA_027626815.1	collected_by	NA
+GCA_027626815.1	collection_date	2022
+GCA_027626815.1	geo_loc_name	Brazil
+GCA_027626815.1	host	Homo sapiens
+GCA_027626815.1	host_disease	syphilis
+GCA_027626815.1	isolation_source	swab
+GCA_027626815.1	lat_lon	missing
+GCA_027626835.1	strain	Brazil019
+GCA_027626835.1	collected_by	NA
+GCA_027626835.1	collection_date	2022
+GCA_027626835.1	geo_loc_name	Brazil
+GCA_027626835.1	host	Homo sapiens
+GCA_027626835.1	host_disease	syphilis
+GCA_027626835.1	isolation_source	swab
+GCA_027626835.1	lat_lon	missing
+GCA_027626855.1	strain	Brazil018
+GCA_027626855.1	collected_by	NA
+GCA_027626855.1	collection_date	2022
+GCA_027626855.1	geo_loc_name	Brazil
+GCA_027626855.1	host	Homo sapiens
+GCA_027626855.1	host_disease	syphilis
+GCA_027626855.1	isolation_source	swab
+GCA_027626855.1	lat_lon	missing
+GCA_027626875.1	strain	Brazil016
+GCA_027626875.1	collected_by	NA
+GCA_027626875.1	collection_date	2022
+GCA_027626875.1	geo_loc_name	Brazil
+GCA_027626875.1	host	Homo sapiens
+GCA_027626875.1	host_disease	syphilis
+GCA_027626875.1	isolation_source	swab
+GCA_027626875.1	lat_lon	missing
+GCA_027626895.1	strain	Brazil014
+GCA_027626895.1	collected_by	NA
+GCA_027626895.1	collection_date	2022
+GCA_027626895.1	geo_loc_name	Brazil
+GCA_027626895.1	host	Homo sapiens
+GCA_027626895.1	host_disease	syphilis
+GCA_027626895.1	isolation_source	swab
+GCA_027626895.1	lat_lon	missing
+GCA_027626915.1	strain	Brazil009
+GCA_027626915.1	collected_by	NA
+GCA_027626915.1	collection_date	2022
+GCA_027626915.1	geo_loc_name	Brazil
+GCA_027626915.1	host	Homo sapiens
+GCA_027626915.1	host_disease	syphilis
+GCA_027626915.1	isolation_source	swab
+GCA_027626915.1	lat_lon	missing
+GCA_027626935.1	strain	ARG002OM
+GCA_027626935.1	collected_by	NA
+GCA_027626935.1	collection_date	missing
+GCA_027626935.1	geo_loc_name	Argentina
+GCA_027626935.1	host	Homo sapiens
+GCA_027626935.1	host_disease	syphilis
+GCA_027626935.1	isolation_source	swab
+GCA_027626935.1	lat_lon	missing
+GCA_027626955.1	strain	95916H1
+GCA_027626955.1	collected_by	NA
+GCA_027626955.1	collection_date	missing
+GCA_027626955.1	geo_loc_name	Argentina
+GCA_027626955.1	host	Homo sapiens
+GCA_027626955.1	host_disease	syphilis
+GCA_027626955.1	isolation_source	swab
+GCA_027626955.1	lat_lon	missing
+GCA_028022675.1	collected_by	Institute of Pathological Anatomy of the Faculty of Medicine of the University of Strasbourg
+GCA_028022675.1	collection_date	1947
+GCA_028022675.1	geo_loc_name	France: Strasbourg
+GCA_028022675.1	host	Homo sapiens
+GCA_028022675.1	host_disease	Congenital Syphilis
+GCA_028022675.1	host_age	9 days
+GCA_028022675.1	host_disease_outcome	death
+GCA_028022675.1	host_sex	male
+GCA_028022675.1	sub_species	pallidum
+GCA_028022675.1	group	SS14
+GCA_028022675.1	isolate	missing
+GCA_028022675.1	isolation_source	autopsy case 6715 FFPE
+GCA_028022675.1	lat_lon	48.576000 N 7.747000 E
+GCA_028022675.1	strain	Strasbourg_6715
+GCA_029201305.1	strain	SS14
+GCA_029201305.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029201305.1	collection_date	2021
+GCA_029201305.1	geo_loc_name	not applicable
+GCA_029201305.1	host	Homo sapiens
+GCA_029201305.1	host_disease	Syphilis
+GCA_029201305.1	isolation_source	in vitro culture
+GCA_029201305.1	lat_lon	not applicable
+GCA_029201305.1	passage_history	Week10
+GCA_029201305.1	sample_type	coculture with SfEP1
+GCA_029201305.1	sub_species	pallidum
+GCA_029201305.1	isolate	Week10
+GCA_029201325.1	strain	SS14
+GCA_029201325.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029201325.1	collection_date	2021
+GCA_029201325.1	geo_loc_name	not applicable
+GCA_029201325.1	host	Homo sapiens
+GCA_029201325.1	host_disease	Syphilis
+GCA_029201325.1	isolation_source	in vitro culture
+GCA_029201325.1	lat_lon	not applicable
+GCA_029201325.1	passage_history	Week9
+GCA_029201325.1	sample_type	coculture with SfEP1
+GCA_029201325.1	sub_species	pallidum
+GCA_029201325.1	isolate	Week9
+GCA_029201345.1	strain	SS14
+GCA_029201345.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029201345.1	collection_date	2021
+GCA_029201345.1	geo_loc_name	not applicable
+GCA_029201345.1	host	Homo sapiens
+GCA_029201345.1	host_disease	Syphilis
+GCA_029201345.1	isolation_source	in vitro culture
+GCA_029201345.1	lat_lon	not applicable
+GCA_029201345.1	passage_history	Week8
+GCA_029201345.1	sample_type	coculture with SfEP1
+GCA_029201345.1	sub_species	pallidum
+GCA_029201345.1	isolate	Week8
+GCA_029201365.1	strain	SS14
+GCA_029201365.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029201365.1	collection_date	2021
+GCA_029201365.1	geo_loc_name	not applicable
+GCA_029201365.1	host	Homo sapiens
+GCA_029201365.1	host_disease	Syphilis
+GCA_029201365.1	isolation_source	in vitro culture
+GCA_029201365.1	lat_lon	not applicable
+GCA_029201365.1	passage_history	Week7
+GCA_029201365.1	sample_type	coculture with SfEP1
+GCA_029201365.1	sub_species	pallidum
+GCA_029201365.1	isolate	Week7
+GCA_029201385.1	strain	SS14
+GCA_029201385.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029201385.1	collection_date	2021
+GCA_029201385.1	geo_loc_name	not applicable
+GCA_029201385.1	host	Homo sapiens
+GCA_029201385.1	host_disease	Syphilis
+GCA_029201385.1	isolation_source	in vitro culture
+GCA_029201385.1	lat_lon	not applicable
+GCA_029201385.1	passage_history	Week4
+GCA_029201385.1	sample_type	coculture with SfEP1
+GCA_029201385.1	sub_species	pallidum
+GCA_029201385.1	isolate	Week4
+GCA_029201405.1	strain	SS14
+GCA_029201405.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029201405.1	collection_date	2021
+GCA_029201405.1	geo_loc_name	not applicable
+GCA_029201405.1	host	Homo sapiens
+GCA_029201405.1	host_disease	Syphilis
+GCA_029201405.1	isolation_source	in vitro culture
+GCA_029201405.1	lat_lon	not applicable
+GCA_029201405.1	passage_history	Week2
+GCA_029201405.1	sample_type	coculture with SfEP1
+GCA_029201405.1	sub_species	pallidum
+GCA_029201405.1	isolate	Week2
+GCA_029203245.1	strain	SS14
+GCA_029203245.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029203245.1	collection_date	2021
+GCA_029203245.1	geo_loc_name	not applicable
+GCA_029203245.1	host	Homo sapiens
+GCA_029203245.1	host_disease	Syphilis
+GCA_029203245.1	isolation_source	in vitro culture
+GCA_029203245.1	lat_lon	not applicable
+GCA_029203245.1	passage_history	Week1
+GCA_029203245.1	sample_type	coculture with SfEP1
+GCA_029203245.1	sub_species	pallidum
+GCA_029203245.1	isolate	Week1
+GCA_029203265.1	strain	SS14
+GCA_029203265.1	collected_by	Lorenzo Giacani, University of Washington
+GCA_029203265.1	collection_date	2021
+GCA_029203265.1	geo_loc_name	not applicable
+GCA_029203265.1	host	Homo sapiens
+GCA_029203265.1	host_disease	Syphilis
+GCA_029203265.1	isolation_source	in vitro culture
+GCA_029203265.1	lat_lon	not applicable
+GCA_029203265.1	passage_history	Week0_WT
+GCA_029203265.1	sample_type	coculture with SfEP1
+GCA_029203265.1	sub_species	pallidum
+GCA_029280605.1	strain	GSPLK0375G
+GCA_029280605.1	collected_by	NA
+GCA_029280605.1	collection_date	2022
+GCA_029280605.1	geo_loc_name	Sri Lanka
+GCA_029280605.1	host	Homo sapiens
+GCA_029280605.1	host_disease	syphilis
+GCA_029280605.1	isolation_source	swab
+GCA_029280605.1	lat_lon	missing
+GCA_029280625.1	strain	GSPLK029XG
+GCA_029280625.1	collected_by	NA
+GCA_029280625.1	collection_date	2022
+GCA_029280625.1	geo_loc_name	Sri Lanka
+GCA_029280625.1	host	Homo sapiens
+GCA_029280625.1	host_disease	syphilis
+GCA_029280625.1	isolation_source	swab
+GCA_029280625.1	lat_lon	missing
+GCA_029280645.1	strain	GSPLK028ZG
+GCA_029280645.1	collected_by	NA
+GCA_029280645.1	collection_date	2022
+GCA_029280645.1	geo_loc_name	Sri Lanka
+GCA_029280645.1	host	Homo sapiens
+GCA_029280645.1	host_disease	syphilis
+GCA_029280645.1	isolation_source	swab
+GCA_029280645.1	lat_lon	missing
+GCA_029280665.1	strain	GSPLK0263G
+GCA_029280665.1	collected_by	NA
+GCA_029280665.1	collection_date	2022
+GCA_029280665.1	geo_loc_name	Sri Lanka
+GCA_029280665.1	host	Homo sapiens
+GCA_029280665.1	host_disease	syphilis
+GCA_029280665.1	isolation_source	swab
+GCA_029280665.1	lat_lon	missing
+GCA_029280685.1	strain	GSPLK0247G
+GCA_029280685.1	collected_by	NA
+GCA_029280685.1	collection_date	2022
+GCA_029280685.1	geo_loc_name	Sri Lanka
+GCA_029280685.1	host	Homo sapiens
+GCA_029280685.1	host_disease	syphilis
+GCA_029280685.1	isolation_source	swab
+GCA_029280685.1	lat_lon	missing
+GCA_029280705.1	strain	GSPLK019HO
+GCA_029280705.1	collected_by	NA
+GCA_029280705.1	collection_date	2022
+GCA_029280705.1	geo_loc_name	Sri Lanka
+GCA_029280705.1	host	Homo sapiens
+GCA_029280705.1	host_disease	syphilis
+GCA_029280705.1	isolation_source	swab
+GCA_029280705.1	lat_lon	missing
+GCA_029280725.1	strain	GSPLK018LO
+GCA_029280725.1	collected_by	NA
+GCA_029280725.1	collection_date	2022
+GCA_029280725.1	geo_loc_name	Sri Lanka
+GCA_029280725.1	host	Homo sapiens
+GCA_029280725.1	host_disease	syphilis
+GCA_029280725.1	isolation_source	swab
+GCA_029280725.1	lat_lon	missing
+GCA_029280905.1	strain	GSPLK0159G
+GCA_029280905.1	collected_by	NA
+GCA_029280905.1	collection_date	2022
+GCA_029280905.1	geo_loc_name	Sri Lanka
+GCA_029280905.1	host	Homo sapiens
+GCA_029280905.1	host_disease	syphilis
+GCA_029280905.1	isolation_source	swab
+GCA_029280905.1	lat_lon	missing
+GCA_029281045.1	strain	GSPLK014BS
+GCA_029281045.1	collected_by	NA
+GCA_029281045.1	collection_date	2022
+GCA_029281045.1	geo_loc_name	Sri Lanka
+GCA_029281045.1	host	Homo sapiens
+GCA_029281045.1	host_disease	syphilis
+GCA_029281045.1	isolation_source	swab
+GCA_029281045.1	lat_lon	missing
+GCA_029281205.1	strain	GSPLK0111G
+GCA_029281205.1	collected_by	NA
+GCA_029281205.1	collection_date	2022
+GCA_029281205.1	geo_loc_name	Sri Lanka
+GCA_029281205.1	host	Homo sapiens
+GCA_029281205.1	host_disease	syphilis
+GCA_029281205.1	isolation_source	swab
+GCA_029281205.1	lat_lon	missing
+GCA_029281265.1	strain	GSPLK009NG
+GCA_029281265.1	collected_by	NA
+GCA_029281265.1	collection_date	2022
+GCA_029281265.1	geo_loc_name	Sri Lanka
+GCA_029281265.1	host	Homo sapiens
+GCA_029281265.1	host_disease	syphilis
+GCA_029281265.1	isolation_source	swab
+GCA_029281265.1	lat_lon	missing
+GCA_029281285.1	strain	GSPLK008RG
+GCA_029281285.1	collected_by	NA
+GCA_029281285.1	collection_date	2022
+GCA_029281285.1	geo_loc_name	Sri Lanka
+GCA_029281285.1	host	Homo sapiens
+GCA_029281285.1	host_disease	syphilis
+GCA_029281285.1	isolation_source	swab
+GCA_029281285.1	lat_lon	missing
+GCA_029281325.1	strain	GSPLK0079G
+GCA_029281325.1	collected_by	NA
+GCA_029281325.1	collection_date	2022
+GCA_029281325.1	geo_loc_name	Sri Lanka
+GCA_029281325.1	host	Homo sapiens
+GCA_029281325.1	host_disease	syphilis
+GCA_029281325.1	isolation_source	swab
+GCA_029281325.1	lat_lon	missing
+GCA_029281345.1	strain	GSPLK004FG
+GCA_029281345.1	collected_by	NA
+GCA_029281345.1	collection_date	2022
+GCA_029281345.1	geo_loc_name	Sri Lanka
+GCA_029281345.1	host	Homo sapiens
+GCA_029281345.1	host_disease	syphilis
+GCA_029281345.1	isolation_source	swab
+GCA_029281345.1	lat_lon	missing
+GCA_029281365.1	strain	GSPLK0023S
+GCA_029281365.1	collected_by	NA
+GCA_029281365.1	collection_date	2022
+GCA_029281365.1	geo_loc_name	Sri Lanka
+GCA_029281365.1	host	Homo sapiens
+GCA_029281365.1	host_disease	syphilis
+GCA_029281365.1	isolation_source	swab
+GCA_029281365.1	lat_lon	missing
+GCA_029281385.1	strain	GSPLK0015S
+GCA_029281385.1	collected_by	NA
+GCA_029281385.1	collection_date	2022
+GCA_029281385.1	geo_loc_name	Sri Lanka
+GCA_029281385.1	host	Homo sapiens
+GCA_029281385.1	host_disease	syphilis
+GCA_029281385.1	isolation_source	swab
+GCA_029281385.1	lat_lon	missing
+GCA_029866565.1	strain	19LMF8280815
+GCA_029866565.1	collected_by	DPZ Goettingen
+GCA_029866565.1	collection_date	2015-08-28
+GCA_029866565.1	geo_loc_name	Tanzania: Lake Manyara National Park
+GCA_029866565.1	host	Papio anubis
+GCA_029866565.1	host_disease	anogenital lesion
+GCA_029866565.1	isolation_source	skin
+GCA_029866565.1	lat_lon	missing
+GCA_029866565.1	host_sex	female
+GCA_029866565.1	sub_species	pertenue
+GCA_029866585.1	strain	6RUM2090716
+GCA_029866585.1	collected_by	DPZ Goettingen
+GCA_029866585.1	collection_date	2016-07-09
+GCA_029866585.1	geo_loc_name	Tanzania: Ruaha National Park
+GCA_029866585.1	host	Chlorocebus pygerythrus
+GCA_029866585.1	host_disease	anogenital lesion
+GCA_029866585.1	isolation_source	skin
+GCA_029866585.1	lat_lon	missing
+GCA_029866585.1	host_sex	male
+GCA_029866585.1	sub_species	pertenue
+GCA_029866605.1	strain	18NCF8220317
+GCA_029866605.1	collected_by	DPZ Goettingen
+GCA_029866605.1	collection_date	2017-03-22
+GCA_029866605.1	geo_loc_name	Tanzania: Ngorongoro Conservation Area
+GCA_029866605.1	host	Papio anubis
+GCA_029866605.1	host_disease	anogenital lesion
+GCA_029866605.1	isolation_source	skin
+GCA_029866605.1	lat_lon	missing
+GCA_029866605.1	host_sex	female
+GCA_029866605.1	sub_species	pertenue
+GCA_029866645.1	strain	7SNM5081115
+GCA_029866645.1	collected_by	DPZ Goettingen
+GCA_029866645.1	collection_date	2015-11-08
+GCA_029866645.1	geo_loc_name	Tanzania: Serengeti National Park
+GCA_029866645.1	host	Papio anubis
+GCA_029866645.1	host_disease	anogenital lesion
+GCA_029866645.1	isolation_source	skin
+GCA_029866645.1	lat_lon	missing
+GCA_029866645.1	host_sex	male
+GCA_029866645.1	sub_species	pertenue
+GCA_029866665.1	strain	32LMM2190317
+GCA_029866665.1	collected_by	DPZ Goettingen
+GCA_029866665.1	collection_date	2017-03-19
+GCA_029866665.1	geo_loc_name	Tanzania: Lake Manyara National Park
+GCA_029866665.1	host	Chlorocebus pygerythrus
+GCA_029866665.1	host_disease	anogenital lesion
+GCA_029866665.1	isolation_source	skin
+GCA_029866665.1	lat_lon	missing
+GCA_029866665.1	host_sex	male
+GCA_029866665.1	sub_species	pertenue
+GCA_029866685.1	strain	34LMM2190317
+GCA_029866685.1	collected_by	DPZ Goettingen
+GCA_029866685.1	collection_date	2017-03-19
+GCA_029866685.1	geo_loc_name	Tanzania: Lake Manyara National Park
+GCA_029866685.1	host	Chlorocebus pygerythrus
+GCA_029866685.1	host_disease	anogenital lesion
+GCA_029866685.1	isolation_source	skin
+GCA_029866685.1	lat_lon	missing
+GCA_029866685.1	host_sex	male
+GCA_029866685.1	sub_species	pertenue
+GCA_029866705.1	strain	22LMF5290815
+GCA_029866705.1	collected_by	DPZ Goettingen
+GCA_029866705.1	collection_date	2015-08-29
+GCA_029866705.1	geo_loc_name	Tanzania: Lake Manyara National Park
+GCA_029866705.1	host	Papio anubis
+GCA_029866705.1	host_disease	anogenital lesion
+GCA_029866705.1	isolation_source	skin
+GCA_029866705.1	lat_lon	missing
+GCA_029866705.1	host_sex	female
+GCA_029866705.1	sub_species	pertenue
+GCA_029866725.1	strain	24SNM5151115
+GCA_029866725.1	collected_by	DPZ Goettingen
+GCA_029866725.1	collection_date	2015-11-15
+GCA_029866725.1	geo_loc_name	Tanzania: Serengeti National Park
+GCA_029866725.1	host	Papio anubis
+GCA_029866725.1	host_disease	anogenital lesion
+GCA_029866725.1	isolation_source	skin
+GCA_029866725.1	lat_lon	missing
+GCA_029866725.1	host_sex	male
+GCA_029866725.1	sub_species	pertenue
+GCA_029866745.1	strain	11LMF5200815
+GCA_029866745.1	collected_by	DPZ Goettingen
+GCA_029866745.1	collection_date	2015-08-20
+GCA_029866745.1	geo_loc_name	Tanzania: Lake Manyara National Park
+GCA_029866745.1	host	Papio anubis
+GCA_029866745.1	host_disease	anogenital lesion
+GCA_029866745.1	isolation_source	swab
+GCA_029866745.1	lat_lon	missing
+GCA_029866745.1	host_sex	female
+GCA_029866745.1	sub_species	pertenue
+GCA_029866765.1	strain	49F8190407
+GCA_029866765.1	collected_by	DPZ Goettingen
+GCA_029866765.1	collection_date	2007-04-19
+GCA_029866765.1	geo_loc_name	Tanzania: Lake Manyara National Park
+GCA_029866765.1	host	Papio anubis
+GCA_029866765.1	host_disease	anogenital lesion
+GCA_029866765.1	isolation_source	skin
+GCA_029866765.1	lat_lon	missing
+GCA_029866765.1	host_sex	female
+GCA_029866765.1	sub_species	pertenue
+GCA_029958405.2	alternate_ID	Nichols
+GCA_029958405.2	collected_by	Mathew Golden
+GCA_029958405.2	collection_date	2021
+GCA_029958405.2	geo_loc_name	USA: Seattle, Washington
+GCA_029958405.2	host	Homo sapiens
+GCA_029958405.2	host_disease	Not Collected
+GCA_029958405.2	isolation_source	throat
+GCA_029958405.2	lat_lon	47.608013 N 122.335167 W
+GCA_029958405.2	strain	P-21-20045
+GCA_029958425.3	alternate_ID	Nichols
+GCA_029958425.3	collected_by	Mathew Golden
+GCA_029958425.3	collection_date	2022
+GCA_029958425.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958425.3	host	Homo sapiens
+GCA_029958425.3	host_disease	Not Collected
+GCA_029958425.3	isolation_source	Rectal
+GCA_029958425.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958425.3	strain	R-21-10122
+GCA_029958445.3	alternate_ID	SS14
+GCA_029958445.3	collected_by	Mathew Golden
+GCA_029958445.3	collection_date	2021
+GCA_029958445.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958445.3	host	Homo sapiens
+GCA_029958445.3	host_disease	Not Collected
+GCA_029958445.3	isolation_source	Vaginal
+GCA_029958445.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958445.3	strain	V-21-40015
+GCA_029958465.3	alternate_ID	SS14
+GCA_029958465.3	collected_by	Mathew Golden
+GCA_029958465.3	collection_date	2022
+GCA_029958465.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958465.3	host	Homo sapiens
+GCA_029958465.3	host_disease	Not Collected
+GCA_029958465.3	isolation_source	throat
+GCA_029958465.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958465.3	strain	P-22-20282
+GCA_029958485.3	alternate_ID	Nichols
+GCA_029958485.3	collected_by	Mathew Golden
+GCA_029958485.3	collection_date	2021
+GCA_029958485.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958485.3	host	Homo sapiens
+GCA_029958485.3	host_disease	Not Collected
+GCA_029958485.3	isolation_source	throat
+GCA_029958485.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958485.3	strain	P-21-20135
+GCA_029958505.3	alternate_ID	SS14
+GCA_029958505.3	collected_by	Mathew Golden
+GCA_029958505.3	collection_date	2021
+GCA_029958505.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958505.3	host	Homo sapiens
+GCA_029958505.3	host_disease	Not Collected
+GCA_029958505.3	isolation_source	Vaginal
+GCA_029958505.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958505.3	strain	V-21-40014
+GCA_029958525.3	alternate_ID	Nichols
+GCA_029958525.3	collected_by	Tara Reid
+GCA_029958525.3	collection_date	2022
+GCA_029958525.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958525.3	host	Homo sapiens
+GCA_029958525.3	host_disease	Not Collected
+GCA_029958525.3	isolation_source	Lesion
+GCA_029958525.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958525.3	strain	UW15993L
+GCA_029958545.3	alternate_ID	Nichols
+GCA_029958545.3	collected_by	Mathew Golden
+GCA_029958545.3	collection_date	2022
+GCA_029958545.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958545.3	host	Homo sapiens
+GCA_029958545.3	host_disease	Not Collected
+GCA_029958545.3	isolation_source	throat
+GCA_029958545.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958545.3	strain	P-22-20168
+GCA_029958565.3	alternate_ID	Nichols
+GCA_029958565.3	collected_by	Mathew Golden
+GCA_029958565.3	collection_date	2021
+GCA_029958565.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958565.3	host	Homo sapiens
+GCA_029958565.3	host_disease	Not Collected
+GCA_029958565.3	isolation_source	throat
+GCA_029958565.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958565.3	strain	P-21-20167
+GCA_029958585.3	alternate_ID	Nichols
+GCA_029958585.3	collected_by	Mathew Golden
+GCA_029958585.3	collection_date	2021
+GCA_029958585.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958585.3	host	Homo sapiens
+GCA_029958585.3	host_disease	Not Collected
+GCA_029958585.3	isolation_source	Rectal
+GCA_029958585.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958585.3	strain	R-21-10099
+GCA_029958605.3	alternate_ID	Nichols
+GCA_029958605.3	collected_by	Mathew Golden
+GCA_029958605.3	collection_date	2021
+GCA_029958605.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958605.3	host	Homo sapiens
+GCA_029958605.3	host_disease	Not Collected
+GCA_029958605.3	isolation_source	Rectal
+GCA_029958605.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958605.3	strain	R-21-10111
+GCA_029958625.3	alternate_ID	Nichols
+GCA_029958625.3	collected_by	Mathew Golden
+GCA_029958625.3	collection_date	2022
+GCA_029958625.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958625.3	host	Homo sapiens
+GCA_029958625.3	host_disease	Not Collected
+GCA_029958625.3	isolation_source	throat
+GCA_029958625.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958625.3	strain	P-22-20227
+GCA_029958645.3	alternate_ID	Nichols
+GCA_029958645.3	collected_by	Mathew Golden
+GCA_029958645.3	collection_date	2022
+GCA_029958645.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958645.3	host	Homo sapiens
+GCA_029958645.3	host_disease	Not Collected
+GCA_029958645.3	isolation_source	throat
+GCA_029958645.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958645.3	strain	P-22-20006
+GCA_029958665.3	alternate_ID	Nichols
+GCA_029958665.3	collected_by	Mathew Golden
+GCA_029958665.3	collection_date	2021
+GCA_029958665.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958665.3	host	Homo sapiens
+GCA_029958665.3	host_disease	Not Collected
+GCA_029958665.3	isolation_source	throat
+GCA_029958665.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958665.3	strain	P-21-20119
+GCA_029958685.3	alternate_ID	Nichols
+GCA_029958685.3	collected_by	Mathew Golden
+GCA_029958685.3	collection_date	2022
+GCA_029958685.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958685.3	host	Homo sapiens
+GCA_029958685.3	host_disease	Not Collected
+GCA_029958685.3	isolation_source	Rectal
+GCA_029958685.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958685.3	strain	R-22-10139
+GCA_029958705.3	alternate_ID	Nichols
+GCA_029958705.3	collected_by	Mathew Golden
+GCA_029958705.3	collection_date	2022
+GCA_029958705.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958705.3	host	Homo sapiens
+GCA_029958705.3	host_disease	Not Collected
+GCA_029958705.3	isolation_source	throat
+GCA_029958705.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958705.3	strain	P-22-20198
+GCA_029958725.3	alternate_ID	SS14
+GCA_029958725.3	collected_by	Mathew Golden
+GCA_029958725.3	collection_date	2021
+GCA_029958725.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958725.3	host	Homo sapiens
+GCA_029958725.3	host_disease	Not Collected
+GCA_029958725.3	isolation_source	Rectal
+GCA_029958725.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958725.3	strain	R-21-10052
+GCA_029958745.3	alternate_ID	SS14
+GCA_029958745.3	collected_by	Mathew Golden
+GCA_029958745.3	collection_date	2021
+GCA_029958745.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958745.3	host	Homo sapiens
+GCA_029958745.3	host_disease	Not Collected
+GCA_029958745.3	isolation_source	Rectal
+GCA_029958745.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958745.3	strain	R-21-10091
+GCA_029958765.3	alternate_ID	SS14
+GCA_029958765.3	collected_by	Mathew Golden
+GCA_029958765.3	collection_date	2021
+GCA_029958765.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958765.3	host	Homo sapiens
+GCA_029958765.3	host_disease	Not Collected
+GCA_029958765.3	isolation_source	Vaginal
+GCA_029958765.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958765.3	strain	V-21-40005
+GCA_029958785.3	alternate_ID	SS14
+GCA_029958785.3	collected_by	Mathew Golden
+GCA_029958785.3	collection_date	2021
+GCA_029958785.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958785.3	host	Homo sapiens
+GCA_029958785.3	host_disease	Not Collected
+GCA_029958785.3	isolation_source	Vaginal
+GCA_029958785.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958785.3	strain	V-21-40001
+GCA_029958805.3	alternate_ID	SS14
+GCA_029958805.3	collected_by	Tara Reid
+GCA_029958805.3	collection_date	2021
+GCA_029958805.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958805.3	host	Homo sapiens
+GCA_029958805.3	host_disease	Not Collected
+GCA_029958805.3	isolation_source	Lesion
+GCA_029958805.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958805.3	strain	UW15970L
+GCA_029958825.3	alternate_ID	SS14
+GCA_029958825.3	collected_by	Mathew Golden
+GCA_029958825.3	collection_date	2022
+GCA_029958825.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958825.3	host	Homo sapiens
+GCA_029958825.3	host_disease	Not Collected
+GCA_029958825.3	isolation_source	Rectal
+GCA_029958825.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958825.3	strain	R-22-10209
+GCA_029958845.3	alternate_ID	SS14
+GCA_029958845.3	collected_by	Mathew Golden
+GCA_029958845.3	collection_date	2021
+GCA_029958845.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958845.3	host	Homo sapiens
+GCA_029958845.3	host_disease	Not Collected
+GCA_029958845.3	isolation_source	throat
+GCA_029958845.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958845.3	strain	P-21-20120
+GCA_029958865.3	alternate_ID	SS14
+GCA_029958865.3	collected_by	Mathew Golden
+GCA_029958865.3	collection_date	2021
+GCA_029958865.3	geo_loc_name	USA: Seattle, Washington
+GCA_029958865.3	host	Homo sapiens
+GCA_029958865.3	host_disease	Not Collected
+GCA_029958865.3	isolation_source	throat
+GCA_029958865.3	lat_lon	47.608013 N 122.335167 W
+GCA_029958865.3	strain	P-21-20116
+GCA_030008115.1	strain	GSPAR096KPC
+GCA_030008115.1	collected_by	NA
+GCA_030008115.1	collection_date	missing
+GCA_030008115.1	geo_loc_name	Argentina
+GCA_030008115.1	host	Homo sapiens
+GCA_030008115.1	host_disease	syphilis
+GCA_030008115.1	isolation_source	swab
+GCA_030008115.1	lat_lon	missing
+GCA_030008135.1	strain	GSPAR096KOM
+GCA_030008135.1	collected_by	NA
+GCA_030008135.1	collection_date	missing
+GCA_030008135.1	geo_loc_name	Argentina
+GCA_030008135.1	host	Homo sapiens
+GCA_030008135.1	host_disease	syphilis
+GCA_030008135.1	isolation_source	swab
+GCA_030008135.1	lat_lon	missing
+GCA_030008155.1	strain	GSPAR095MSL
+GCA_030008155.1	collected_by	NA
+GCA_030008155.1	collection_date	missing
+GCA_030008155.1	geo_loc_name	Argentina
+GCA_030008155.1	host	Homo sapiens
+GCA_030008155.1	host_disease	syphilis
+GCA_030008155.1	isolation_source	swab
+GCA_030008155.1	lat_lon	missing
+GCA_030008175.1	strain	GSPAR095MPS
+GCA_030008175.1	collected_by	NA
+GCA_030008175.1	collection_date	missing
+GCA_030008175.1	geo_loc_name	Argentina
+GCA_030008175.1	host	Homo sapiens
+GCA_030008175.1	host_disease	syphilis
+GCA_030008175.1	isolation_source	swab
+GCA_030008175.1	lat_lon	missing
+GCA_030008195.1	strain	GSPAR093SOM
+GCA_030008195.1	collected_by	NA
+GCA_030008195.1	collection_date	missing
+GCA_030008195.1	geo_loc_name	Argentina
+GCA_030008195.1	host	Homo sapiens
+GCA_030008195.1	host_disease	syphilis
+GCA_030008195.1	isolation_source	swab
+GCA_030008195.1	lat_lon	missing
+GCA_030008215.1	strain	GSPAR093SGS
+GCA_030008215.1	collected_by	NA
+GCA_030008215.1	collection_date	missing
+GCA_030008215.1	geo_loc_name	Argentina
+GCA_030008215.1	host	Homo sapiens
+GCA_030008215.1	host_disease	syphilis
+GCA_030008215.1	isolation_source	swab
+GCA_030008215.1	lat_lon	missing
+GCA_030008235.1	strain	GSPAR092UPS
+GCA_030008235.1	collected_by	NA
+GCA_030008235.1	collection_date	missing
+GCA_030008235.1	geo_loc_name	Argentina
+GCA_030008235.1	host	Homo sapiens
+GCA_030008235.1	host_disease	syphilis
+GCA_030008235.1	isolation_source	swab
+GCA_030008235.1	lat_lon	missing
+GCA_030008255.1	strain	GSPAR092UOM
+GCA_030008255.1	collected_by	NA
+GCA_030008255.1	collection_date	missing
+GCA_030008255.1	geo_loc_name	Argentina
+GCA_030008255.1	host	Homo sapiens
+GCA_030008255.1	host_disease	syphilis
+GCA_030008255.1	isolation_source	swab
+GCA_030008255.1	lat_lon	missing
+GCA_030008275.1	strain	GSPAR087MOM
+GCA_030008275.1	collected_by	NA
+GCA_030008275.1	collection_date	missing
+GCA_030008275.1	geo_loc_name	Argentina
+GCA_030008275.1	host	Homo sapiens
+GCA_030008275.1	host_disease	syphilis
+GCA_030008275.1	isolation_source	swab
+GCA_030008275.1	lat_lon	missing
+GCA_030008295.1	strain	GSPAR083WGS
+GCA_030008295.1	collected_by	NA
+GCA_030008295.1	collection_date	missing
+GCA_030008295.1	geo_loc_name	Argentina
+GCA_030008295.1	host	Homo sapiens
+GCA_030008295.1	host_disease	syphilis
+GCA_030008295.1	isolation_source	swab
+GCA_030008295.1	lat_lon	missing
+GCA_030008315.1	strain	GSPAR082YP
+GCA_030008315.1	collected_by	NA
+GCA_030008315.1	collection_date	missing
+GCA_030008315.1	geo_loc_name	Argentina
+GCA_030008315.1	host	Homo sapiens
+GCA_030008315.1	host_disease	syphilis
+GCA_030008315.1	isolation_source	swab
+GCA_030008315.1	lat_lon	missing
+GCA_030008335.1	strain	GSPAR0769GS
+GCA_030008335.1	collected_by	NA
+GCA_030008335.1	collection_date	missing
+GCA_030008335.1	geo_loc_name	Argentina
+GCA_030008335.1	host	Homo sapiens
+GCA_030008335.1	host_disease	syphilis
+GCA_030008335.1	isolation_source	swab
+GCA_030008335.1	lat_lon	missing
+GCA_030008435.1	strain	GSPAR0721PS
+GCA_030008435.1	collected_by	NA
+GCA_030008435.1	collection_date	missing
+GCA_030008435.1	geo_loc_name	Argentina
+GCA_030008435.1	host	Homo sapiens
+GCA_030008435.1	host_disease	syphilis
+GCA_030008435.1	isolation_source	swab
+GCA_030008435.1	lat_lon	missing
+GCA_030008555.1	strain	GSPAR0721OM
+GCA_030008555.1	collected_by	NA
+GCA_030008555.1	collection_date	missing
+GCA_030008555.1	geo_loc_name	Argentina
+GCA_030008555.1	host	Homo sapiens
+GCA_030008555.1	host_disease	syphilis
+GCA_030008555.1	isolation_source	swab
+GCA_030008555.1	lat_lon	missing
+GCA_030008655.1	strain	GSPAR0721GS
+GCA_030008655.1	collected_by	NA
+GCA_030008655.1	collection_date	missing
+GCA_030008655.1	geo_loc_name	Argentina
+GCA_030008655.1	host	Homo sapiens
+GCA_030008655.1	host_disease	syphilis
+GCA_030008655.1	isolation_source	swab
+GCA_030008655.1	lat_lon	missing
+GCA_030008675.1	strain	GSPAR0705OM
+GCA_030008675.1	collected_by	NA
+GCA_030008675.1	collection_date	missing
+GCA_030008675.1	geo_loc_name	Argentina
+GCA_030008675.1	host	Homo sapiens
+GCA_030008675.1	host_disease	syphilis
+GCA_030008675.1	isolation_source	swab
+GCA_030008675.1	lat_lon	missing
+GCA_030008695.1	strain	GSPAR065BP
+GCA_030008695.1	collected_by	NA
+GCA_030008695.1	collection_date	missing
+GCA_030008695.1	geo_loc_name	Argentina
+GCA_030008695.1	host	Homo sapiens
+GCA_030008695.1	host_disease	syphilis
+GCA_030008695.1	isolation_source	swab
+GCA_030008695.1	lat_lon	missing
+GCA_030008715.1	strain	GSPAR0601OM
+GCA_030008715.1	collected_by	NA
+GCA_030008715.1	collection_date	missing
+GCA_030008715.1	geo_loc_name	Argentina
+GCA_030008715.1	host	Homo sapiens
+GCA_030008715.1	host_disease	syphilis
+GCA_030008715.1	isolation_source	swab
+GCA_030008715.1	lat_lon	missing
+GCA_030008735.1	strain	GSPAR059ZGM
+GCA_030008735.1	collected_by	NA
+GCA_030008735.1	collection_date	missing
+GCA_030008735.1	geo_loc_name	Argentina
+GCA_030008735.1	host	Homo sapiens
+GCA_030008735.1	host_disease	syphilis
+GCA_030008735.1	isolation_source	swab
+GCA_030008735.1	lat_lon	missing
+GCA_030008755.1	strain	GSPAR058XPS
+GCA_030008755.1	collected_by	NA
+GCA_030008755.1	collection_date	missing
+GCA_030008755.1	geo_loc_name	Argentina
+GCA_030008755.1	host	Homo sapiens
+GCA_030008755.1	host_disease	syphilis
+GCA_030008755.1	isolation_source	swab
+GCA_030008755.1	lat_lon	missing
+GCA_030008775.1	strain	GSPAR053BOM
+GCA_030008775.1	collected_by	NA
+GCA_030008775.1	collection_date	missing
+GCA_030008775.1	geo_loc_name	Argentina
+GCA_030008775.1	host	Homo sapiens
+GCA_030008775.1	host_disease	syphilis
+GCA_030008775.1	isolation_source	swab
+GCA_030008775.1	lat_lon	missing
+GCA_030008795.1	strain	ARG132095H2
+GCA_030008795.1	collected_by	NA
+GCA_030008795.1	collection_date	missing
+GCA_030008795.1	geo_loc_name	Argentina
+GCA_030008795.1	host	Homo sapiens
+GCA_030008795.1	host_disease	syphilis
+GCA_030008795.1	isolation_source	swab
+GCA_030008795.1	lat_lon	missing
+GCA_030028295.2	collected_by	NA
+GCA_030028295.2	collection_date	2021
+GCA_030028295.2	geo_loc_name	USA
+GCA_030028295.2	host	Homo sapiens
+GCA_030028295.2	host_disease	syphilis
+GCA_030028295.2	isolation_source	swab
+GCA_030028295.2	lat_lon	missing
+GCA_030028295.2	strain	UW15939
+GCA_030028315.2	collected_by	NA
+GCA_030028315.2	collection_date	2021
+GCA_030028315.2	geo_loc_name	USA
+GCA_030028315.2	host	Homo sapiens
+GCA_030028315.2	host_disease	syphilis
+GCA_030028315.2	isolation_source	swab
+GCA_030028315.2	lat_lon	missing
+GCA_030028315.2	strain	UW15953
+GCA_030384625.1	strain	UAB09TUH034
+GCA_030384625.1	collected_by	NA
+GCA_030384625.1	collection_date	2021
+GCA_030384625.1	geo_loc_name	USA
+GCA_030384625.1	host	Homo sapiens
+GCA_030384625.1	host_disease	syphilis
+GCA_030384625.1	isolation_source	swab
+GCA_030384625.1	lat_lon	missing
+GCA_030384645.1	strain	EM211ph
+GCA_030384645.1	collected_by	NA
+GCA_030384645.1	collection_date	2021
+GCA_030384645.1	geo_loc_name	USA
+GCA_030384645.1	host	Homo sapiens
+GCA_030384645.1	host_disease	syphilis
+GCA_030384645.1	isolation_source	swab
+GCA_030384645.1	lat_lon	missing
+GCA_030451325.1	collected_by	Gary Wormser
+GCA_030451325.1	collection_date	2021-11
+GCA_030451325.1	geo_loc_name	USA: Orange county, New York
+GCA_030451325.1	host	Homo sapiens
+GCA_030451325.1	host_disease	Syphilis
+GCA_030451325.1	isolation_source	Mouth chancre
+GCA_030451325.1	lat_lon	41.3912 N 74.3118 W
+GCA_030451325.1	host_age	39
+GCA_030451325.1	host_health_state	HIV-negative
+GCA_030451325.1	host_sex	female
+GCA_030451325.1	host_tissue_sampled	tongue
+GCA_030451325.1	sub_species	pallidum
+GCA_030451325.1	strain	NYMC01
+GCA_032599045.1	strain	WiscTPLN
+GCA_032599045.1	collected_by	NA
+GCA_032599045.1	collection_date	missing
+GCA_032599045.1	geo_loc_name	USA: Wisconsin
+GCA_032599045.1	host	Homo sapiens
+GCA_032599045.1	host_disease	syphils
+GCA_032599045.1	isolation_source	lymph node
+GCA_032599045.1	lat_lon	missing
+GCA_032599245.1	strain	SIFI60
+GCA_032599245.1	collected_by	NA
+GCA_032599245.1	collection_date	2022
+GCA_032599245.1	geo_loc_name	Spain
+GCA_032599245.1	host	Homo sapiens
+GCA_032599245.1	host_disease	syphilis
+GCA_032599245.1	isolation_source	swab
+GCA_032599245.1	lat_lon	missing
+GCA_032599285.1	strain	SIFI51
+GCA_032599285.1	collected_by	NA
+GCA_032599285.1	collection_date	2022
+GCA_032599285.1	geo_loc_name	Spain
+GCA_032599285.1	host	Homo sapiens
+GCA_032599285.1	host_disease	syphilis
+GCA_032599285.1	isolation_source	swab
+GCA_032599285.1	lat_lon	missing
+GCA_032599305.1	strain	SIFI36
+GCA_032599305.1	collected_by	NA
+GCA_032599305.1	collection_date	2022
+GCA_032599305.1	geo_loc_name	Spain
+GCA_032599305.1	host	Homo sapiens
+GCA_032599305.1	host_disease	syphilis
+GCA_032599305.1	isolation_source	swab
+GCA_032599305.1	lat_lon	missing
+GCA_032599325.1	strain	SIFI28
+GCA_032599325.1	collected_by	NA
+GCA_032599325.1	collection_date	2022
+GCA_032599325.1	geo_loc_name	Spain
+GCA_032599325.1	host	Homo sapiens
+GCA_032599325.1	host_disease	syphilis
+GCA_032599325.1	isolation_source	swab
+GCA_032599325.1	lat_lon	missing
+GCA_032599365.1	strain	SIFI26
+GCA_032599365.1	collected_by	NA
+GCA_032599365.1	collection_date	2022
+GCA_032599365.1	geo_loc_name	Spain
+GCA_032599365.1	host	Homo sapiens
+GCA_032599365.1	host_disease	syphilis
+GCA_032599365.1	isolation_source	swab
+GCA_032599365.1	lat_lon	missing
+GCA_032600165.1	strain	SIFI15
+GCA_032600165.1	collected_by	NA
+GCA_032600165.1	collection_date	2022
+GCA_032600165.1	geo_loc_name	Spain
+GCA_032600165.1	host	Homo sapiens
+GCA_032600165.1	host_disease	syphilis
+GCA_032600165.1	isolation_source	swab
+GCA_032600165.1	lat_lon	missing
+GCA_032918045.1	strain	SIFI57
+GCA_032918045.1	collected_by	NA
+GCA_032918045.1	collection_date	2022
+GCA_032918045.1	geo_loc_name	Spain
+GCA_032918045.1	host	Homo sapiens
+GCA_032918045.1	host_disease	syphilis
+GCA_032918045.1	isolation_source	swab
+GCA_032918045.1	lat_lon	missing
+GCA_032918065.1	strain	SIFI8
+GCA_032918065.1	collected_by	NA
+GCA_032918065.1	collection_date	2022
+GCA_032918065.1	geo_loc_name	Spain
+GCA_032918065.1	host	Homo sapiens
+GCA_032918065.1	host_disease	syphilis
+GCA_032918065.1	isolation_source	swab
+GCA_032918065.1	lat_lon	missing
+GCA_032918085.1	strain	SIFI39
+GCA_032918085.1	collected_by	NA
+GCA_032918085.1	collection_date	2022
+GCA_032918085.1	geo_loc_name	Spain
+GCA_032918085.1	host	Homo sapiens
+GCA_032918085.1	host_disease	syphilis
+GCA_032918085.1	isolation_source	swab
+GCA_032918085.1	lat_lon	missing
+GCA_032918105.1	strain	SIFI31
+GCA_032918105.1	collected_by	NA
+GCA_032918105.1	collection_date	2022
+GCA_032918105.1	geo_loc_name	Spain
+GCA_032918105.1	host	Homo sapiens
+GCA_032918105.1	host_disease	syphilis
+GCA_032918105.1	isolation_source	swab
+GCA_032918105.1	lat_lon	missing
+GCA_032918125.1	strain	SIFI25
+GCA_032918125.1	collected_by	NA
+GCA_032918125.1	collection_date	2022
+GCA_032918125.1	geo_loc_name	Spain
+GCA_032918125.1	host	Homo sapiens
+GCA_032918125.1	host_disease	syphilis
+GCA_032918125.1	isolation_source	swab
+GCA_032918125.1	lat_lon	missing
+GCA_034093335.1	strain	W043
+GCA_034093335.1	collected_by	UW
+GCA_034093335.1	collection_date	2022
+GCA_034093335.1	geo_loc_name	USA
+GCA_034093335.1	host	Homo sapiens
+GCA_034093335.1	host_disease	syphilis
+GCA_034093335.1	isolation_source	patient sample
+GCA_034093335.1	lat_lon	NA
+GCA_034093335.1	sub_species	pallidum
+GCA_034093355.1	strain	SF946745
+GCA_034093355.1	collected_by	NA
+GCA_034093355.1	collection_date	2018
+GCA_034093355.1	geo_loc_name	USA
+GCA_034093355.1	host	Homo sapiens
+GCA_034093355.1	host_disease	syphilis
+GCA_034093355.1	isolation_source	swab
+GCA_034093355.1	lat_lon	missing
+GCA_034093375.1	strain	V160
+GCA_034093375.1	collected_by	UW
+GCA_034093375.1	collection_date	2022
+GCA_034093375.1	geo_loc_name	USA
+GCA_034093375.1	host	Homo sapiens
+GCA_034093375.1	host_disease	syphilis
+GCA_034093375.1	isolation_source	patient sample
+GCA_034093375.1	lat_lon	NA
+GCA_034093375.1	sub_species	pallidum
+GCA_034093395.1	strain	SF758385
+GCA_034093395.1	collected_by	NA
+GCA_034093395.1	collection_date	2017
+GCA_034093395.1	geo_loc_name	USA
+GCA_034093395.1	host	Homo sapiens
+GCA_034093395.1	host_disease	syphilis
+GCA_034093395.1	isolation_source	swab
+GCA_034093395.1	lat_lon	missing
+GCA_034093415.1	strain	SF825260
+GCA_034093415.1	collected_by	NA
+GCA_034093415.1	collection_date	2019
+GCA_034093415.1	geo_loc_name	USA
+GCA_034093415.1	host	Homo sapiens
+GCA_034093415.1	host_disease	syphilis
+GCA_034093415.1	isolation_source	swab
+GCA_034093415.1	lat_lon	missing
+GCA_034093435.1	strain	SF827497
+GCA_034093435.1	collected_by	NA
+GCA_034093435.1	collection_date	2019
+GCA_034093435.1	geo_loc_name	USA
+GCA_034093435.1	host	Homo sapiens
+GCA_034093435.1	host_disease	syphilis
+GCA_034093435.1	isolation_source	swab
+GCA_034093435.1	lat_lon	missing
+GCA_034093455.1	strain	Q035
+GCA_034093455.1	collected_by	UW
+GCA_034093455.1	collection_date	2022
+GCA_034093455.1	geo_loc_name	USA
+GCA_034093455.1	host	Homo sapiens
+GCA_034093455.1	host_disease	syphilis
+GCA_034093455.1	isolation_source	patient sample
+GCA_034093455.1	lat_lon	NA
+GCA_034093455.1	sub_species	pallidum
+GCA_034093955.1	strain	SF520685
+GCA_034093955.1	collected_by	NA
+GCA_034093955.1	collection_date	2019
+GCA_034093955.1	geo_loc_name	USA
+GCA_034093955.1	host	Homo sapiens
+GCA_034093955.1	host_disease	syphilis
+GCA_034093955.1	isolation_source	swab
+GCA_034093955.1	lat_lon	missing
+GCA_034095755.1	strain	SF731663
+GCA_034095755.1	collected_by	NA
+GCA_034095755.1	collection_date	2017
+GCA_034095755.1	geo_loc_name	USA
+GCA_034095755.1	host	Homo sapiens
+GCA_034095755.1	host_disease	syphilis
+GCA_034095755.1	isolation_source	swab
+GCA_034095755.1	lat_lon	missing
+GCA_034096755.1	strain	SF722867
+GCA_034096755.1	collected_by	NA
+GCA_034096755.1	collection_date	2017
+GCA_034096755.1	geo_loc_name	USA
+GCA_034096755.1	host	Homo sapiens
+GCA_034096755.1	host_disease	syphilis
+GCA_034096755.1	isolation_source	swab
+GCA_034096755.1	lat_lon	missing
+GCA_034096775.1	strain	SF604657
+GCA_034096775.1	collected_by	NA
+GCA_034096775.1	collection_date	2017
+GCA_034096775.1	geo_loc_name	USA
+GCA_034096775.1	host	Homo sapiens
+GCA_034096775.1	host_disease	syphilis
+GCA_034096775.1	isolation_source	swab
+GCA_034096775.1	lat_lon	missing
+GCA_034096795.1	strain	SF713496
+GCA_034096795.1	collected_by	NA
+GCA_034096795.1	collection_date	2017
+GCA_034096795.1	geo_loc_name	USA
+GCA_034096795.1	host	Homo sapiens
+GCA_034096795.1	host_disease	syphilis
+GCA_034096795.1	isolation_source	swab
+GCA_034096795.1	lat_lon	missing
+GCA_034096825.1	strain	SF706030
+GCA_034096825.1	collected_by	NA
+GCA_034096825.1	collection_date	2018
+GCA_034096825.1	geo_loc_name	USA
+GCA_034096825.1	host	Homo sapiens
+GCA_034096825.1	host_disease	syphilis
+GCA_034096825.1	isolation_source	swab
+GCA_034096825.1	lat_lon	missing
+GCA_034096845.1	strain	SF668087
+GCA_034096845.1	collected_by	NA
+GCA_034096845.1	collection_date	2017
+GCA_034096845.1	geo_loc_name	USA
+GCA_034096845.1	host	Homo sapiens
+GCA_034096845.1	host_disease	syphilis
+GCA_034096845.1	isolation_source	swab
+GCA_034096845.1	lat_lon	missing
+GCA_034096885.1	strain	SF180909
+GCA_034096885.1	collected_by	NA
+GCA_034096885.1	collection_date	2019
+GCA_034096885.1	geo_loc_name	USA
+GCA_034096885.1	host	Homo sapiens
+GCA_034096885.1	host_disease	syphilis
+GCA_034096885.1	isolation_source	swab
+GCA_034096885.1	lat_lon	missing
+GCA_034096905.1	strain	G042
+GCA_034096905.1	collected_by	UW
+GCA_034096905.1	collection_date	2021
+GCA_034096905.1	geo_loc_name	USA
+GCA_034096905.1	host	Homo sapiens
+GCA_034096905.1	host_disease	syphilis
+GCA_034096905.1	isolation_source	patient sample
+GCA_034096905.1	lat_lon	NA
+GCA_034096905.1	sub_species	pallidum
+GCA_034096945.1	strain	SF687060
+GCA_034096945.1	collected_by	NA
+GCA_034096945.1	collection_date	2019
+GCA_034096945.1	geo_loc_name	USA
+GCA_034096945.1	host	Homo sapiens
+GCA_034096945.1	host_disease	syphilis
+GCA_034096945.1	isolation_source	swab
+GCA_034096945.1	lat_lon	missing
+GCA_034096975.1	strain	R085
+GCA_034096975.1	collected_by	UW
+GCA_034096975.1	collection_date	2023
+GCA_034096975.1	geo_loc_name	USA
+GCA_034096975.1	host	Homo sapiens
+GCA_034096975.1	host_disease	syphilis
+GCA_034096975.1	isolation_source	patient sample
+GCA_034096975.1	lat_lon	NA
+GCA_034096975.1	sub_species	pallidum
+GCA_034096995.1	strain	SF673478
+GCA_034096995.1	collected_by	NA
+GCA_034096995.1	collection_date	2017
+GCA_034096995.1	geo_loc_name	USA
+GCA_034096995.1	host	Homo sapiens
+GCA_034096995.1	host_disease	syphilis
+GCA_034096995.1	isolation_source	swab
+GCA_034096995.1	lat_lon	missing
+GCA_034097015.1	strain	SF016034
+GCA_034097015.1	collected_by	NA
+GCA_034097015.1	collection_date	2017
+GCA_034097015.1	geo_loc_name	USA
+GCA_034097015.1	host	Homo sapiens
+GCA_034097015.1	host_disease	syphilis
+GCA_034097015.1	isolation_source	swab
+GCA_034097015.1	lat_lon	missing
+GCA_034097075.1	strain	SEA0420RI-O
+GCA_034097075.1	collected_by	UW
+GCA_034097075.1	collection_date	2023
+GCA_034097075.1	geo_loc_name	USA: Seattle
+GCA_034097075.1	host	Homo sapiens
+GCA_034097075.1	host_disease	syphilis
+GCA_034097075.1	isolation_source	patient sample
+GCA_034097075.1	lat_lon	NA
+GCA_034097075.1	sub_species	pallidum
+GCA_034097095.1	strain	SEA0404BS-L
+GCA_034097095.1	collected_by	UW
+GCA_034097095.1	collection_date	2023
+GCA_034097095.1	geo_loc_name	USA: Seattle
+GCA_034097095.1	host	Homo sapiens
+GCA_034097095.1	host_disease	syphilis
+GCA_034097095.1	isolation_source	patient sample
+GCA_034097095.1	lat_lon	NA
+GCA_034097095.1	sub_species	pallidum
+GCA_034097115.1	strain	O003
+GCA_034097115.1	collected_by	UW
+GCA_034097115.1	collection_date	2022
+GCA_034097115.1	geo_loc_name	USA
+GCA_034097115.1	host	Homo sapiens
+GCA_034097115.1	host_disease	syphilis
+GCA_034097115.1	isolation_source	patient sample
+GCA_034097115.1	lat_lon	NA
+GCA_034097115.1	sub_species	pallidum
+GCA_034097275.1	strain	L068
+GCA_034097275.1	collected_by	UW
+GCA_034097275.1	collection_date	2021
+GCA_034097275.1	geo_loc_name	USA
+GCA_034097275.1	host	Homo sapiens
+GCA_034097275.1	host_disease	syphilis
+GCA_034097275.1	isolation_source	patient sample
+GCA_034097275.1	lat_lon	NA
+GCA_034097275.1	sub_species	pallidum
+GCA_034097295.1	strain	A010
+GCA_034097295.1	collected_by	UW
+GCA_034097295.1	collection_date	2019
+GCA_034097295.1	geo_loc_name	USA
+GCA_034097295.1	host	Homo sapiens
+GCA_034097295.1	host_disease	syphilis
+GCA_034097295.1	isolation_source	patient sample
+GCA_034097295.1	lat_lon	NA
+GCA_034097295.1	sub_species	pallidum
+GCA_034097315.1	strain	K013
+GCA_034097315.1	collected_by	UW
+GCA_034097315.1	collection_date	2021
+GCA_034097315.1	geo_loc_name	USA
+GCA_034097315.1	host	Homo sapiens
+GCA_034097315.1	host_disease	syphilis
+GCA_034097315.1	isolation_source	patient sample
+GCA_034097315.1	lat_lon	NA
+GCA_034097315.1	sub_species	pallidum
+GCA_034097335.1	strain	J083
+GCA_034097335.1	collected_by	UW
+GCA_034097335.1	collection_date	2021
+GCA_034097335.1	geo_loc_name	USA
+GCA_034097335.1	host	Homo sapiens
+GCA_034097335.1	host_disease	syphilis
+GCA_034097335.1	isolation_source	patient sample
+GCA_034097335.1	lat_lon	NA
+GCA_034097335.1	sub_species	pallidum
+GCA_034097355.1	strain	I047
+GCA_034097355.1	collected_by	UW
+GCA_034097355.1	collection_date	2021
+GCA_034097355.1	geo_loc_name	USA
+GCA_034097355.1	host	Homo sapiens
+GCA_034097355.1	host_disease	syphilis
+GCA_034097355.1	isolation_source	patient sample
+GCA_034097355.1	lat_lon	NA
+GCA_034097355.1	sub_species	pallidum
+GCA_037761415.1	strain	SS14-WT
+GCA_037761415.1	collected_by	UW
+GCA_037761415.1	collection_date	2022
+GCA_037761415.1	geo_loc_name	USA: Seattle
+GCA_037761415.1	host	Homo sapiens
+GCA_037761415.1	host_disease	syphilis
+GCA_037761415.1	isolation_source	in vitro
+GCA_037761415.1	lat_lon	not collected
+GCA_037762225.1	strain	SS14-GFP
+GCA_037762225.1	collected_by	UW
+GCA_037762225.1	collection_date	2022
+GCA_037762225.1	geo_loc_name	USA: Seattle
+GCA_037762225.1	host	Homo sapiens
+GCA_037762225.1	host_disease	syphilis
+GCA_037762225.1	isolation_source	in vitro
+GCA_037762225.1	lat_lon	not collected
+GCA_900291945.1	ENA first public	2020-02-22
+GCA_900291945.1	ENA last update	2018-02-23
+GCA_900291945.1	ENA-CHECKLIST	ERC000011
+GCA_900291945.1	External Id	SAMEA104640492
+GCA_900291945.1	INSDC center alias	URMITE
+GCA_900291945.1	INSDC center name	Unite de Recherche sur les Maladies Infectieuses et Tropicales Emergentes (URMITE) CNRS, Faculte de Medecine, Universite de la Mediterranee, Marseille, France
+GCA_900291945.1	INSDC first public	2020-02-22T04:04:38Z
+GCA_900291945.1	INSDC last update	2018-02-23T16:58:29Z
+GCA_900291945.1	INSDC status	public
+GCA_900291945.1	Submitter Id	PRJEB25146
+GCA_900291945.1	sample_name	PRJEB25146
+GCA_900291945.1	strain	A10
+GCA_900298905.1	ENA first public	2020-02-26
+GCA_900298905.1	ENA last update	2018-02-27
+GCA_900298905.1	ENA-CHECKLIST	ERC000011
+GCA_900298905.1	External Id	SAMEA104653446
+GCA_900298905.1	INSDC center alias	URMITE
+GCA_900298905.1	INSDC center name	Unite de Recherche sur les Maladies Infectieuses et Tropicales Emergentes (URMITE) CNRS, Faculte de Medecine, Universite de la Mediterranee, Marseille, France
+GCA_900298905.1	INSDC first public	2020-02-26T04:09:19Z
+GCA_900298905.1	INSDC last update	2018-02-27T10:53:21Z
+GCA_900298905.1	INSDC status	public
+GCA_900298905.1	Submitter Id	PRJEB25205
+GCA_900298905.1	sample_name	PRJEB25205
+GCA_900298905.1	strain	A12
+GCA_900298965.1	ENA first public	2020-02-26
+GCA_900298965.1	ENA last update	2018-02-27
+GCA_900298965.1	ENA-CHECKLIST	ERC000011
+GCA_900298965.1	External Id	SAMEA104653695
+GCA_900298965.1	INSDC center alias	URMITE
+GCA_900298965.1	INSDC center name	Unite de Recherche sur les Maladies Infectieuses et Tropicales Emergentes (URMITE) CNRS, Faculte de Medecine, Universite de la Mediterranee, Marseille, France
+GCA_900298965.1	INSDC first public	2020-02-26T04:09:19Z
+GCA_900298965.1	INSDC last update	2018-02-27T13:32:49Z
+GCA_900298965.1	INSDC status	public
+GCA_900298965.1	Submitter Id	PRJEB25218
+GCA_900298965.1	sample_name	PRJEB25218
+GCA_900298965.1	strain	BNK07
+GCA_900298975.1	ENA first public	2020-02-26
+GCA_900298975.1	ENA last update	2018-02-27
+GCA_900298975.1	ENA-CHECKLIST	ERC000011
+GCA_900298975.1	External Id	SAMEA104653696
+GCA_900298975.1	INSDC center alias	URMITE
+GCA_900298975.1	INSDC center name	Unite de Recherche sur les Maladies Infectieuses et Tropicales Emergentes (URMITE) CNRS, Faculte de Medecine, Universite de la Mediterranee, Marseille, France
+GCA_900298975.1	INSDC first public	2020-02-26T04:09:19Z
+GCA_900298975.1	INSDC last update	2018-02-27T14:03:41Z
+GCA_900298975.1	INSDC status	public
+GCA_900298975.1	Submitter Id	PRJEB25219
+GCA_900298975.1	sample_name	PRJEB25219
+GCA_900298975.1	strain	SNK05
+GCA_903234185.1	ArrayExpress-SPECIES	Treponema pallidum subsp. pertenue str. SamoaD
+GCA_903234185.1	ENA-CHECKLIST	ERC000011
+GCA_903234185.1	ENA-FIRST-PUBLIC	2019-10-16T10:08:50Z
+GCA_903234185.1	ENA-LAST-UPDATE	2020-05-14T12:14:45Z
+GCA_903234185.1	External Id	SAMEA5159628
+GCA_903234185.1	INSDC center name	SC
+GCA_903234185.1	INSDC first public	2019-10-16T10:08:50Z
+GCA_903234185.1	INSDC last update	2020-05-14T12:14:45Z
+GCA_903234185.1	INSDC status	public
+GCA_903234185.1	Submitter Id	27455_1#46
+GCA_903234185.1	anonymized name	3852162
+GCA_903234185.1	collection_date	2013
+GCA_903234185.1	common name	yaws treponeme
+GCA_903234185.1	geo_loc_name	Papua New Guinea
+GCA_903234185.1	host_health_state	disease:yaws
+GCA_903234185.1	isolation_source	skin lesion swab
+GCA_903234185.1	sample_name	27455_1#46
+GCA_903234185.1	scientific_name	Treponema pallidum subsp. pertenue
+GCA_903234185.1	host	Homo sapiens
+GCA_903234185.1	strain	R2-64919
+GCA_903234185.1	substrain	JG8
+GCA_903234185.1	subject id	UKTPA7632850
+GCA_903234185.1	supplier_name	R2-64919
+GCA_903234185.1	sub_species	pertenue
+GCA_903234195.1	ArrayExpress-SPECIES	Treponema pallidum subsp. pertenue str. SamoaD
+GCA_903234195.1	ENA-CHECKLIST	ERC000011
+GCA_903234195.1	ENA-FIRST-PUBLIC	2019-10-16T10:08:50Z
+GCA_903234195.1	ENA-LAST-UPDATE	2020-05-14T12:14:45Z
+GCA_903234195.1	External Id	SAMEA5159600
+GCA_903234195.1	INSDC center name	SC
+GCA_903234195.1	INSDC first public	2019-10-16T10:08:50Z
+GCA_903234195.1	INSDC last update	2020-05-14T12:14:45Z
+GCA_903234195.1	INSDC status	public
+GCA_903234195.1	Submitter Id	27455_2#39,29007_2#12
+GCA_903234195.1	anonymized name	3852203
+GCA_903234195.1	collection_date	2016
+GCA_903234195.1	common name	yaws treponeme
+GCA_903234195.1	geo_loc_name	Papua New Guinea
+GCA_903234195.1	host_health_state	disease:yaws
+GCA_903234195.1	isolation_source	skin lesion swab
+GCA_903234195.1	sample_name	27455_2#39,29007_2#12
+GCA_903234195.1	scientific_name	Treponema pallidum subsp. pertenue
+GCA_903234195.1	host	Homo sapiens
+GCA_903234195.1	strain	R7-PUT1-002
+GCA_903234195.1	substrain	JG8
+GCA_903234195.1	subject id	UKTPA7632891
+GCA_903234195.1	supplier_name	R7-PUT1-002
+GCA_903234195.1	sub_species	pertenue
+GCA_903234205.1	ArrayExpress-SPECIES	Treponema pallidum subsp. pertenue str. SamoaD
+GCA_903234205.1	ENA-CHECKLIST	ERC000011
+GCA_903234205.1	ENA-FIRST-PUBLIC	2019-10-16T10:08:53Z
+GCA_903234205.1	ENA-LAST-UPDATE	2020-05-14T12:14:45Z
+GCA_903234205.1	External Id	SAMEA5159599
+GCA_903234205.1	INSDC center name	SC
+GCA_903234205.1	INSDC first public	2019-10-16T10:08:53Z
+GCA_903234205.1	INSDC last update	2020-05-14T12:14:45Z
+GCA_903234205.1	INSDC status	public
+GCA_903234205.1	Submitter Id	27455_2#38,29007_2#11
+GCA_903234205.1	anonymized name	3852202
+GCA_903234205.1	collection_date	2016
+GCA_903234205.1	common name	yaws treponeme
+GCA_903234205.1	geo_loc_name	Papua New Guinea
+GCA_903234205.1	host_health_state	disease:yaws
+GCA_903234205.1	isolation_source	skin lesion swab
+GCA_903234205.1	sample_name	27455_2#38,29007_2#11
+GCA_903234205.1	scientific_name	Treponema pallidum subsp. pertenue
+GCA_903234205.1	host	Homo sapiens
+GCA_903234205.1	strain	R8-KOS-007
+GCA_903234205.1	substrain	JG8
+GCA_903234205.1	subject id	UKTPA7632890
+GCA_903234205.1	supplier_name	R8-KOS-007
+GCA_903234205.1	sub_species	pertenue
+GCA_903469575.1	ArrayExpress-SPECIES	Treponema pallidum subsp. pertenue str. SamoaD
+GCA_903469575.1	ENA-CHECKLIST	ERC000011
+GCA_903469575.1	ENA-FIRST-PUBLIC	2019-10-16T10:08:53Z
+GCA_903469575.1	ENA-LAST-UPDATE	2020-05-14T12:14:45Z
+GCA_903469575.1	External Id	SAMEA5159620
+GCA_903469575.1	INSDC center name	SC
+GCA_903469575.1	INSDC first public	2019-10-16T10:08:53Z
+GCA_903469575.1	INSDC last update	2020-05-14T12:14:45Z
+GCA_903469575.1	INSDC status	public
+GCA_903469575.1	Submitter Id	27455_1#38
+GCA_903469575.1	anonymized name	3852154
+GCA_903469575.1	collection_date	2016
+GCA_903469575.1	common name	yaws treponeme
+GCA_903469575.1	geo_loc_name	Papua New Guinea
+GCA_903469575.1	host_health_state	disease:yaws
+GCA_903469575.1	isolation_source	skin lesion swab
+GCA_903469575.1	sample_name	27455_1#38
+GCA_903469575.1	scientific_name	Treponema pallidum subsp. pertenue
+GCA_903469575.1	host	Homo sapiens
+GCA_903469575.1	strain	R7-KUN2-001
+GCA_903469575.1	substrain	SE7
+GCA_903469575.1	subject id	UKTPA7632842
+GCA_903469575.1	supplier_name	R7-KUN2-001
+GCA_903469575.1	sub_species	pertenue
+GCA_903469595.1	ArrayExpress-SPECIES	Treponema pallidum subsp. pertenue str. SamoaD
+GCA_903469595.1	ENA-CHECKLIST	ERC000011
+GCA_903469595.1	ENA-FIRST-PUBLIC	2019-10-16T10:08:50Z
+GCA_903469595.1	ENA-LAST-UPDATE	2020-05-14T12:14:45Z
+GCA_903469595.1	External Id	SAMEA5159627
+GCA_903469595.1	INSDC center name	SC
+GCA_903469595.1	INSDC first public	2019-10-16T10:08:50Z
+GCA_903469595.1	INSDC last update	2020-05-14T12:14:45Z
+GCA_903469595.1	INSDC status	public
+GCA_903469595.1	Submitter Id	27455_1#45,29007_2#4
+GCA_903469595.1	anonymized name	3852161
+GCA_903469595.1	collection_date	2014
+GCA_903469595.1	common name	yaws treponeme
+GCA_903469595.1	geo_loc_name	Papua New Guinea
+GCA_903469595.1	host_health_state	disease:yaws
+GCA_903469595.1	isolation_source	skin lesion swab
+GCA_903469595.1	sample_name	27455_1#45,29007_2#4
+GCA_903469595.1	scientific_name	Treponema pallidum subsp. pertenue
+GCA_903469595.1	host	Homo sapiens
+GCA_903469595.1	strain	R3-SAL-007
+GCA_903469595.1	substrain	TD6
+GCA_903469595.1	subject id	UKTPA7632849
+GCA_903469595.1	supplier_name	R3-SAL-007
+GCA_903469595.1	sub_species	pertenue
+GCA_903469605.1	ArrayExpress-SPECIES	Treponema pallidum subsp. pertenue str. SamoaD
+GCA_903469605.1	ENA-CHECKLIST	ERC000011
+GCA_903469605.1	ENA-FIRST-PUBLIC	2019-10-16T10:08:53Z
+GCA_903469605.1	ENA-LAST-UPDATE	2020-05-14T12:14:45Z
+GCA_903469605.1	External Id	SAMEA5159621
+GCA_903469605.1	INSDC center name	SC
+GCA_903469605.1	INSDC first public	2019-10-16T10:08:53Z
+GCA_903469605.1	INSDC last update	2020-05-14T12:14:45Z
+GCA_903469605.1	INSDC status	public
+GCA_903469605.1	Submitter Id	27455_1#39
+GCA_903469605.1	anonymized name	3852155
+GCA_903469605.1	collection_date	2013
+GCA_903469605.1	common name	yaws treponeme
+GCA_903469605.1	geo_loc_name	Papua New Guinea
+GCA_903469605.1	host_health_state	disease:yaws
+GCA_903469605.1	isolation_source	skin lesion swab
+GCA_903469605.1	sample_name	27455_1#39
+GCA_903469605.1	scientific_name	Treponema pallidum subsp. pertenue
+GCA_903469605.1	host	Homo sapiens
+GCA_903469605.1	strain	R2-106190
+GCA_903469605.1	substrain	JG8
+GCA_903469605.1	subject id	UKTPA7632843
+GCA_903469605.1	supplier_name	R2-106190
+GCA_903469605.1	sub_species	pertenue
